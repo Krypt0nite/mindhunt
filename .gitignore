@@ -1,0 +1,14 @@
+bin/
+web/out/
+web/.next/
+web/node_modules/
+tools/e2e/node_modules/
+tools/e2e/shots/
+*.tsbuildinfo
+.env*
+__pycache__/
+worker/node_modules/
+worker/public/
+worker/build/
+worker/.wrangler/
+worker/.dev.vars

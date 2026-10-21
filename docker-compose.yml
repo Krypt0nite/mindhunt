@@ -1,0 +1,28 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: mindhunt
+      POSTGRES_PASSWORD: mindhunt
+      POSTGRES_DB: mindhunt
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U mindhunt"]
+      interval: 2s
+      retries: 20
+
+  app:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      DATABASE_URL: postgres://mindhunt:mindhunt@db:5432/mindhunt?sslmode=disable
+      APP_NAME: MindHunt
+      DAILY_KEY: change-me-to-a-long-random-string
+    depends_on:
+      db:
+        condition: service_healthy
+
+volumes:
+  pgdata:

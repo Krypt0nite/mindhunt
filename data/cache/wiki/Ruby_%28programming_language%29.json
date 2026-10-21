@@ -1,0 +1,31 @@
+{
+ "asked": "Ruby (programming language)",
+ "title": "Ruby (programming language)",
+ "missing": false,
+ "disambiguation": false,
+ "description": "General-purpose programming language",
+ "extract": "Ruby is a general-purpose programming language designed with an emphasis on programming productivity and simplicity. In Ruby, everything is an object, including primitive data types. Development of the language began in the mid-1990s by Yukihiro \"Matz\" Matsumoto in Japan.\nRuby is interpreted, high-level, and dynamically typed; its interpreter uses garbage collection and just-in-time compilation. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. According to the creator, Ruby was influenced by Perl, Smalltalk, Eiffel, Ada, BASIC, and Lisp.",
+ "revid": 1372670122,
+ "infobox": {
+  "logo": "Ruby logo.svg",
+  "paradigm": "Multi-paradigm: functional, imperative, object-oriented, reflective",
+  "designer": "Yukihiro Matsumoto",
+  "developer": "Yukihiro Matsumoto, et al.",
+  "released": "{{start date and age|1995}}",
+  "latest release version": "{{wikidata|property|edit|Q161053|P348}}",
+  "latest release date": "{{start date and age|{{wikidata|qualifier|Q161053|P348|P577}}}}",
+  "typing": "Duck, dynamic, strong",
+  "scope": "Lexical, sometimes dynamic",
+  "wikibooks": "Ruby Programming",
+  "programming language": "C",
+  "operating system": "Cross-platform",
+  "license": "Ruby",
+  "file ext": ".rb, .ru",
+  "website": "{{URL|https://www.ruby-lang.org/en/|ruby-lang.org}}",
+  "implementations": "Ruby MRI, TruffleRuby, YARV, Rubinius, JRuby, RubyMotion, mruby",
+  "influenced by": "Ada, BASIC, C++, CLU, Dylan,<br/>Eiffel, Lisp, Lua, Perl, Python, Smalltalk",
+  "influenced": "Clojure, CoffeeScript, Crystal, D, Elixir, Groovy, Julia, Mirah, Nu, Rust, Swift"
+ },
+ "url": "https://en.wikipedia.org/wiki/Ruby_%28programming_language%29",
+ "fetched": "2026-10-18"
+}

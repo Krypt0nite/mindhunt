@@ -1,0 +1,32 @@
+{
+ "asked": "Scala (programming language)",
+ "title": "Scala (programming language)",
+ "missing": false,
+ "disambiguation": false,
+ "description": "General-purpose programming language",
+ "extract": "Scala ( SKAH-lah) is a strongly statically typed high-level general-purpose programming language that supports both object-oriented programming and functional programming. Designed to be concise, many of Scala's design decisions are intended to address criticism of Java.\nScala source code can be compiled to JVM bytecode and run on a Java virtual machine (JVM). Scala can also be transpiled to JavaScript to run in a browser, or compiled directly to a native executable using Clang. When running on the JVM, Scala provides language interoperability with Java so that libraries written in either language may be referenced directly in Scala or Java code. Like Java, Scala is object-oriented, and uses a syntax termed curly-brace which is similar to the language C. Scala 3 added an option to use the off-side rule (indenting) to structure blocks, and its use is advised. Martin Odersky has said that this turned out to be the most productive change introduced in Scala 3.\nUnlike Java, Scala has many features of functional programming languages (like Scheme, Standard ML, and Haskell), including currying, immutability, lazy evaluation, and pattern matching. It also has an advanced type system supporting algebraic data types, covariance and contravariance, higher-order types (but not higher-rank types), anonymous types, operator overloading, optional parameters, named parameters, raw strings, and an experimental exception-only version of algebraic effects that can be seen as a more powerful version of Java's checked exceptions.\nThe name Scala is a portmanteau of scalable and language, signifying that it is designed to grow with the demands of its users.",
+ "revid": 1380817379,
+ "infobox": {
+  "name": "Scala",
+  "logo": "Scala-full-color.svg",
+  "logo size": "180px",
+  "paradigm": "Multi-paradigm: concurrent, functional, imperative, object-oriented",
+  "family": "JVM-hosted",
+  "designer": "Martin Odersky",
+  "developer": "École Polytechnique Fédérale de Lausanne: Programming Methods Laboratory",
+  "typing": "Inferred, static, strong, structural",
+  "platform": "Java virtual machine (JVM)<br/>JavaScript ([https://scala-js.org Scala.js])<br/>LLVM ([http://scala-native.org Scala Native]) (experimental)",
+  "license": "Apache 2.0",
+  "website": "{{URL|www.scala-lang.org}}",
+  "released": "{{Start date and age|2004|01|20|df=yes}}",
+  "latest release version": "{{wikidata|property|edit|reference|P548=Q2804309|P348}}",
+  "latest release date": "{{start date and age|{{wikidata|qualifier|single|P548=Q2804309|P348|P577}}}}",
+  "programming language": "Scala",
+  "file ext": ".scala, .sc",
+  "influenced by": "Common Lisp, Eiffel, Erlang, Haskell, Java, OCaml, Oz, Pizza, Scheme, Smalltalk, Standard ML",
+  "influenced": "Ceylon, Chisel, Fantom, F#, C#, Kotlin, Lasso, Red, Flix",
+  "wikibooks": "Scala"
+ },
+ "url": "https://en.wikipedia.org/wiki/Scala_%28programming_language%29",
+ "fetched": "2026-10-18"
+}

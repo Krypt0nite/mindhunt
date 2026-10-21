@@ -1,0 +1,833 @@
+{
+  "id": "historical-figures",
+  "version": 2,
+  "as_of": "2026-10-18",
+  "category": "History",
+  "title": "Historical Figures",
+  "noun": "historical figure",
+  "description": "Rulers, reformers, explorers and freedom fighters from Ashoka to Mandela.",
+  "draft": false,
+  "notes": "Hand-entered; verify every row before a public release.",
+  "attributes": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "enum",
+      "values": [
+        "South Asia",
+        "East Asia",
+        "Middle East",
+        "Europe",
+        "Africa",
+        "Americas"
+      ],
+      "help": "Where they lived and did their main work (Mother Teresa counts as South Asia; explorers count where they sailed from).",
+      "templates": {
+        "eq": "Did they make their name in {value}?"
+      },
+      "aliases": {
+        "South Asia": [
+          "india",
+          "indian",
+          "south asian"
+        ],
+        "East Asia": [
+          "china",
+          "chinese",
+          "east asian"
+        ],
+        "Europe": [
+          "european"
+        ],
+        "Africa": [
+          "african"
+        ],
+        "Americas": [
+          "america",
+          "american"
+        ],
+        "Middle East": [
+          "middle eastern"
+        ]
+      }
+    },
+    {
+      "key": "born",
+      "label": "Born",
+      "type": "enum",
+      "values": [
+        "Before 500 CE",
+        "500 to 1499",
+        "1500 to 1799",
+        "1800s",
+        "1900s"
+      ],
+      "templates": {
+        "eq:Before 500 CE": "Were they born before 500 CE?",
+        "eq:500 to 1499": "Were they born between 500 and 1499?",
+        "eq:1500 to 1799": "Were they born between 1500 and 1799?",
+        "eq:1800s": "Were they born in the 1800s?",
+        "eq:1900s": "Were they born in the 1900s?"
+      },
+      "aliases": {
+        "Before 500 CE": [
+          "ancient",
+          "bce",
+          "bc"
+        ],
+        "500 to 1499": [
+          "medieval",
+          "middle ages"
+        ]
+      }
+    },
+    {
+      "key": "role",
+      "label": "Best known as",
+      "type": "set",
+      "help": "What they are best known for, following Wikipedia's description of them. Someone can be best known for more than one thing.",
+      "values": [
+        "Ruler",
+        "Military leader",
+        "Political leader",
+        "Revolutionary or freedom fighter",
+        "Religious figure",
+        "Philosopher",
+        "Reformer",
+        "Explorer",
+        "Writer"
+      ],
+      "templates": {
+        "contains:Ruler": "Are they best known as a ruler (king, queen or emperor)?",
+        "contains:Military leader": "Are they best known as a military leader?",
+        "contains:Political leader": "Are they best known as a political leader?",
+        "contains:Revolutionary or freedom fighter": "Are they best known as a revolutionary or freedom fighter?",
+        "contains:Religious figure": "Are they best known as a religious figure?",
+        "contains:Philosopher": "Are they best known as a philosopher?",
+        "contains:Reformer": "Are they best known as a social reformer?",
+        "contains:Explorer": "Are they best known as an explorer?",
+        "contains:Writer": "Are they best known as a writer?"
+      },
+      "aliases": {
+        "Ruler": [
+          "king",
+          "queen",
+          "emperor",
+          "empress",
+          "monarch",
+          "sultan"
+        ],
+        "Military leader": [
+          "general",
+          "warrior",
+          "conqueror"
+        ],
+        "Political leader": [
+          "prime minister",
+          "president",
+          "politician"
+        ],
+        "Revolutionary or freedom fighter": [
+          "freedom fighter",
+          "revolutionary"
+        ],
+        "Religious figure": [
+          "religious",
+          "saint",
+          "spiritual"
+        ],
+        "Explorer": [
+          "sailor",
+          "navigator"
+        ],
+        "Writer": [
+          "author",
+          "poet"
+        ],
+        "Reformer": [
+          "reformist",
+          "activist"
+        ]
+      }
+    },
+    {
+      "key": "woman",
+      "label": "Woman",
+      "type": "bool",
+      "templates": {
+        "is": "Is this person a woman?",
+        "is_false": "Is this person a man?"
+      }
+    },
+    {
+      "key": "nobel_peace",
+      "label": "Nobel Peace Prize",
+      "type": "bool",
+      "templates": {
+        "is": "Did they win the Nobel Peace Prize?",
+        "is_false": "Did they never win the Nobel Peace Prize?"
+      }
+    },
+    {
+      "key": "letters",
+      "label": "Name",
+      "type": "string",
+      "help": "Ask about the first 1 to 3 letters (spaces and hyphens ignored).",
+      "templates": {
+        "starts_with": "Does their name start with “{value}”?"
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c_4539dc",
+      "name": "Gautama Buddha",
+      "attrs": {
+        "region": "South Asia",
+        "born": "Before 500 CE",
+        "role": [
+          "Religious figure",
+          "Philosopher"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Gautama Buddha"
+      }
+    },
+    {
+      "id": "c_933aa4",
+      "name": "Chandragupta Maurya",
+      "attrs": {
+        "region": "South Asia",
+        "born": "Before 500 CE",
+        "role": [
+          "Ruler",
+          "Military leader"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Chandragupta Maurya"
+      }
+    },
+    {
+      "id": "c_f42a33",
+      "name": "Ashoka",
+      "attrs": {
+        "region": "South Asia",
+        "born": "Before 500 CE",
+        "role": [
+          "Ruler"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Ashoka"
+      }
+    },
+    {
+      "id": "c_e27bb0",
+      "name": "Guru Nanak",
+      "attrs": {
+        "region": "South Asia",
+        "born": "500 to 1499",
+        "role": [
+          "Religious figure"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Guru Nanak"
+      }
+    },
+    {
+      "id": "c_d5b09c",
+      "name": "Akbar",
+      "attrs": {
+        "region": "South Asia",
+        "born": "1500 to 1799",
+        "role": [
+          "Ruler"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Akbar"
+      }
+    },
+    {
+      "id": "c_c86196",
+      "name": "Shivaji",
+      "attrs": {
+        "region": "South Asia",
+        "born": "1500 to 1799",
+        "role": [
+          "Ruler",
+          "Military leader"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Shivaji"
+      }
+    },
+    {
+      "id": "c_3f84c7",
+      "name": "Tipu Sultan",
+      "attrs": {
+        "region": "South Asia",
+        "born": "1500 to 1799",
+        "role": [
+          "Ruler",
+          "Military leader"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Tipu Sultan"
+      }
+    },
+    {
+      "id": "c_597717",
+      "name": "Rani Lakshmibai",
+      "attrs": {
+        "region": "South Asia",
+        "born": "1800s",
+        "role": [
+          "Ruler",
+          "Military leader",
+          "Revolutionary or freedom fighter"
+        ],
+        "woman": true,
+        "nobel_peace": false,
+        "letters": "Rani Lakshmibai"
+      }
+    },
+    {
+      "id": "c_c47662",
+      "name": "Rabindranath Tagore",
+      "attrs": {
+        "region": "South Asia",
+        "born": "1800s",
+        "role": [
+          "Writer",
+          "Philosopher",
+          "Reformer"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Rabindranath Tagore"
+      }
+    },
+    {
+      "id": "c_8a219e",
+      "name": "Swami Vivekananda",
+      "attrs": {
+        "region": "South Asia",
+        "born": "1800s",
+        "role": [
+          "Religious figure",
+          "Philosopher",
+          "Reformer"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Swami Vivekananda"
+      }
+    },
+    {
+      "id": "c_823331",
+      "name": "Mahatma Gandhi",
+      "attrs": {
+        "region": "South Asia",
+        "born": "1800s",
+        "role": [
+          "Political leader",
+          "Revolutionary or freedom fighter",
+          "Reformer"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Mahatma Gandhi"
+      }
+    },
+    {
+      "id": "c_906cbc",
+      "name": "Jawaharlal Nehru",
+      "attrs": {
+        "region": "South Asia",
+        "born": "1800s",
+        "role": [
+          "Political leader",
+          "Revolutionary or freedom fighter"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Jawaharlal Nehru"
+      }
+    },
+    {
+      "id": "c_398d68",
+      "name": "B. R. Ambedkar",
+      "attrs": {
+        "region": "South Asia",
+        "born": "1800s",
+        "role": [
+          "Reformer",
+          "Political leader"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "B. R. Ambedkar"
+      }
+    },
+    {
+      "id": "c_336819",
+      "name": "Subhas Chandra Bose",
+      "attrs": {
+        "region": "South Asia",
+        "born": "1800s",
+        "role": [
+          "Revolutionary or freedom fighter",
+          "Military leader",
+          "Political leader"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Subhas Chandra Bose"
+      }
+    },
+    {
+      "id": "c_f51dbf",
+      "name": "Bhagat Singh",
+      "attrs": {
+        "region": "South Asia",
+        "born": "1900s",
+        "role": [
+          "Revolutionary or freedom fighter"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Bhagat Singh"
+      }
+    },
+    {
+      "id": "c_7b5107",
+      "name": "Mother Teresa",
+      "attrs": {
+        "region": "South Asia",
+        "born": "1900s",
+        "role": [
+          "Religious figure"
+        ],
+        "woman": true,
+        "nobel_peace": true,
+        "letters": "Mother Teresa"
+      }
+    },
+    {
+      "id": "c_aea3ac",
+      "name": "Indira Gandhi",
+      "attrs": {
+        "region": "South Asia",
+        "born": "1900s",
+        "role": [
+          "Political leader"
+        ],
+        "woman": true,
+        "nobel_peace": false,
+        "letters": "Indira Gandhi"
+      }
+    },
+    {
+      "id": "c_7f8e21",
+      "name": "Confucius",
+      "attrs": {
+        "region": "East Asia",
+        "born": "Before 500 CE",
+        "role": [
+          "Philosopher"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Confucius"
+      }
+    },
+    {
+      "id": "c_83966e",
+      "name": "Genghis Khan",
+      "attrs": {
+        "region": "East Asia",
+        "born": "500 to 1499",
+        "role": [
+          "Ruler",
+          "Military leader"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Genghis Khan"
+      }
+    },
+    {
+      "id": "c_5ca893",
+      "name": "Sun Yat-sen",
+      "attrs": {
+        "region": "East Asia",
+        "born": "1800s",
+        "role": [
+          "Political leader",
+          "Revolutionary or freedom fighter"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Sun Yat-sen"
+      }
+    },
+    {
+      "id": "c_ab3ffd",
+      "name": "Mao Zedong",
+      "attrs": {
+        "region": "East Asia",
+        "born": "1800s",
+        "role": [
+          "Political leader",
+          "Military leader",
+          "Revolutionary or freedom fighter"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Mao Zedong"
+      }
+    },
+    {
+      "id": "c_8b6d40",
+      "name": "Hammurabi",
+      "attrs": {
+        "region": "Middle East",
+        "born": "Before 500 CE",
+        "role": [
+          "Ruler"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Hammurabi"
+      }
+    },
+    {
+      "id": "c_91723e",
+      "name": "Saladin",
+      "attrs": {
+        "region": "Middle East",
+        "born": "500 to 1499",
+        "role": [
+          "Ruler",
+          "Military leader"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Saladin"
+      }
+    },
+    {
+      "id": "c_2fc17d",
+      "name": "Socrates",
+      "attrs": {
+        "region": "Europe",
+        "born": "Before 500 CE",
+        "role": [
+          "Philosopher"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Socrates"
+      }
+    },
+    {
+      "id": "c_c9dff4",
+      "name": "Alexander the Great",
+      "attrs": {
+        "region": "Europe",
+        "born": "Before 500 CE",
+        "role": [
+          "Ruler",
+          "Military leader"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Alexander the Great"
+      }
+    },
+    {
+      "id": "c_ba67e7",
+      "name": "Julius Caesar",
+      "attrs": {
+        "region": "Europe",
+        "born": "Before 500 CE",
+        "role": [
+          "Ruler",
+          "Military leader"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Julius Caesar"
+      }
+    },
+    {
+      "id": "c_f4be6b",
+      "name": "Marco Polo",
+      "attrs": {
+        "region": "Europe",
+        "born": "500 to 1499",
+        "role": [
+          "Explorer"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Marco Polo"
+      }
+    },
+    {
+      "id": "c_db5811",
+      "name": "Joan of Arc",
+      "attrs": {
+        "region": "Europe",
+        "born": "500 to 1499",
+        "role": [
+          "Military leader",
+          "Religious figure"
+        ],
+        "woman": true,
+        "nobel_peace": false,
+        "letters": "Joan of Arc"
+      }
+    },
+    {
+      "id": "c_296ad3",
+      "name": "Christopher Columbus",
+      "attrs": {
+        "region": "Europe",
+        "born": "500 to 1499",
+        "role": [
+          "Explorer"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Christopher Columbus"
+      }
+    },
+    {
+      "id": "c_78cadf",
+      "name": "Vasco da Gama",
+      "attrs": {
+        "region": "Europe",
+        "born": "500 to 1499",
+        "role": [
+          "Explorer"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Vasco da Gama"
+      }
+    },
+    {
+      "id": "c_1f01ae",
+      "name": "Martin Luther",
+      "attrs": {
+        "region": "Europe",
+        "born": "500 to 1499",
+        "role": [
+          "Religious figure",
+          "Reformer"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Martin Luther"
+      }
+    },
+    {
+      "id": "c_f3dce6",
+      "name": "Elizabeth I",
+      "attrs": {
+        "region": "Europe",
+        "born": "1500 to 1799",
+        "role": [
+          "Ruler"
+        ],
+        "woman": true,
+        "nobel_peace": false,
+        "letters": "Elizabeth I"
+      }
+    },
+    {
+      "id": "c_481ffe",
+      "name": "Napoleon Bonaparte",
+      "attrs": {
+        "region": "Europe",
+        "born": "1500 to 1799",
+        "role": [
+          "Ruler",
+          "Military leader"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Napoleon Bonaparte"
+      }
+    },
+    {
+      "id": "c_2c5338",
+      "name": "Queen Victoria",
+      "attrs": {
+        "region": "Europe",
+        "born": "1800s",
+        "role": [
+          "Ruler"
+        ],
+        "woman": true,
+        "nobel_peace": false,
+        "letters": "Queen Victoria"
+      }
+    },
+    {
+      "id": "c_bda062",
+      "name": "Karl Marx",
+      "attrs": {
+        "region": "Europe",
+        "born": "1800s",
+        "role": [
+          "Philosopher",
+          "Writer"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Karl Marx"
+      }
+    },
+    {
+      "id": "c_02ee85",
+      "name": "Winston Churchill",
+      "attrs": {
+        "region": "Europe",
+        "born": "1800s",
+        "role": [
+          "Political leader",
+          "Writer"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Winston Churchill"
+      }
+    },
+    {
+      "id": "c_d0bc5c",
+      "name": "Cleopatra",
+      "attrs": {
+        "region": "Africa",
+        "born": "Before 500 CE",
+        "role": [
+          "Ruler"
+        ],
+        "woman": true,
+        "nobel_peace": false,
+        "letters": "Cleopatra"
+      }
+    },
+    {
+      "id": "c_8149cd",
+      "name": "Mansa Musa",
+      "attrs": {
+        "region": "Africa",
+        "born": "500 to 1499",
+        "role": [
+          "Ruler"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Mansa Musa"
+      }
+    },
+    {
+      "id": "c_227778",
+      "name": "Kwame Nkrumah",
+      "attrs": {
+        "region": "Africa",
+        "born": "1900s",
+        "role": [
+          "Political leader",
+          "Revolutionary or freedom fighter"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Kwame Nkrumah"
+      }
+    },
+    {
+      "id": "c_45b894",
+      "name": "Nelson Mandela",
+      "attrs": {
+        "region": "Africa",
+        "born": "1900s",
+        "role": [
+          "Political leader",
+          "Revolutionary or freedom fighter"
+        ],
+        "woman": false,
+        "nobel_peace": true,
+        "letters": "Nelson Mandela"
+      }
+    },
+    {
+      "id": "c_431ef1",
+      "name": "George Washington",
+      "attrs": {
+        "region": "Americas",
+        "born": "1500 to 1799",
+        "role": [
+          "Political leader",
+          "Military leader"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "George Washington"
+      }
+    },
+    {
+      "id": "c_0a21ee",
+      "name": "Simón Bolívar",
+      "attrs": {
+        "region": "Americas",
+        "born": "1500 to 1799",
+        "role": [
+          "Military leader",
+          "Political leader",
+          "Revolutionary or freedom fighter"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Simón Bolívar"
+      }
+    },
+    {
+      "id": "c_144b04",
+      "name": "Abraham Lincoln",
+      "attrs": {
+        "region": "Americas",
+        "born": "1800s",
+        "role": [
+          "Political leader"
+        ],
+        "woman": false,
+        "nobel_peace": false,
+        "letters": "Abraham Lincoln"
+      }
+    },
+    {
+      "id": "c_33d768",
+      "name": "Martin Luther King Jr.",
+      "attrs": {
+        "region": "Americas",
+        "born": "1900s",
+        "role": [
+          "Reformer",
+          "Religious figure"
+        ],
+        "woman": false,
+        "nobel_peace": true,
+        "letters": "Martin Luther King Jr."
+      }
+    }
+  ]
+}

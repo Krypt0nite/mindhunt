@@ -1,0 +1,29 @@
+{
+ "asked": "Galileo Galilei",
+ "title": "Galileo Galilei",
+ "missing": false,
+ "disambiguation": false,
+ "description": "Italian physicist and astronomer (1564–1642)",
+ "extract": "Galileo di Vincenzo Bonaiuti de' Galilei (15 February 1564 – 8 January 1642), commonly referred to as Galileo Galilei or mononymously as Galileo, was an Italian astronomer, physicist, engineer and  polymath. He was born in Pisa, then part of the Duchy of Florence. Galileo has been called the father of observational astronomy, classical physics, the scientific method, and modern science.\nHe studied speed and velocity, gravity and free fall, the principle of relativity, inertia, projectile motion, and also worked in applied science and technology, describing the properties of the pendulum and \"hydrostatic balances\". He was one of the earliest developers of the thermoscope and the inventor of various military compasses. With an improved telescope he built, he observed the stars of the Milky Way, the phases of Venus, the four largest satellites of Jupiter, Saturn's rings, lunar craters, and sunspots. He also built an early microscope.\nGalileo's championing of Copernican heliocentrism was met with opposition from within the Catholic Church and from some astronomers. The matter was investigated by the Roman Inquisition in 1615, which concluded that his opinions contradicted accepted Biblical interpretations.\nGalileo defended his views in Dialogo sopra i due massimi sistemi del mondo\n(Dialogue Concerning the Two Chief World Systems, 1632), which appeared to dispute and satirize Pope Urban VIII, thus alienating both the Pope and the Jesuits, who had both strongly supported Galileo until this point. He was tried by the Inquisition, found \"vehemently suspect of heresy\", and forced to recant. He spent the rest of his life under house arrest. During this time, he wrote  Discorsi e Dimostrazioni Matematiche, intorno a due nuove scienze (Discourses and Mathematical Demonstrations Relating to Two New Sciences, 1638) primarily about kinematics and the strength of materials.",
+ "revid": 1380533313,
+ "infobox": {
+  "birth_name": "Galileo di Vincenzo Bonaiuti de' Galilei",
+  "image": "Galileo Galilei (1564-1642) RMG BHC2700.tiff",
+  "caption": "Portrait {{c.|1640}}",
+  "birth_date": "{{birth date|1564|02|15|df=y}}{{sfn |Drake |1978 |p=1}}",
+  "birth_place": "Pisa, Duchy of Florence",
+  "death_date": "{{death date and age|1642|01|08|1564|02|15|df=y}}",
+  "death_place": "Arcetri, Grand Duchy of Tuscany",
+  "field": "{{hlist|Astronomy|physics|engineering|natural philosophy|mathematics}}",
+  "workplaces": "{{ubl|University of Pisa|University of Padua}}",
+  "patrons": "{{plainlist|",
+  "education": "University of Pisa",
+  "academic_advisors": "Ostilio Ricci da Fermo",
+  "notable_students": "{{ubl|Benedetto Castelli|Mario Guiducci|Vincenzo Viviani}}",
+  "known_for": "{{hlist|Analytical dynamics|heliocentrism|kinematics|observational astronomy}}",
+  "father": "Vincenzo Galilei",
+  "signature": "130px"
+ },
+ "url": "https://en.wikipedia.org/wiki/Galileo_Galilei",
+ "fetched": "2026-10-18"
+}

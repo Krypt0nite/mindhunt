@@ -1,0 +1,192 @@
+@import "tailwindcss";
+@import "@fontsource-variable/bricolage-grotesque";
+@import "@fontsource/ibm-plex-sans/400.css";
+@import "@fontsource/ibm-plex-sans/500.css";
+@import "@fontsource/ibm-plex-sans/600.css";
+
+/* Scorebook palette: cool ruled paper, fountain-pen ink, one highlighter. */
+@theme {
+  --color-paper: #eef1f4;
+  --color-sheet: #f8fafb;
+  --color-ink: #1b2a4a;
+  --color-ink-soft: #4a5873;
+  --color-rule: #b9c4d3;
+  --color-rule-soft: #d8dfe8;
+  --color-yes: #1f7a4d;
+  --color-no: #c2362f;
+  --color-unk: #8a94a6;
+  --color-hi: #f2b705;
+  --color-hi-soft: #fbe7a1;
+
+  --font-display: "Bricolage Grotesque Variable", ui-sans-serif, system-ui, sans-serif;
+  --font-body: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+
+  --radius-tile: 6px;
+  --radius-panel: 14px;
+}
+
+@layer base {
+  html {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.5;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    min-height: 100dvh;
+    /* faint scorebook ruling */
+    background-image: repeating-linear-gradient(
+      to bottom,
+      transparent 0 31px,
+      color-mix(in srgb, var(--color-rule) 28%, transparent) 31px 32px
+    );
+  }
+  h1, h2, h3 {
+    font-family: var(--font-display);
+    letter-spacing: -0.015em;
+    line-height: 1.1;
+  }
+  :focus-visible {
+    outline: 3px solid var(--color-hi);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+  button:disabled {
+    cursor: not-allowed;
+  }
+  .tabular {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+@layer components {
+  .panel {
+    background: var(--color-sheet);
+    border: 1px solid var(--color-rule);
+    border-radius: var(--radius-panel);
+  }
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    min-height: 2.75rem;
+    padding: 0 1.1rem;
+    white-space: nowrap;
+    border-radius: 999px;
+    font-weight: 600;
+    border: 1.5px solid var(--color-ink);
+    background: var(--color-sheet);
+    color: var(--color-ink);
+    transition: background-color 120ms, transform 80ms;
+  }
+  .btn:hover:not(:disabled) {
+    background: var(--color-rule-soft);
+  }
+  .btn:active:not(:disabled) {
+    transform: translateY(1px);
+  }
+  .btn:disabled {
+    opacity: 0.45;
+  }
+  .btn-ink {
+    background: var(--color-ink);
+    color: var(--color-sheet);
+  }
+  .btn-ink:hover:not(:disabled) {
+    background: #2a3d66;
+  }
+  .btn-quiet {
+    border-color: transparent;
+    background: transparent;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    font-weight: 500;
+    padding: 0 0.5rem;
+  }
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.5rem;
+    padding: 0 0.85rem;
+    border-radius: 999px;
+    border: 1px solid var(--color-rule);
+    background: var(--color-sheet);
+    font-weight: 500;
+    font-size: 0.95rem;
+  }
+  .chip[aria-pressed="true"] {
+    background: var(--color-ink);
+    color: var(--color-sheet);
+    border-color: var(--color-ink);
+  }
+  .field {
+    width: 100%;
+    min-height: 2.75rem;
+    padding: 0 0.9rem;
+    border-radius: 10px;
+    border: 1.5px solid var(--color-rule);
+    background: var(--color-sheet);
+    color: var(--color-ink);
+  }
+  .field:focus {
+    border-color: var(--color-ink);
+    outline: none;
+  }
+  /* Ball-by-ball move marks, like a scorer's over. */
+  .ball {
+    display: inline-grid;
+    place-items: center;
+    width: 1.6rem;
+    height: 1.6rem;
+    border-radius: 999px;
+    border: 1.5px solid var(--color-ink);
+    font-size: 0.72rem;
+    font-weight: 600;
+    flex: none;
+  }
+  .ball-yes { background: var(--color-yes); border-color: var(--color-yes); color: white; }
+  .ball-no { background: var(--color-no); border-color: var(--color-no); color: white; }
+  .ball-unknown { background: transparent; border-style: dashed; border-color: var(--color-unk); color: var(--color-unk); }
+  .ball-wrong { background: var(--color-sheet); border-color: var(--color-no); color: var(--color-no); }
+  .ball-correct { background: var(--color-hi); border-color: var(--color-ink); }
+  .ball-timeout, .ball-give_up { background: var(--color-rule-soft); border-color: var(--color-unk); color: var(--color-ink-soft); }
+}
+
+/* The board: remaining names carry a highlighter swipe; eliminated ones are struck in ink. */
+.tile {
+  position: relative;
+  text-align: left;
+  padding: 0.45rem 0.6rem;
+  border-radius: var(--radius-tile);
+  border: 1px solid var(--color-rule-soft);
+  background: var(--color-sheet);
+  font-size: 0.9rem;
+  line-height: 1.25;
+  transition: opacity 250ms, background-color 250ms;
+}
+.tile[data-live="true"] {
+  background: linear-gradient(transparent 12%, var(--color-hi-soft) 12% 88%, transparent 88%);
+  border-color: color-mix(in srgb, var(--color-hi) 60%, var(--color-rule));
+}
+.tile[data-live="false"] {
+  color: var(--color-unk);
+}
+.tile[data-live="false"] .tile-name {
+  text-decoration: line-through;
+  text-decoration-color: var(--color-ink);
+  text-decoration-thickness: 2px;
+}
+.tile[data-mine="true"] {
+  outline: 2px dashed var(--color-ink-soft);
+  outline-offset: -3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    transition-duration: 0ms !important;
+    animation-duration: 0ms !important;
+  }
+}

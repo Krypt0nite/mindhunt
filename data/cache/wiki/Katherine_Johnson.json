@@ -1,0 +1,31 @@
+{
+ "asked": "Katherine Johnson",
+ "title": "Katherine Johnson",
+ "missing": false,
+ "disambiguation": false,
+ "description": "American mathematician (1918–2020)",
+ "extract": "Creola Katherine Johnson (née Coleman, previously Goble; August 26, 1918 – February 24, 2020) was an American mathematician and human computer whose calculations of orbital mechanics as a NASA employee were critical to the success of the first and subsequent U.S. crewed spaceflights. During her 33-year career at NASA and its predecessor, the National Advisory Committee for Aeronautics, she earned a reputation for mastering complex manual calculations and helped pioneer the use of computers to perform tasks previously requiring humans. The space agency noted her \"historical role as one of the first African-American women to work as a NASA scientist\".\nJohnson's work included calculating trajectories, launch windows, and emergency return paths for Project Mercury spaceflights, including those for astronauts Alan Shepard (the first American in space) and John Glenn (the first American in orbit), and rendezvous paths for the Apollo Lunar Module and command module on flights to the Moon. Her calculations were also essential to the beginning of the Space Shuttle program, and she worked on plans for a human mission to Mars.\nIn 2015 President Barack Obama awarded Johnson the Presidential Medal of Freedom. In 2016, she received the Silver Snoopy Award from NASA astronaut Leland D. Melvin and a NASA Group Achievement Award. She was portrayed by Taraji P. Henson in the 2016 film Hidden Figures. In 2019, the United States Congress awarded Johnson the Congressional Gold Medal and NASA announced the establishment of the Katherine Johnson Independent Verification and Validation Facility in her home state of West Virginia. In 2021, she was posthumously inducted into the National Women's Hall of Fame.",
+ "revid": 1371479101,
+ "infobox": {
+  "name": "Katherine Johnson",
+  "image": "Katherine Johnson 1983.jpg",
+  "alt": "Katherine Johnson",
+  "caption": "Johnson in 1983",
+  "birth_name": "Creola Katherine Coleman",
+  "birth_date": "{{Birth date|1918|08|26}}",
+  "birth_place": "White Sulphur Springs, West Virginia, U.S.",
+  "death_date": "{{Death date and age|2020|02|24|1918|08|26}}",
+  "death_place": "Newport News, Virginia, U.S.",
+  "other_names": "Katherine Goble",
+  "education": "West Virginia State University (BS)",
+  "occupation": "Mathematician, human computer, computer programmer, mathematics teacher",
+  "employer": "{{hlist|NACA|NASA (1953–1986)}}",
+  "known_for": "Calculating trajectories for NASA missions",
+  "spouse": "{{unbulleted list|{{marriage|James Goble|1939|1956|end=died}}|{{marriage|Jim Johnson|1959|2019|end=died}}}}",
+  "children": "3",
+  "awards": "{{unbulleted list|Presidential Medal of Freedom (2015)|Silver Snoopy Award (2016)|NASA Group Achievement Award (2016)|Congressional Gold Medal (2019)}}",
+  "website": "{{URL|https://katherinejohnson.net}}"
+ },
+ "url": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+ "fetched": "2026-10-18"
+}

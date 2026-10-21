@@ -1,0 +1,796 @@
+{
+  "id": "famous-scientists",
+  "version": 2,
+  "as_of": "2026-10-18",
+  "category": "Science",
+  "title": "Scientists",
+  "noun": "scientist",
+  "description": "Physicists, chemists, biologists and mathematicians who changed how we see the world.",
+  "draft": false,
+  "notes": "Hand-entered; verify every row before a public release.",
+  "attributes": [
+    {
+      "key": "field",
+      "label": "Field",
+      "type": "set",
+      "values": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Mathematics",
+        "Astronomy",
+        "Computer science",
+        "Medicine",
+        "Engineering"
+      ],
+      "help": "The fields they are best known for; some have more than one.",
+      "templates": {
+        "contains": "Are they best known for {value_lc}?"
+      },
+      "aliases": {
+        "Physics": [
+          "physicist"
+        ],
+        "Chemistry": [
+          "chemist"
+        ],
+        "Biology": [
+          "biologist"
+        ],
+        "Mathematics": [
+          "mathematician",
+          "maths",
+          "math"
+        ],
+        "Astronomy": [
+          "astronomer",
+          "astrophysicist"
+        ],
+        "Computer science": [
+          "computer scientist",
+          "computing",
+          "computers"
+        ],
+        "Medicine": [
+          "doctor",
+          "medical"
+        ],
+        "Engineering": [
+          "engineer",
+          "inventor"
+        ]
+      }
+    },
+    {
+      "key": "born_in",
+      "label": "Country of birth",
+      "type": "enum",
+      "values": [
+        "United Kingdom",
+        "Germany",
+        "France",
+        "Italy",
+        "Poland",
+        "Austria",
+        "Switzerland",
+        "Denmark",
+        "Czech Republic",
+        "Croatia",
+        "Russia",
+        "India",
+        "China",
+        "United States",
+        "New Zealand"
+      ],
+      "help": "Where they were born, using today's borders.",
+      "templates": {
+        "eq": "Were they born in what is now {value}?"
+      },
+      "aliases": {
+        "United Kingdom": [
+          "british",
+          "english",
+          "scottish",
+          "uk",
+          "england",
+          "britain"
+        ],
+        "Germany": [
+          "german"
+        ],
+        "France": [
+          "french"
+        ],
+        "Italy": [
+          "italian"
+        ],
+        "Poland": [
+          "polish"
+        ],
+        "Austria": [
+          "austrian"
+        ],
+        "Russia": [
+          "russian"
+        ],
+        "India": [
+          "indian"
+        ],
+        "China": [
+          "chinese"
+        ],
+        "United States": [
+          "american",
+          "usa",
+          "us"
+        ],
+        "Denmark": [
+          "danish"
+        ],
+        "Switzerland": [
+          "swiss"
+        ]
+      }
+    },
+    {
+      "key": "century",
+      "label": "Born in the",
+      "type": "int",
+      "min": 1400,
+      "max": 1900,
+      "step": 100,
+      "help": "1800 means born between 1800 and 1899.",
+      "templates": {
+        "eq": "Were they born in the {value}s?",
+        "gt": "Were they born after the {value}s?",
+        "lt": "Were they born before the {value}s?",
+        "between": "Were they born between the {value}s and the {value2}s?"
+      }
+    },
+    {
+      "key": "nobel",
+      "label": "Nobel Prize winner",
+      "type": "bool",
+      "templates": {
+        "is": "Did they win a Nobel Prize?",
+        "is_false": "Did they never win a Nobel Prize?"
+      }
+    },
+    {
+      "key": "woman",
+      "label": "Woman",
+      "type": "bool",
+      "templates": {
+        "is": "Is this scientist a woman?",
+        "is_false": "Is this scientist a man?"
+      }
+    },
+    {
+      "key": "letters",
+      "label": "Name",
+      "type": "string",
+      "help": "Ask about the first 1 to 3 letters (spaces and hyphens ignored).",
+      "templates": {
+        "starts_with": "Does their name start with “{value}”?"
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c_cae8b1",
+      "name": "Nicolaus Copernicus",
+      "attrs": {
+        "field": [
+          "Astronomy"
+        ],
+        "born_in": "Poland",
+        "century": 1400,
+        "nobel": false,
+        "woman": false,
+        "letters": "Nicolaus Copernicus"
+      }
+    },
+    {
+      "id": "c_108480",
+      "name": "Galileo Galilei",
+      "attrs": {
+        "field": [
+          "Physics",
+          "Astronomy"
+        ],
+        "born_in": "Italy",
+        "century": 1500,
+        "nobel": false,
+        "woman": false,
+        "letters": "Galileo Galilei"
+      }
+    },
+    {
+      "id": "c_13999c",
+      "name": "Johannes Kepler",
+      "attrs": {
+        "field": [
+          "Astronomy",
+          "Mathematics"
+        ],
+        "born_in": "Germany",
+        "century": 1500,
+        "nobel": false,
+        "woman": false,
+        "letters": "Johannes Kepler"
+      }
+    },
+    {
+      "id": "c_552533",
+      "name": "Isaac Newton",
+      "attrs": {
+        "field": [
+          "Physics",
+          "Mathematics",
+          "Astronomy"
+        ],
+        "born_in": "United Kingdom",
+        "century": 1600,
+        "nobel": false,
+        "woman": false,
+        "letters": "Isaac Newton"
+      }
+    },
+    {
+      "id": "c_fe2b51",
+      "name": "Leonhard Euler",
+      "attrs": {
+        "field": [
+          "Mathematics"
+        ],
+        "born_in": "Switzerland",
+        "century": 1700,
+        "nobel": false,
+        "woman": false,
+        "letters": "Leonhard Euler"
+      }
+    },
+    {
+      "id": "c_d0bc36",
+      "name": "Antoine Lavoisier",
+      "attrs": {
+        "field": [
+          "Chemistry"
+        ],
+        "born_in": "France",
+        "century": 1700,
+        "nobel": false,
+        "woman": false,
+        "letters": "Antoine Lavoisier"
+      }
+    },
+    {
+      "id": "c_8c7795",
+      "name": "Carl Friedrich Gauss",
+      "attrs": {
+        "field": [
+          "Mathematics"
+        ],
+        "born_in": "Germany",
+        "century": 1700,
+        "nobel": false,
+        "woman": false,
+        "letters": "Carl Friedrich Gauss"
+      }
+    },
+    {
+      "id": "c_ae31cc",
+      "name": "Michael Faraday",
+      "attrs": {
+        "field": [
+          "Physics",
+          "Chemistry"
+        ],
+        "born_in": "United Kingdom",
+        "century": 1700,
+        "nobel": false,
+        "woman": false,
+        "letters": "Michael Faraday"
+      }
+    },
+    {
+      "id": "c_31a1e4",
+      "name": "Ada Lovelace",
+      "attrs": {
+        "field": [
+          "Mathematics",
+          "Computer science"
+        ],
+        "born_in": "United Kingdom",
+        "century": 1800,
+        "nobel": false,
+        "woman": true,
+        "letters": "Ada Lovelace"
+      }
+    },
+    {
+      "id": "c_ed847e",
+      "name": "Charles Darwin",
+      "attrs": {
+        "field": [
+          "Biology"
+        ],
+        "born_in": "United Kingdom",
+        "century": 1800,
+        "nobel": false,
+        "woman": false,
+        "letters": "Charles Darwin"
+      }
+    },
+    {
+      "id": "c_951ac6",
+      "name": "Gregor Mendel",
+      "attrs": {
+        "field": [
+          "Biology"
+        ],
+        "born_in": "Czech Republic",
+        "century": 1800,
+        "nobel": false,
+        "woman": false,
+        "letters": "Gregor Mendel"
+      }
+    },
+    {
+      "id": "c_0337e7",
+      "name": "Louis Pasteur",
+      "attrs": {
+        "field": [
+          "Chemistry",
+          "Biology"
+        ],
+        "born_in": "France",
+        "century": 1800,
+        "nobel": false,
+        "woman": false,
+        "letters": "Louis Pasteur"
+      }
+    },
+    {
+      "id": "c_d0b4d3",
+      "name": "James Clerk Maxwell",
+      "attrs": {
+        "field": [
+          "Physics"
+        ],
+        "born_in": "United Kingdom",
+        "century": 1800,
+        "nobel": false,
+        "woman": false,
+        "letters": "James Clerk Maxwell"
+      }
+    },
+    {
+      "id": "c_5922e9",
+      "name": "Dmitri Mendeleev",
+      "attrs": {
+        "field": [
+          "Chemistry"
+        ],
+        "born_in": "Russia",
+        "century": 1800,
+        "nobel": false,
+        "woman": false,
+        "letters": "Dmitri Mendeleev"
+      }
+    },
+    {
+      "id": "c_8aed09",
+      "name": "Nikola Tesla",
+      "attrs": {
+        "field": [
+          "Engineering"
+        ],
+        "born_in": "Croatia",
+        "century": 1800,
+        "nobel": false,
+        "woman": false,
+        "letters": "Nikola Tesla"
+      }
+    },
+    {
+      "id": "c_36e382",
+      "name": "Max Planck",
+      "attrs": {
+        "field": [
+          "Physics"
+        ],
+        "born_in": "Germany",
+        "century": 1800,
+        "nobel": true,
+        "woman": false,
+        "letters": "Max Planck"
+      }
+    },
+    {
+      "id": "c_e8ee2a",
+      "name": "Marie Curie",
+      "attrs": {
+        "field": [
+          "Physics",
+          "Chemistry"
+        ],
+        "born_in": "Poland",
+        "century": 1800,
+        "nobel": true,
+        "woman": true,
+        "letters": "Marie Curie"
+      }
+    },
+    {
+      "id": "c_3e3887",
+      "name": "Ernest Rutherford",
+      "attrs": {
+        "field": [
+          "Physics",
+          "Chemistry"
+        ],
+        "born_in": "New Zealand",
+        "century": 1800,
+        "nobel": true,
+        "woman": false,
+        "letters": "Ernest Rutherford"
+      }
+    },
+    {
+      "id": "c_69dc47",
+      "name": "Albert Einstein",
+      "attrs": {
+        "field": [
+          "Physics"
+        ],
+        "born_in": "Germany",
+        "century": 1800,
+        "nobel": true,
+        "woman": false,
+        "letters": "Albert Einstein"
+      }
+    },
+    {
+      "id": "c_85ee6c",
+      "name": "Alexander Fleming",
+      "attrs": {
+        "field": [
+          "Biology",
+          "Medicine"
+        ],
+        "born_in": "United Kingdom",
+        "century": 1800,
+        "nobel": true,
+        "woman": false,
+        "letters": "Alexander Fleming"
+      }
+    },
+    {
+      "id": "c_c329a8",
+      "name": "Niels Bohr",
+      "attrs": {
+        "field": [
+          "Physics"
+        ],
+        "born_in": "Denmark",
+        "century": 1800,
+        "nobel": true,
+        "woman": false,
+        "letters": "Niels Bohr"
+      }
+    },
+    {
+      "id": "c_4e335c",
+      "name": "Erwin Schrödinger",
+      "attrs": {
+        "field": [
+          "Physics"
+        ],
+        "born_in": "Austria",
+        "century": 1800,
+        "nobel": true,
+        "woman": false,
+        "letters": "Erwin Schrödinger"
+      }
+    },
+    {
+      "id": "c_2046fd",
+      "name": "Srinivasa Ramanujan",
+      "attrs": {
+        "field": [
+          "Mathematics"
+        ],
+        "born_in": "India",
+        "century": 1800,
+        "nobel": false,
+        "woman": false,
+        "letters": "Srinivasa Ramanujan"
+      }
+    },
+    {
+      "id": "c_d93b06",
+      "name": "C. V. Raman",
+      "attrs": {
+        "field": [
+          "Physics"
+        ],
+        "born_in": "India",
+        "century": 1800,
+        "nobel": true,
+        "woman": false,
+        "letters": "C. V. Raman"
+      }
+    },
+    {
+      "id": "c_c62d5a",
+      "name": "Edwin Hubble",
+      "attrs": {
+        "field": [
+          "Astronomy"
+        ],
+        "born_in": "United States",
+        "century": 1800,
+        "nobel": false,
+        "woman": false,
+        "letters": "Edwin Hubble"
+      }
+    },
+    {
+      "id": "c_67a044",
+      "name": "Satyendra Nath Bose",
+      "attrs": {
+        "field": [
+          "Physics"
+        ],
+        "born_in": "India",
+        "century": 1800,
+        "nobel": false,
+        "woman": false,
+        "letters": "Satyendra Nath Bose"
+      }
+    },
+    {
+      "id": "c_8669b1",
+      "name": "Enrico Fermi",
+      "attrs": {
+        "field": [
+          "Physics"
+        ],
+        "born_in": "Italy",
+        "century": 1900,
+        "nobel": true,
+        "woman": false,
+        "letters": "Enrico Fermi"
+      }
+    },
+    {
+      "id": "c_f40074",
+      "name": "Werner Heisenberg",
+      "attrs": {
+        "field": [
+          "Physics"
+        ],
+        "born_in": "Germany",
+        "century": 1900,
+        "nobel": true,
+        "woman": false,
+        "letters": "Werner Heisenberg"
+      }
+    },
+    {
+      "id": "c_28db46",
+      "name": "Linus Pauling",
+      "attrs": {
+        "field": [
+          "Chemistry"
+        ],
+        "born_in": "United States",
+        "century": 1900,
+        "nobel": true,
+        "woman": false,
+        "letters": "Linus Pauling"
+      }
+    },
+    {
+      "id": "c_5edd6b",
+      "name": "Paul Dirac",
+      "attrs": {
+        "field": [
+          "Physics"
+        ],
+        "born_in": "United Kingdom",
+        "century": 1900,
+        "nobel": true,
+        "woman": false,
+        "letters": "Paul Dirac"
+      }
+    },
+    {
+      "id": "c_25001b",
+      "name": "Barbara McClintock",
+      "attrs": {
+        "field": [
+          "Biology"
+        ],
+        "born_in": "United States",
+        "century": 1900,
+        "nobel": true,
+        "woman": true,
+        "letters": "Barbara McClintock"
+      }
+    },
+    {
+      "id": "c_03a406",
+      "name": "Robert Oppenheimer",
+      "attrs": {
+        "field": [
+          "Physics"
+        ],
+        "born_in": "United States",
+        "century": 1900,
+        "nobel": false,
+        "woman": false,
+        "letters": "Robert Oppenheimer"
+      }
+    },
+    {
+      "id": "c_8d0698",
+      "name": "Homi Bhabha",
+      "attrs": {
+        "field": [
+          "Physics"
+        ],
+        "born_in": "India",
+        "century": 1900,
+        "nobel": false,
+        "woman": false,
+        "letters": "Homi Bhabha"
+      }
+    },
+    {
+      "id": "c_13a12a",
+      "name": "Alan Turing",
+      "attrs": {
+        "field": [
+          "Mathematics",
+          "Computer science"
+        ],
+        "born_in": "United Kingdom",
+        "century": 1900,
+        "nobel": false,
+        "woman": false,
+        "letters": "Alan Turing"
+      }
+    },
+    {
+      "id": "c_a7576d",
+      "name": "Richard Feynman",
+      "attrs": {
+        "field": [
+          "Physics"
+        ],
+        "born_in": "United States",
+        "century": 1900,
+        "nobel": true,
+        "woman": false,
+        "letters": "Richard Feynman"
+      }
+    },
+    {
+      "id": "c_779de3",
+      "name": "Katherine Johnson",
+      "attrs": {
+        "field": [
+          "Mathematics"
+        ],
+        "born_in": "United States",
+        "century": 1900,
+        "nobel": false,
+        "woman": true,
+        "letters": "Katherine Johnson"
+      }
+    },
+    {
+      "id": "c_ff6865",
+      "name": "Vikram Sarabhai",
+      "attrs": {
+        "field": [
+          "Physics",
+          "Astronomy"
+        ],
+        "born_in": "India",
+        "century": 1900,
+        "nobel": false,
+        "woman": false,
+        "letters": "Vikram Sarabhai"
+      }
+    },
+    {
+      "id": "c_e3b9f8",
+      "name": "Rosalind Franklin",
+      "attrs": {
+        "field": [
+          "Chemistry"
+        ],
+        "born_in": "United Kingdom",
+        "century": 1900,
+        "nobel": false,
+        "woman": true,
+        "letters": "Rosalind Franklin"
+      }
+    },
+    {
+      "id": "c_0048a2",
+      "name": "Tu Youyou",
+      "attrs": {
+        "field": [
+          "Medicine",
+          "Chemistry"
+        ],
+        "born_in": "China",
+        "century": 1900,
+        "nobel": true,
+        "woman": true,
+        "letters": "Tu Youyou"
+      }
+    },
+    {
+      "id": "c_dd279e",
+      "name": "Jane Goodall",
+      "attrs": {
+        "field": [
+          "Biology"
+        ],
+        "born_in": "United Kingdom",
+        "century": 1900,
+        "nobel": false,
+        "woman": true,
+        "letters": "Jane Goodall"
+      }
+    },
+    {
+      "id": "c_a8076a",
+      "name": "Carl Sagan",
+      "attrs": {
+        "field": [
+          "Astronomy"
+        ],
+        "born_in": "United States",
+        "century": 1900,
+        "nobel": false,
+        "woman": false,
+        "letters": "Carl Sagan"
+      }
+    },
+    {
+      "id": "c_938653",
+      "name": "Stephen Hawking",
+      "attrs": {
+        "field": [
+          "Physics"
+        ],
+        "born_in": "United Kingdom",
+        "century": 1900,
+        "nobel": false,
+        "woman": false,
+        "letters": "Stephen Hawking"
+      }
+    },
+    {
+      "id": "c_5711f5",
+      "name": "Venkatraman Ramakrishnan",
+      "attrs": {
+        "field": [
+          "Biology",
+          "Chemistry"
+        ],
+        "born_in": "India",
+        "century": 1900,
+        "nobel": true,
+        "woman": false,
+        "letters": "Venkatraman Ramakrishnan"
+      }
+    }
+  ]
+}

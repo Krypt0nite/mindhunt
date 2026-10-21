@@ -1,0 +1,33 @@
+{
+ "asked": "Python (programming language)",
+ "title": "Python (programming language)",
+ "missing": false,
+ "disambiguation": false,
+ "description": "General-purpose programming language",
+ "extract": "Python is a high-level, general-purpose programming language that emphasizes code readability, simplicity, and ease-of-writing with the use of significant indentation, an extensive (\"batteries-included\") standard library, and garbage collection. Python supports multiple programming paradigms but with an emphasis on object-oriented programming and dynamic typing.\nGuido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language. Python 3.0, released in 2008, was a major revision and not completely backward-compatible with earlier versions. Beginning with Python 3.5, capabilities and keywords for typing were added to the language, allowing optional static typing. As of 2026, the Python Software Foundation supports Python 3.11, 3.12, 3.13, 3.14, and 3.15, following the project's annual release cycle and five-year support policy. Python 3.15.0 the latest stable version defaults to UTF-8, unlike previous versions. Earlier versions in the 3.x series have reached end-of-life and no longer receive security updates. \nPython is widely taught as an introductory programming language.\n\n",
+ "revid": 1380801896,
+ "infobox": {
+  "logo": "Python-logo-notext.svg",
+  "logo size": "150px",
+  "paradigm": "Multi-paradigm: object-oriented, procedural (imperative), functional, structured, reflective",
+  "released": "{{start date and age|1991|02|20|df=y}}",
+  "designer": "Guido van Rossum",
+  "developer": "Python Software Foundation",
+  "latest release version": "{{wikidata|property|edit|reference|P548=Q2804309|P348}}",
+  "latest release date": "{{start date and age|{{wikidata|qualifier|single|P548=Q2804309|P348|P577}}}}",
+  "latest preview version": "",
+  "latest preview date": "{{start date and age|2025|08|18|df=y}} <!-- {{start date and age|{{wikidata|qualifier|Q28865 |P548=Q51930650|P348|P577}}}} nor",
+  "typing": "Duck, dynamic, strong; optional type annotations{{efn|since 3.5, but those hints are ignored, except with unofficial tools}}",
+  "memory management": "Garbage-collected",
+  "implementations": "CPython, PyPy, MicroPython, CircuitPython, IronPython, Jython, Stackless Python",
+  "platform": "64-bit Linux, macOS; 64- and 32-bit Windows 10 <small> and later</small> and more{{efn|* '''Tier 1''': 64-bit Linux, macOS; 64- and 32-bit Windows<!--Not \"Windows for IoT and embedded systems\"; NOT UNIX, it's not listed, nor any Unix-like, maybe implied Possibly Windows 8.1 is also supported on at l",
+  "operating system": "| license = Python Software Foundation License",
+  "file ext": ".py, .pyc, .pyd, .pyi, .pyw, .pyz",
+  "website": "{{URL|https://www.python.org/|python.org}}",
+  "dialects": "Cython, RPython, Starlark",
+  "influenced by": "ABC, Ada,{{failed verification|date=August 2025|reason=The source does not talk about Python. The \"raise\" keyword it describes is very similar to the Python version, but this is original research (see WP:OR).}} {{nowrap|ALGOL 68}}, APL, C, C++, CLU, Dylan, Haskell, Icon, Lisp, {{nowrap|Modula-3}},{{",
+  "influenced": "Apache Groovy, Boo, Cobra, CoffeeScript, D, F#, GDScript, Go, JavaScript, Julia, Mojo, Nim, Ruby, Swift, V"
+ },
+ "url": "https://en.wikipedia.org/wiki/Python_%28programming_language%29",
+ "fetched": "2026-10-18"
+}

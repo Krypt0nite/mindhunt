@@ -1,0 +1,32 @@
+{
+ "asked": "Clojure",
+ "title": "Clojure",
+ "missing": false,
+ "disambiguation": false,
+ "description": "Dialect of the Lisp programming language on the Java platform",
+ "extract": "Clojure (, like closure) is a dynamic and functional dialect of the programming language Lisp on the Java platform.\nLike most other Lisps, Clojure's syntax is built on S-expressions that are first parsed into data structures by a Lisp reader before being compiled. Clojure's reader supports literal syntax for maps, sets, and vectors along with lists, and these are compiled to the mentioned structures directly. Clojure treats code as data and has a Lisp macro system. Clojure is a Lisp-1 and is not intended to be code-compatible with other dialects of Lisp, since it uses its own set of data structures incompatible with other Lisps. \nClojure advocates immutability and immutable data structures and encourages programmers to be explicit about managing identity and its states. This focus on programming with immutable values and explicit progression-of-time constructs is intended to facilitate developing more robust, especially concurrent, programs that are simple and fast. While its type system is entirely dynamic, recent efforts have also sought the implementation of a dependent type system.\nThe language was created by Rich Hickey in the mid-2000s, originally for the Java platform; the language has since been ported to other platforms, such as the Common Language Runtime (.NET). Hickey continues to lead development of the language as its benevolent dictator for life.",
+ "revid": 1369230874,
+ "infobox": {
+  "name": "Clojure",
+  "logo": "Clojure logo.svg",
+  "logo size": "120px",
+  "paradigm": "Multi-paradigm:",
+  "family": "JVM-hosted; Lisp",
+  "designer": "Rich Hickey",
+  "released": "{{Start date and age|2007}}",
+  "latest release version": "1.12.5",
+  "latest release date": "{{start date and age|2026|05|12|df=yes}}",
+  "typing": "{{flatlist|",
+  "memory management": "Garbage collection via a host (JVM, CLR, a JavaScript runtime such as V8 in case of ClojureScript or BEAM (see below)",
+  "dialects": "ClojureScript, ClojureDart",
+  "influenced by": "{{flatlist|",
+  "influenced": "{{flatlist|",
+  "platform": "{{flatlist|",
+  "license": "Eclipse Public",
+  "website": "{{URL|https://clojure.org}}",
+  "file ext": "{{flatlist|",
+  "wikibooks": "Clojure Programming"
+ },
+ "url": "https://en.wikipedia.org/wiki/Clojure",
+ "fetched": "2026-10-18"
+}

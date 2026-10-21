@@ -1,0 +1,32 @@
+{
+ "asked": "Alexander Fleming",
+ "title": "Alexander Fleming",
+ "missing": false,
+ "disambiguation": false,
+ "description": "Scottish physician and microbiologist (1881–1955)",
+ "extract": "Sir Alexander Fleming (6 August 1881 – 11 March 1955) was a Scottish physician and microbiologist. He shared the 1945 Nobel Prize in Physiology or Medicine with Howard Florey and Ernst Chain \"for the discovery of penicillin and its curative effect in various infectious diseases\".\nThis was the first antibiotic substance discovered. His discovery in 1928 of what was later named benzylpenicillin (or penicillin G) from the mould Penicillium rubens has been described as the \"single greatest victory ever achieved over disease\".\nHe also discovered the enzyme lysozyme from his nasal discharge in 1922, and along with it a bacterium he named Micrococcus lysodeikticus, later renamed Micrococcus luteus.\nFleming was knighted for his scientific achievements in 1944. In 1999, he was named in Time magazine's list of the 100 Most Important People of the 20th century. In 2002, he was included in the BBC's television poll of the 100 Greatest Britons, and in 2009, he was also voted third \"greatest Scot\" in an opinion poll conducted by STV, behind only Robert Burns and William Wallace.",
+ "revid": 1375868973,
+ "infobox": {
+  "honorific_prefix": "Sir",
+  "name": "Alexander Fleming",
+  "honorific_suffix": "{{post-nominals|country=GBR|size=100%|FRS|FRSE|FRCS}}",
+  "image": "Synthetic Production of Penicillin TR1468.jpg",
+  "caption": "Fleming in his laboratory, 1943",
+  "birth_date": "{{birth date|1881|8|6|df=y}}",
+  "birth_place": "Darvel, Ayrshire, Scotland",
+  "death_date": "{{Death date and age|1955|3|11|1881|8|6|df=y}}",
+  "death_place": "London, England",
+  "resting_place": "St Paul's Cathedral",
+  "spouses": "{{plainlist|",
+  "field": "{{hlist|Bacteriology|immunology}}",
+  "education": "{{plainlist|",
+  "workplaces": "St Mary's Hospital, London",
+  "doctoral_advisor": "| doctoral_students =",
+  "known_for": "Discovery of penicillin and lysozyme",
+  "influences": "| influenced        =",
+  "awards": "{{plainlist|",
+  "signature": "Alexander Fleming signature.svg"
+ },
+ "url": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+ "fetched": "2026-10-18"
+}

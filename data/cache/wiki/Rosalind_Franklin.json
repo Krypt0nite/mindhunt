@@ -1,0 +1,31 @@
+{
+ "asked": "Rosalind Franklin",
+ "title": "Rosalind Franklin",
+ "missing": false,
+ "disambiguation": false,
+ "description": "British X-ray crystallographer (1920–1958)",
+ "extract": "Rosalind Elsie Franklin (25 July 1920 – 16 April 1958) was an English chemist and X-ray crystallographer. Her work was central to the understanding of the molecular structures of DNA (deoxyribonucleic acid), RNA (ribonucleic acid), viruses, coal, and graphite. Although her works on coal and viruses were appreciated in her lifetime, Franklin's contributions to the discovery of the structure of DNA were largely unrecognised during her life, for which Franklin has been variously referred to as the \"wronged heroine\", the \"dark lady of DNA\", the \"forgotten heroine\", a \"feminist icon\", and the \"Sylvia Plath of molecular biology\". James Watson believed that, had she not died, ideally, Franklin would have been awarded a Nobel Prize in Chemistry.\nFranklin graduated in 1941 with a degree in natural sciences from Newnham College, Cambridge, and then enrolled for a PhD in physical chemistry under Ronald George Wreyford Norrish, the 1920 Chair of Physical Chemistry at the University of Cambridge. Disappointed by Norrish's lack of enthusiasm, she took up a research position under the British Coal Utilisation Research Association (BCURA) in 1942. The research on coal helped Franklin earn a PhD from Cambridge in 1945. Moving to Paris in 1947 as a chercheur (postdoctoral researcher) under Jacques Mering at the Laboratoire Central des Services Chimiques de l'État, she became an accomplished X-ray crystallographer. After joining King's College London in 1951 as a research associate, Franklin discovered some key properties of DNA, which eventually facilitated the correct description of the double helix structure of DNA. Owing to disagreement with her director, John Randall, and her colleague Maurice Wilkins, Franklin moved to Birkbeck College in 1953.\nFranklin is best known for her work on the X-ray diffraction images of DNA while at King's College London, particularly Photo 51, taken by her student Raymond Gosling, which led to the discovery of the DNA double helix for which Francis Crick, James Watson, and Maurice Wilkins shared the Nobel Prize in Physiology or Medicine in 1962. While Gosling actually took the famous Photo 51, Wilkins showed it to Watson without Franklin's permission.\nWorking under John Desmond Bernal, Franklin led pioneering work at Birkbeck on the molecular structures of viruses. On the day before she was to unveil the structure of tobacco mosaic virus at an international fair in Brussels, Franklin died of ovarian cancer at age 37 in 1958. Her team member Aaron Klug continued her research, winning the Nobel Prize in Chemistry in 1982.",
+ "revid": 1380375823,
+ "infobox": {
+  "name": "Rosalind Franklin",
+  "image": "Rosalind Franklin (retouched).jpg",
+  "caption": "Franklin with a microscope in 1955",
+  "birth_name": "Rosalind Elsie Franklin",
+  "birth_date": "{{birth date|1920|7|25|df=yes}}",
+  "birth_place": "Notting Hill, London, England",
+  "death_date": "{{death date and age|1958|4|16|1920|7|25|df=y}}",
+  "death_place": "Chelsea, London, England",
+  "resting_place": "Willesden United Synagogue Cemetery",
+  "resting_place_coordinates": "{{Coord|51.5447|-0.2399|type:landmark|display=inline}}-->",
+  "fields": "{{Plainlist|",
+  "workplaces": "{{Plainlist|",
+  "education": "Newnham College, Cambridge<br />University of Cambridge (PhD, 1945)",
+  "thesis_title": "The physical chemistry of solid organic colloids with special reference to coal",
+  "thesis_url": "http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.599181",
+  "thesis_year": "1945",
+  "doctoral_students": "{{ubl|John Finch|Kenneth Holmes}}",
+  "known_for": "{{ubl|Structure of DNA|Fine structure of coal and graphite|Structures of viruses}}"
+ },
+ "url": "https://en.wikipedia.org/wiki/Rosalind_Franklin",
+ "fetched": "2026-10-18"
+}

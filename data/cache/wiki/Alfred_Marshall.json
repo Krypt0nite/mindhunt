@@ -1,0 +1,27 @@
+{
+ "asked": "Alfred Marshall",
+ "title": "Alfred Marshall",
+ "missing": false,
+ "disambiguation": false,
+ "description": "British economist (1842–1924)",
+ "extract": "Alfred Marshall (26 July 1842 – 13 July 1924) was an English economist and one of the most influential economists of his time. His book Principles of Economics (1890) was the dominant economic textbook in England for many years, and brought the ideas of supply and demand, marginal utility, and costs of production into a coherent whole, popularizing the modern neoclassical approach which dominates microeconomics to this day. As a result, he is known as the father of scientific economics.",
+ "revid": 1379800362,
+ "infobox": {
+  "school_tradition": "Neoclassical economics",
+  "honorific_suffix": "{{post-nominals|country=GBR|FBA|size=100%}}",
+  "image": "Alfred Marshall 1891.jpg",
+  "caption": "Marshall, {{circa}} the release of ''Principles'' (1890)",
+  "birth_date": "{{Birth date|df=yes|1842|7|26}}",
+  "birth_place": "London, England",
+  "death_date": "{{Death date and age|df=yes|1924|7|13|1842|7|26}}",
+  "death_place": "{{Nowrap|Cambridge, England}}",
+  "institution": "St John's College, Cambridge<br />University College, Bristol<br />Balliol College, Oxford",
+  "education": "St John's College, Cambridge",
+  "doctoral_advisor": "| doctoral_students =",
+  "contributions": "{{plainlist}}",
+  "influences": "{{flatlist|",
+  "spouse": "{{marriage|Mary Paley Marshall|1877}}"
+ },
+ "url": "https://en.wikipedia.org/wiki/Alfred_Marshall",
+ "fetched": "2026-10-18"
+}

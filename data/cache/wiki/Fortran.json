@@ -1,0 +1,28 @@
+{
+ "asked": "Fortran",
+ "title": "Fortran",
+ "missing": false,
+ "disambiguation": false,
+ "description": "General-purpose programming language",
+ "extract": "Fortran (; formerly FORTRAN) is a third-generation, compiled, imperative programming language designed for numeric computation and scientific computing.\nFortran was originally developed by IBM with a reference manual being released in 1956; however, the first compilers only began to produce accurate code two years later. Fortran computer programs have been written to support scientific and engineering applications, such as numerical weather prediction, finite element analysis, computational fluid dynamics, plasma physics, geophysics, computational physics, crystallography and computational chemistry. It is a popular language for high-performance computing and is used for programs that benchmark and rank the world's fastest supercomputers.\nFortran has evolved through numerous versions and dialects. The two most important early versions were FORTRAN II and FORTRAN IV. In 1966, the American National Standards Institute (ANSI) developed a standard for Fortran to limit proliferation of compilers using slightly different syntax. Successive versions have added support for a character data type, structured programming (Fortran 77), array programming, modular programming, generic programming (Fortran 90), parallel computing (Fortran 95), object-oriented programming (Fortran 2003), and concurrent programming (Fortran 2008).",
+ "revid": 1377275200,
+ "infobox": {
+  "logo": "Fortran logo.svg",
+  "logo size": "| logo caption =",
+  "paradigm": "Multi-paradigm: structured, imperative (procedural, object-oriented), generic, array",
+  "year": "{{Start date and age|1957}}",
+  "designer": "John Backus",
+  "developer": "John Backus and IBM",
+  "latest release version": "Fortran 2023 (ISO/IEC 1539:2023)",
+  "latest release date": "{{Start date and age|2023|11|17}}",
+  "typing": "Strong, static, manifest",
+  "implementations": "Absoft, Cray, GFortran, G95, IBM XL Fortran, Intel, Hitachi, Lahey/Fujitsu, Numerical Algorithms Group, Open Watcom, PathScale, PGI, Silverfrost, Oracle Solaris Studio, VAX/DEC/VSI, others",
+  "dialects": "| influenced_by = Speedcoding",
+  "influenced": "ALGOL 58, BASIC, C, Chapel, CMS-2, DOPE, Fortress, MATLAB, PL/I, PACT I, MUMPS, IDL, Ratfor, SAKO",
+  "operating_system": "| license =",
+  "file_ext": "{{code|.f90}}, {{code|.f}}, {{code|.for}}",
+  "website": "| wikibooks = Fortran"
+ },
+ "url": "https://en.wikipedia.org/wiki/Fortran",
+ "fetched": "2026-10-18"
+}

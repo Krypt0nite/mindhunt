@@ -1,0 +1,525 @@
+{
+  "id": "programming-languages",
+  "version": 2,
+  "as_of": "2026-10-18",
+  "category": "Technology",
+  "title": "Programming Languages",
+  "noun": "programming language",
+  "description": "From Fortran to Zig: how they run, how they type, who made them.",
+  "draft": false,
+  "notes": "Hand-entered; verify every row before a public release.",
+  "attributes": [
+    {
+      "key": "typing",
+      "label": "Type checking",
+      "type": "enum",
+      "values": [
+        "Static",
+        "Dynamic"
+      ],
+      "help": "When types are checked: before the program runs (Static) or while it runs (Dynamic).",
+      "templates": {
+        "eq:Static": "Is it statically typed?",
+        "eq:Dynamic": "Is it dynamically typed?"
+      },
+      "aliases": {
+        "Static": [
+          "statically typed",
+          "static typing"
+        ],
+        "Dynamic": [
+          "dynamically typed",
+          "dynamic typing"
+        ]
+      }
+    },
+    {
+      "key": "runs",
+      "label": "How it usually runs",
+      "type": "enum",
+      "values": [
+        "Compiled to machine code",
+        "On a virtual machine",
+        "Interpreted or JIT"
+      ],
+      "help": "Its usual implementation. TypeScript is Unknown because it is translated to JavaScript; Lisp because its dialects do both.",
+      "templates": {
+        "eq:Compiled to machine code": "Is it usually compiled to machine code?",
+        "eq:On a virtual machine": "Does it usually run on a virtual machine (like the JVM)?",
+        "eq:Interpreted or JIT": "Is it usually interpreted or JIT-compiled?"
+      },
+      "aliases": {
+        "Compiled to machine code": [
+          "compiled",
+          "native code",
+          "machine code"
+        ],
+        "On a virtual machine": [
+          "virtual machine",
+          "jvm",
+          "bytecode",
+          "vm"
+        ],
+        "Interpreted or JIT": [
+          "interpreted",
+          "scripting language",
+          "jit"
+        ]
+      }
+    },
+    {
+      "key": "decade",
+      "label": "Decade first released",
+      "type": "int",
+      "min": 1950,
+      "max": 2020,
+      "step": 10,
+      "templates": {
+        "eq": "Was it first released in the {value}s?",
+        "gt": "Was it first released after the {value}s?",
+        "lt": "Was it first released before the {value}s?",
+        "between": "Was it first released between the {value}s and the {value2}s?"
+      }
+    },
+    {
+      "key": "gc",
+      "label": "Garbage collected",
+      "type": "bool",
+      "help": "Memory is freed automatically at run time, including reference counting (Swift, Python). Rust and C++ are No.",
+      "templates": {
+        "is": "Is it garbage collected?",
+        "is_false": "Do programmers manage memory without a garbage collector?"
+      },
+      "aliases": {}
+    },
+    {
+      "key": "functional",
+      "label": "Mainly functional",
+      "type": "bool",
+      "help": "Designed mainly around functional programming (Haskell, Lisp, Erlang, Elixir, Clojure).",
+      "templates": {
+        "is": "Is it mainly a functional language?",
+        "is_false": "Is it not mainly functional?"
+      }
+    },
+    {
+      "key": "company",
+      "label": "Created at a company",
+      "type": "bool",
+      "help": "First built inside a company (Java at Sun, Go at Google, C at Bell Labs, Elixir at Plataformatec), not a university or individual. Ada (a Honeywell team, commissioned by the US government) is Unknown.",
+      "templates": {
+        "is": "Was it created at a company?",
+        "is_false": "Was it created outside a company?"
+      }
+    },
+    {
+      "key": "letters",
+      "label": "Name",
+      "type": "string",
+      "help": "Ask about the first 1 to 3 letters (spaces and hyphens ignored).",
+      "templates": {
+        "starts_with": "Does the language's name start with “{value}”?"
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c_ca4298",
+      "name": "Fortran",
+      "attrs": {
+        "typing": "Static",
+        "runs": "Compiled to machine code",
+        "decade": 1950,
+        "gc": false,
+        "functional": false,
+        "company": true,
+        "letters": "Fortran"
+      }
+    },
+    {
+      "id": "c_431de2",
+      "name": "COBOL",
+      "attrs": {
+        "typing": "Static",
+        "runs": "Compiled to machine code",
+        "decade": 1960,
+        "gc": false,
+        "functional": false,
+        "company": false,
+        "letters": "COBOL"
+      }
+    },
+    {
+      "id": "c_756fc6",
+      "name": "Lisp",
+      "attrs": {
+        "typing": "Dynamic",
+        "decade": 1960,
+        "gc": true,
+        "functional": true,
+        "company": false,
+        "letters": "Lisp"
+      }
+    },
+    {
+      "id": "c_c677b2",
+      "name": "C",
+      "attrs": {
+        "typing": "Static",
+        "runs": "Compiled to machine code",
+        "decade": 1970,
+        "gc": false,
+        "functional": false,
+        "company": true,
+        "letters": "C"
+      }
+    },
+    {
+      "id": "c_9e4a24",
+      "name": "Pascal",
+      "attrs": {
+        "typing": "Static",
+        "runs": "Compiled to machine code",
+        "decade": 1970,
+        "gc": false,
+        "functional": false,
+        "company": false,
+        "letters": "Pascal"
+      }
+    },
+    {
+      "id": "c_f34b3d",
+      "name": "Ada",
+      "attrs": {
+        "typing": "Static",
+        "runs": "Compiled to machine code",
+        "decade": 1980,
+        "gc": false,
+        "functional": false,
+        "letters": "Ada"
+      }
+    },
+    {
+      "id": "c_f79a97",
+      "name": "C++",
+      "attrs": {
+        "typing": "Static",
+        "runs": "Compiled to machine code",
+        "decade": 1980,
+        "gc": false,
+        "functional": false,
+        "company": true,
+        "letters": "C++"
+      }
+    },
+    {
+      "id": "c_18acbf",
+      "name": "Objective-C",
+      "attrs": {
+        "typing": "Static",
+        "runs": "Compiled to machine code",
+        "decade": 1980,
+        "functional": false,
+        "company": true,
+        "letters": "Objective-C"
+      }
+    },
+    {
+      "id": "c_1cd1e5",
+      "name": "Erlang",
+      "attrs": {
+        "typing": "Dynamic",
+        "runs": "On a virtual machine",
+        "decade": 1980,
+        "gc": true,
+        "functional": true,
+        "company": true,
+        "letters": "Erlang"
+      }
+    },
+    {
+      "id": "c_538364",
+      "name": "Perl",
+      "attrs": {
+        "typing": "Dynamic",
+        "runs": "Interpreted or JIT",
+        "decade": 1980,
+        "gc": true,
+        "functional": false,
+        "company": false,
+        "letters": "Perl"
+      }
+    },
+    {
+      "id": "c_2ae069",
+      "name": "MATLAB",
+      "attrs": {
+        "typing": "Dynamic",
+        "runs": "Interpreted or JIT",
+        "decade": 1970,
+        "gc": true,
+        "functional": false,
+        "company": false,
+        "letters": "MATLAB"
+      }
+    },
+    {
+      "id": "c_44edb7",
+      "name": "Bash",
+      "attrs": {
+        "typing": "Dynamic",
+        "runs": "Interpreted or JIT",
+        "decade": 1980,
+        "functional": false,
+        "company": false,
+        "letters": "Bash"
+      }
+    },
+    {
+      "id": "c_b25f55",
+      "name": "Haskell",
+      "attrs": {
+        "typing": "Static",
+        "runs": "Compiled to machine code",
+        "decade": 1990,
+        "gc": true,
+        "functional": true,
+        "company": false,
+        "letters": "Haskell"
+      }
+    },
+    {
+      "id": "c_e595fa",
+      "name": "Python",
+      "attrs": {
+        "typing": "Dynamic",
+        "runs": "Interpreted or JIT",
+        "decade": 1990,
+        "gc": true,
+        "functional": false,
+        "company": false,
+        "letters": "Python"
+      }
+    },
+    {
+      "id": "c_0e1ffb",
+      "name": "Lua",
+      "attrs": {
+        "typing": "Dynamic",
+        "runs": "Interpreted or JIT",
+        "decade": 1990,
+        "gc": true,
+        "functional": false,
+        "company": false,
+        "letters": "Lua"
+      }
+    },
+    {
+      "id": "c_53dc1c",
+      "name": "R",
+      "attrs": {
+        "typing": "Dynamic",
+        "runs": "Interpreted or JIT",
+        "decade": 1990,
+        "gc": true,
+        "functional": false,
+        "company": false,
+        "letters": "R"
+      }
+    },
+    {
+      "id": "c_75f6c4",
+      "name": "Java",
+      "attrs": {
+        "typing": "Static",
+        "runs": "On a virtual machine",
+        "decade": 1990,
+        "gc": true,
+        "functional": false,
+        "company": true,
+        "letters": "Java"
+      }
+    },
+    {
+      "id": "c_585307",
+      "name": "JavaScript",
+      "attrs": {
+        "typing": "Dynamic",
+        "runs": "Interpreted or JIT",
+        "decade": 1990,
+        "gc": true,
+        "functional": false,
+        "company": true,
+        "letters": "JavaScript"
+      }
+    },
+    {
+      "id": "c_ea7060",
+      "name": "Ruby",
+      "attrs": {
+        "typing": "Dynamic",
+        "runs": "Interpreted or JIT",
+        "decade": 1990,
+        "gc": true,
+        "functional": false,
+        "company": false,
+        "letters": "Ruby"
+      }
+    },
+    {
+      "id": "c_d7e086",
+      "name": "PHP",
+      "attrs": {
+        "typing": "Dynamic",
+        "runs": "Interpreted or JIT",
+        "decade": 1990,
+        "gc": true,
+        "functional": false,
+        "company": false,
+        "letters": "PHP"
+      }
+    },
+    {
+      "id": "c_5e1058",
+      "name": "C#",
+      "attrs": {
+        "typing": "Static",
+        "runs": "On a virtual machine",
+        "decade": 2000,
+        "gc": true,
+        "functional": false,
+        "company": true,
+        "letters": "C#"
+      }
+    },
+    {
+      "id": "c_ceebf4",
+      "name": "Scala",
+      "attrs": {
+        "typing": "Static",
+        "runs": "On a virtual machine",
+        "decade": 2000,
+        "gc": true,
+        "functional": false,
+        "company": false,
+        "letters": "Scala"
+      }
+    },
+    {
+      "id": "c_dd599a",
+      "name": "Clojure",
+      "attrs": {
+        "typing": "Dynamic",
+        "runs": "On a virtual machine",
+        "decade": 2000,
+        "gc": true,
+        "functional": true,
+        "company": false,
+        "letters": "Clojure"
+      }
+    },
+    {
+      "id": "c_598e5e",
+      "name": "Go",
+      "attrs": {
+        "typing": "Static",
+        "runs": "Compiled to machine code",
+        "decade": 2000,
+        "gc": true,
+        "functional": false,
+        "company": true,
+        "letters": "Go"
+      }
+    },
+    {
+      "id": "c_70de43",
+      "name": "Rust",
+      "attrs": {
+        "typing": "Static",
+        "runs": "Compiled to machine code",
+        "decade": 2010,
+        "gc": false,
+        "functional": false,
+        "company": true,
+        "letters": "Rust"
+      }
+    },
+    {
+      "id": "c_244b2d",
+      "name": "Kotlin",
+      "attrs": {
+        "typing": "Static",
+        "runs": "On a virtual machine",
+        "decade": 2010,
+        "gc": true,
+        "functional": false,
+        "company": true,
+        "letters": "Kotlin"
+      }
+    },
+    {
+      "id": "c_9466ea",
+      "name": "TypeScript",
+      "attrs": {
+        "typing": "Static",
+        "decade": 2010,
+        "gc": true,
+        "functional": false,
+        "company": true,
+        "letters": "TypeScript"
+      }
+    },
+    {
+      "id": "c_98201d",
+      "name": "Elixir",
+      "attrs": {
+        "typing": "Dynamic",
+        "runs": "On a virtual machine",
+        "decade": 2010,
+        "gc": true,
+        "functional": true,
+        "company": true,
+        "letters": "Elixir"
+      }
+    },
+    {
+      "id": "c_27de14",
+      "name": "Julia",
+      "attrs": {
+        "typing": "Dynamic",
+        "runs": "Interpreted or JIT",
+        "decade": 2010,
+        "gc": true,
+        "functional": false,
+        "company": false,
+        "letters": "Julia"
+      }
+    },
+    {
+      "id": "c_a41fce",
+      "name": "Swift",
+      "attrs": {
+        "typing": "Static",
+        "runs": "Compiled to machine code",
+        "decade": 2010,
+        "gc": true,
+        "functional": false,
+        "company": true,
+        "letters": "Swift"
+      }
+    },
+    {
+      "id": "c_988a09",
+      "name": "Zig",
+      "attrs": {
+        "typing": "Static",
+        "runs": "Compiled to machine code",
+        "decade": 2010,
+        "gc": false,
+        "functional": false,
+        "company": false,
+        "letters": "Zig"
+      }
+    }
+  ]
+}

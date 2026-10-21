@@ -1,0 +1,31 @@
+{
+ "asked": "Haskell",
+ "title": "Haskell",
+ "missing": false,
+ "disambiguation": false,
+ "description": "Functional programming language",
+ "extract": "Haskell () is a general-purpose, statically typed, purely functional programming language with type inference and lazy evaluation. Haskell pioneered several programming language features including type classes for type-safe operator overloading and monadic input/output (IO). It is named after logician Haskell Curry. Haskell's main implementation is the Glasgow Haskell Compiler (GHC).\nHaskell's semantics are historically based on those of the Miranda programming language, which served to focus the efforts of the initial Haskell working group. The last formal specification of the language was made in July 2010, while the development of GHC continues to expand Haskell via language extensions.\nHaskell is used in academia and industry. As of May 2021, Haskell was the 28th most popular programming language by Google searches for tutorials, and made up less than 1% of active users on the GitHub source code repository.\n\n",
+ "revid": 1380539119,
+ "infobox": {
+  "name": "Haskell",
+  "logo": "Logo of the Haskell programming language.svg",
+  "logo size": "250px",
+  "logo alt": "Logo of Haskell",
+  "paradigm": "Purely functional",
+  "released": "{{Start date and age|1990|df=yes}}{{sfn|Hudak|Hughes|Peyton Jones|Wadler|2007}}",
+  "designer": "Lennart Augustsson, Dave Barton, Brian Boutel, Warren Burton, Joseph Fasel, Kevin Hammond, Ralf Hinze, Paul Hudak, John Hughes, Thomas Johnsson, Mark Jones, Simon Peyton Jones, John Launchbury, Erik Meijer, John Peterson, Alastair Reid, Colin Runciman, Philip Wadler",
+  "developer": "| latest release version = Haskell 2010",
+  "latest release date": "{{Start date and age|2010|07|df=yes}}",
+  "latest test version": "Haskell 2020 announced",
+  "latest test date": "| typing = Inferred, static, strong",
+  "implementations": "GHC, Hugs, NHC, JHC, Yhc, UHC",
+  "dialects": "Gofer",
+  "influenced by": "Clean, FP, Gofer, Hope and Hope<sup>+</sup>, Id, ISWIM, KRC, Lisp,<br/>Miranda, ML and Standard ML, Orwell, SASL, Scheme, SISAL",
+  "influenced": "Agda, Bluespec,{{sfn|Hudak|Hughes|Peyton Jones|Wadler|2007|pp=12–38, 43}} C++11/Concepts,<br/>C#/LINQ,{{sfn|Hudak|Hughes|Peyton Jones|Wadler|2007|pp=12, 45, 46}} CAL,{{Citation needed|date=February 2012}} Cayenne,{{sfn|Hudak|Hughes|Peyton Jones|Wadler|2007|pp=12, 45, 46}} Clean,{{sfn|Hudak|Hughes|Pe",
+  "operating system": "Cross-platform",
+  "license": "| website = {{URL|haskell.org}}",
+  "file ext": ".hs, .lhs"
+ },
+ "url": "https://en.wikipedia.org/wiki/Haskell",
+ "fetched": "2026-10-18"
+}

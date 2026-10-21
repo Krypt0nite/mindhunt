@@ -1,0 +1,28 @@
+{
+ "asked": "COBOL",
+ "title": "COBOL",
+ "missing": false,
+ "disambiguation": false,
+ "description": "Programming language with English-like syntax",
+ "extract": "COBOL (Common Business-Oriented Language; ) is a compiled English-like computer programming language designed for business use. It is an imperative, procedural, and, since 2002, object-oriented language. COBOL is primarily used in business, finance, and administrative systems for companies and governments. COBOL is still widely used in applications deployed on mainframe computers, such as large-scale batch and transaction processing jobs. Many large financial institutions were developing new systems in the language as late as 2006, but most programming in COBOL today is purely to maintain existing applications. Programs are being moved to new platforms, rewritten in modern languages, or replaced with other software.\nCOBOL's design was started in 1959 by CODASYL and was partly based on the programming language FLOW-MATIC, designed by Grace Hopper. It was created as part of a US Department of Defense effort to create a portable programming language for data processing. It was originally seen as a stopgap, but the Defense Department promptly pressured computer manufacturers to provide it, resulting in its widespread adoption. It was standardized in 1968 and has been revised five times. Expansions include support for structured and object-oriented programming. The current standard is ISO/IEC 1989:2023.\nCOBOL statements have prose syntax such as MOVE x TO y, which was designed to be self-documenting and highly readable. However, it is verbose and uses over 300 reserved words compared to the succinct and mathematically inspired syntax of other languages. Lacking a large standard library, the standard specifies 43 statements, 87 functions, and just one class. COBOL code is split into four divisions (identification, environment, data, and procedure), containing a rigid hierarchy of sections, paragraphs, and sentences. \nCOBOL has been criticized for its verbosity, design process, and poor support for structured programming. These weaknesses often result in monolithic programs that are hard to comprehend as a whole, despite their local readability.",
+ "revid": 1378547331,
+ "infobox": {
+  "name": "COBOL",
+  "logo": "COBOL Report Apr60.djvu",
+  "paradigm": "Procedural, imperative, object-oriented, generic",
+  "year": "{{Start date and age|df=yes|1960}}",
+  "designers": "{{nowrap|Howard Bromberg}}, {{nowrap|Norman Discount}}, {{nowrap|Vernon Reeves}}, {{nowrap|Jean E. Sammet}}, {{nowrap|William Selden}}, {{nowrap|Gertrude Tierney}}, with indirect influence from {{nowrap|Grace Hopper}}",
+  "developers": "CODASYL, ANSI, ISO/IEC",
+  "latest release version": "ISO/IEC 1989:2023",
+  "latest release date": "2023",
+  "typing": "Weak, static",
+  "implementations": "{{nowraplinks|GnuCOBOL, IBM COBOL, GCC}}, {{nowrap|Micro Focus Visual COBOL}}",
+  "dialects": "COBOL/2, DEC COBOL-10, DEC PDP-11 COBOL, DEC PDP-11 COBOL-85, DEC VAX COBOL, DOSVS COBOL, Envyr ICOBOL, Fujitsu COBOL, Hitachi COBOL2002, HP3000 COBOL/II, IBM COBOL SAA, IBM COBOL/400, IBM COBOL/II, IBM Enterprise COBOL, IBM ILE COBOL, IBM OS/VS COBOL, ICL COBOL (VME), Micro Focus ACUCOBOL-GT, Micro",
+  "influenced by": "Initial: AIMACO, COMTRAN, FACT, FLOW-MATIC",
+  "influenced": "CobolScript, EGL, PL/I, PL/B",
+  "file_ext": "<code>.cbl</code>, <code>.cob</code>, <code>.cpy</code>",
+  "wikibooks": "COBOL"
+ },
+ "url": "https://en.wikipedia.org/wiki/COBOL",
+ "fetched": "2026-10-18"
+}

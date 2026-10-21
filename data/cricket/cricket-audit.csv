@@ -1,0 +1,721 @@
+Player ID,Player name,Field,Original value,Final value,Source URL,Secondary source URL,Status,Explanation
+c_eb1836,Rashid Khan,Name,Rashid Khan,Rashid Khan,https://en.wikipedia.org/wiki/Rashid_Khan,,Verified,Matches the Wikipedia article title.
+c_eb1836,Rashid Khan,Surname,Khan,Khan,https://en.wikipedia.org/wiki/Rashid_Khan,,Verified,From the name.
+c_eb1836,Rashid Khan,Country,Afghanistan,Afghanistan,https://en.wikipedia.org/wiki/List_of_Afghanistan_ODI_cricketers,https://en.wikipedia.org/wiki/Rashid_Khan,Verified,Listed among Afghanistan ODI players.
+c_eb1836,Rashid Khan,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Rashid_Khan,,Verified,Infobox calls him 'Bowling all-rounder'; the pack owner chose 'Bowler' on 2026-10-18 (the pack has 4 classes).
+c_eb1836,Rashid Khan,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Rashid_Khan,,Verified,Infobox: right-handed.
+c_eb1836,Rashid Khan,Bowling,Spin,Spin,https://en.wikipedia.org/wiki/Rashid_Khan,,Verified,Infobox: Leg break googly.
+c_eb1836,Rashid Khan,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Rashid_Khan,,Verified,Infobox: Leg break googly.
+c_eb1836,Rashid Khan,ODI debut decade,2010,2010,https://en.wikipedia.org/wiki/Rashid_Khan,https://en.wikipedia.org/wiki/List_of_Afghanistan_ODI_cricketers,Verified,First ODI 2015-10-18.
+c_eb1836,Rashid Khan,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Afghanistan_national_cricket_captains,https://en.wikipedia.org/wiki/Rashid_Khan,Verified,"Listed as Afghanistan captain in: Test, ODI, T20I."
+c_eb1836,Rashid Khan,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,,Verified,Afghanistan has never won the men's ODI World Cup.
+c_531269,Adam Gilchrist,Name,Adam Gilchrist,Adam Gilchrist,https://en.wikipedia.org/wiki/Adam_Gilchrist,,Verified,Matches the Wikipedia article title.
+c_531269,Adam Gilchrist,Surname,Gilchrist,Gilchrist,https://en.wikipedia.org/wiki/Adam_Gilchrist,,Verified,From the name.
+c_531269,Adam Gilchrist,Country,Australia,Australia,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,https://en.wikipedia.org/wiki/Adam_Gilchrist,Verified,Listed among Australia ODI players.
+c_531269,Adam Gilchrist,Role,Wicketkeeper,Wicketkeeper,https://en.wikipedia.org/wiki/Adam_Gilchrist,,Verified,Consistent with the infobox playing role.
+c_531269,Adam Gilchrist,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Adam_Gilchrist,,Verified,Infobox: left-handed.
+c_531269,Adam Gilchrist,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Adam_Gilchrist,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler'.
+c_531269,Adam Gilchrist,Bowling arm,,,https://en.wikipedia.org/wiki/Adam_Gilchrist,,Verified,Blank because not a regular bowler.
+c_531269,Adam Gilchrist,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/Adam_Gilchrist,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,Verified,First ODI 1996-10-25.
+c_531269,Adam Gilchrist,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Australia_national_cricket_captains,https://en.wikipedia.org/wiki/Adam_Gilchrist,Verified,"Listed as Australia captain in: Test, ODI, T20I."
+c_531269,Adam Gilchrist,ODI World Cup winner,Yes,Yes,https://en.wikipedia.org/wiki/2007_Cricket_World_Cup_squads,,Verified,"Member of the winning squad in 1999, 2003, 2007."
+c_9940ec,Allan Border,Name,Allan Border,Allan Border,https://en.wikipedia.org/wiki/Allan_Border,,Verified,Matches the Wikipedia article title.
+c_9940ec,Allan Border,Surname,Border,Border,https://en.wikipedia.org/wiki/Allan_Border,,Verified,From the name.
+c_9940ec,Allan Border,Country,Australia,Australia,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,https://en.wikipedia.org/wiki/Allan_Border,Verified,Listed among Australia ODI players.
+c_9940ec,Allan Border,Role,Batter,Batter,https://en.wikipedia.org/wiki/Allan_Border,,Verified,Consistent with the infobox playing role.
+c_9940ec,Allan Border,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Allan_Border,,Verified,Infobox: left-handed.
+c_9940ec,Allan Border,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Allan_Border,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional slow left-arm orthodox).
+c_9940ec,Allan Border,Bowling arm,,,https://en.wikipedia.org/wiki/Allan_Border,,Verified,Blank because not a regular bowler.
+c_9940ec,Allan Border,ODI debut decade,1970,1970,https://en.wikipedia.org/wiki/Allan_Border,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,Verified,First ODI 1979-01-13.
+c_9940ec,Allan Border,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Australia_national_cricket_captains,https://en.wikipedia.org/wiki/Allan_Border,Verified,"Listed as Australia captain in: Test, ODI."
+c_9940ec,Allan Border,ODI World Cup winner,Yes,Yes,https://en.wikipedia.org/wiki/1987_Cricket_World_Cup_squads,,Verified,Member of the winning squad in 1987.
+c_daca3b,Dennis Lillee,Name,Dennis Lillee,Dennis Lillee,https://en.wikipedia.org/wiki/Dennis_Lillee,,Verified,Matches the Wikipedia article title.
+c_daca3b,Dennis Lillee,Surname,Lillee,Lillee,https://en.wikipedia.org/wiki/Dennis_Lillee,,Verified,From the name.
+c_daca3b,Dennis Lillee,Country,Australia,Australia,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,https://en.wikipedia.org/wiki/Dennis_Lillee,Verified,Listed among Australia ODI players.
+c_daca3b,Dennis Lillee,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Dennis_Lillee,,Verified,Consistent with the infobox playing role.
+c_daca3b,Dennis Lillee,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Dennis_Lillee,,Verified,Infobox: right-handed.
+c_daca3b,Dennis Lillee,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Dennis_Lillee,,Verified,Infobox: Right-arm fast.
+c_daca3b,Dennis Lillee,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Dennis_Lillee,,Verified,Infobox: Right-arm fast.
+c_daca3b,Dennis Lillee,ODI debut decade,1970,1970,https://en.wikipedia.org/wiki/Dennis_Lillee,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,Verified,First ODI 1972-08-24.
+c_daca3b,Dennis Lillee,Captained country,No,No,https://en.wikipedia.org/wiki/List_of_Australia_national_cricket_captains,https://en.wikipedia.org/wiki/Dennis_Lillee,Verified,"Not in the Australia captains list (Test, ODI or T20I)."
+c_daca3b,Dennis Lillee,ODI World Cup winner,No,No,https://www.icc-cricket.com/tournaments/cricketworldcup/news/india-bound-australia-lock-in-squad-for-2023-world-cup,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,"Australia won in 1987, 1999, 2003, 2007, 2015, 2023; not in those squads."
+c_12ae0c,Don Bradman,Name,Don Bradman,Don Bradman,https://en.wikipedia.org/wiki/Donald_Bradman,,Verified,Matches the Wikipedia article title.
+c_12ae0c,Don Bradman,Surname,Bradman,Bradman,https://en.wikipedia.org/wiki/Donald_Bradman,,Verified,From the name.
+c_12ae0c,Don Bradman,Country,Australia,Australia,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,https://en.wikipedia.org/wiki/Donald_Bradman,Verified,Represented Australia in Tests (no ODIs).
+c_12ae0c,Don Bradman,Role,Batter,Batter,https://en.wikipedia.org/wiki/Donald_Bradman,,Verified,Consistent with the infobox playing role.
+c_12ae0c,Don Bradman,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Donald_Bradman,,Verified,Infobox: right-handed.
+c_12ae0c,Don Bradman,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Donald_Bradman,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional leg break).
+c_12ae0c,Don Bradman,Bowling arm,,,https://en.wikipedia.org/wiki/Donald_Bradman,,Verified,Blank because not a regular bowler.
+c_12ae0c,Don Bradman,ODI debut decade,1920,N/A,https://en.wikipedia.org/wiki/Donald_Bradman,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,Corrected,"Never played an ODI (career 1928-48; ODIs began in 1971), so N/A and the game answers Unknown."
+c_12ae0c,Don Bradman,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Australia_national_cricket_captains,https://en.wikipedia.org/wiki/Donald_Bradman,Verified,Listed as Australia captain in: Test.
+c_12ae0c,Don Bradman,ODI World Cup winner,No,No,https://www.icc-cricket.com/tournaments/cricketworldcup/news/india-bound-australia-lock-in-squad-for-2023-world-cup,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,"Australia won in 1987, 1999, 2003, 2007, 2015, 2023; not in those squads."
+c_758e44,Glenn McGrath,Name,Glenn McGrath,Glenn McGrath,https://en.wikipedia.org/wiki/Glenn_McGrath,,Verified,Matches the Wikipedia article title.
+c_758e44,Glenn McGrath,Surname,McGrath,McGrath,https://en.wikipedia.org/wiki/Glenn_McGrath,,Verified,From the name.
+c_758e44,Glenn McGrath,Country,Australia,Australia,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,https://en.wikipedia.org/wiki/Glenn_McGrath,Verified,Listed among Australia ODI players.
+c_758e44,Glenn McGrath,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Glenn_McGrath,,Verified,Consistent with the infobox playing role.
+c_758e44,Glenn McGrath,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Glenn_McGrath,,Verified,Infobox: right-handed.
+c_758e44,Glenn McGrath,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Glenn_McGrath,,Verified,Infobox: Right-arm fast-medium.
+c_758e44,Glenn McGrath,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Glenn_McGrath,,Verified,Infobox: Right-arm fast-medium.
+c_758e44,Glenn McGrath,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/Glenn_McGrath,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,Verified,First ODI 1993-12-09.
+c_758e44,Glenn McGrath,Captained country,No,No,https://en.wikipedia.org/wiki/List_of_Australia_national_cricket_captains,https://en.wikipedia.org/wiki/Glenn_McGrath,Verified,"Not in the Australia captains list (Test, ODI or T20I)."
+c_758e44,Glenn McGrath,ODI World Cup winner,Yes,Yes,https://en.wikipedia.org/wiki/2007_Cricket_World_Cup_squads,,Verified,"Member of the winning squad in 1999, 2003, 2007."
+c_df81c7,Matthew Hayden,Name,Matthew Hayden,Matthew Hayden,https://en.wikipedia.org/wiki/Matthew_Hayden,,Verified,Matches the Wikipedia article title.
+c_df81c7,Matthew Hayden,Surname,Hayden,Hayden,https://en.wikipedia.org/wiki/Matthew_Hayden,,Verified,From the name.
+c_df81c7,Matthew Hayden,Country,Australia,Australia,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,https://en.wikipedia.org/wiki/Matthew_Hayden,Verified,Listed among Australia ODI players.
+c_df81c7,Matthew Hayden,Role,Batter,Batter,https://en.wikipedia.org/wiki/Matthew_Hayden,,Verified,Consistent with the infobox playing role.
+c_df81c7,Matthew Hayden,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Matthew_Hayden,,Verified,Infobox: left-handed.
+c_df81c7,Matthew Hayden,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Matthew_Hayden,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional right-arm medium).
+c_df81c7,Matthew Hayden,Bowling arm,,,https://en.wikipedia.org/wiki/Matthew_Hayden,,Verified,Blank because not a regular bowler.
+c_df81c7,Matthew Hayden,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/Matthew_Hayden,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,Verified,First ODI 1993-05-19.
+c_df81c7,Matthew Hayden,Captained country,No,No,https://en.wikipedia.org/wiki/List_of_Australia_national_cricket_captains,https://en.wikipedia.org/wiki/Matthew_Hayden,Verified,"Not in the Australia captains list (Test, ODI or T20I)."
+c_df81c7,Matthew Hayden,ODI World Cup winner,Yes,Yes,https://en.wikipedia.org/wiki/2007_Cricket_World_Cup_squads,,Verified,"Member of the winning squad in 2003, 2007."
+c_bf44e1,Mitchell Starc,Name,Mitchell Starc,Mitchell Starc,https://en.wikipedia.org/wiki/Mitchell_Starc,,Verified,Matches the Wikipedia article title.
+c_bf44e1,Mitchell Starc,Surname,Starc,Starc,https://en.wikipedia.org/wiki/Mitchell_Starc,,Verified,From the name.
+c_bf44e1,Mitchell Starc,Country,Australia,Australia,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,https://en.wikipedia.org/wiki/Mitchell_Starc,Verified,Listed among Australia ODI players.
+c_bf44e1,Mitchell Starc,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Mitchell_Starc,,Verified,Consistent with the infobox playing role.
+c_bf44e1,Mitchell Starc,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Mitchell_Starc,,Verified,Infobox: left-handed.
+c_bf44e1,Mitchell Starc,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Mitchell_Starc,,Verified,Infobox: Left-arm fast.
+c_bf44e1,Mitchell Starc,Bowling arm,Left,Left,https://en.wikipedia.org/wiki/Mitchell_Starc,,Verified,Infobox: Left-arm fast.
+c_bf44e1,Mitchell Starc,ODI debut decade,2010,2010,https://en.wikipedia.org/wiki/Mitchell_Starc,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,Verified,First ODI 2010-10-20.
+c_bf44e1,Mitchell Starc,Captained country,No,No,https://en.wikipedia.org/wiki/List_of_Australia_national_cricket_captains,https://en.wikipedia.org/wiki/Mitchell_Starc,Verified,"Not in the Australia captains list (Test, ODI or T20I)."
+c_bf44e1,Mitchell Starc,ODI World Cup winner,Yes,Yes,https://www.icc-cricket.com/tournaments/cricketworldcup/news/india-bound-australia-lock-in-squad-for-2023-world-cup,https://en.wikipedia.org/wiki/2023_Cricket_World_Cup_squads,Verified,"Member of the winning squad in 2023. Also believed to have won 2015, not re-checked here."
+c_2d13ff,Pat Cummins,Name,Pat Cummins,Pat Cummins,https://en.wikipedia.org/wiki/Pat_Cummins,,Verified,Matches the Wikipedia article title.
+c_2d13ff,Pat Cummins,Surname,Cummins,Cummins,https://en.wikipedia.org/wiki/Pat_Cummins,,Verified,From the name.
+c_2d13ff,Pat Cummins,Country,Australia,Australia,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,https://en.wikipedia.org/wiki/Pat_Cummins,Verified,Listed among Australia ODI players.
+c_2d13ff,Pat Cummins,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Pat_Cummins,,Verified,Consistent with the infobox playing role.
+c_2d13ff,Pat Cummins,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Pat_Cummins,,Verified,Infobox: right-handed.
+c_2d13ff,Pat Cummins,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Pat_Cummins,,Verified,Infobox: Right-arm fast.
+c_2d13ff,Pat Cummins,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Pat_Cummins,,Verified,Infobox: Right-arm fast.
+c_2d13ff,Pat Cummins,ODI debut decade,2010,2010,https://en.wikipedia.org/wiki/Pat_Cummins,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,Verified,First ODI 2011-10-19.
+c_2d13ff,Pat Cummins,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Australia_national_cricket_captains,https://en.wikipedia.org/wiki/Pat_Cummins,Verified,"Listed as Australia captain in: Test, ODI."
+c_2d13ff,Pat Cummins,ODI World Cup winner,Yes,Yes,https://www.icc-cricket.com/tournaments/cricketworldcup/news/india-bound-australia-lock-in-squad-for-2023-world-cup,https://en.wikipedia.org/wiki/2023_Cricket_World_Cup_squads,Verified,"Member of the winning squad in 2023. Also believed to have won 2015, not re-checked here."
+c_1b8b38,Ricky Ponting,Name,Ricky Ponting,Ricky Ponting,https://en.wikipedia.org/wiki/Ricky_Ponting,,Verified,Matches the Wikipedia article title.
+c_1b8b38,Ricky Ponting,Surname,Ponting,Ponting,https://en.wikipedia.org/wiki/Ricky_Ponting,,Verified,From the name.
+c_1b8b38,Ricky Ponting,Country,Australia,Australia,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,https://en.wikipedia.org/wiki/Ricky_Ponting,Verified,Listed among Australia ODI players.
+c_1b8b38,Ricky Ponting,Role,Batter,Batter,https://en.wikipedia.org/wiki/Ricky_Ponting,,Verified,Consistent with the infobox playing role.
+c_1b8b38,Ricky Ponting,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Ricky_Ponting,,Verified,Infobox: right-handed.
+c_1b8b38,Ricky Ponting,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Ricky_Ponting,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional right-arm medium).
+c_1b8b38,Ricky Ponting,Bowling arm,,,https://en.wikipedia.org/wiki/Ricky_Ponting,,Verified,Blank because not a regular bowler.
+c_1b8b38,Ricky Ponting,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/Ricky_Ponting,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,Verified,First ODI 1995-02-15.
+c_1b8b38,Ricky Ponting,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Australia_national_cricket_captains,https://en.wikipedia.org/wiki/Ricky_Ponting,Verified,"Listed as Australia captain in: Test, ODI, T20I."
+c_1b8b38,Ricky Ponting,ODI World Cup winner,Yes,Yes,https://en.wikipedia.org/wiki/2007_Cricket_World_Cup_squads,,Verified,"Member of the winning squad in 1999, 2003, 2007."
+c_5b9981,Shane Warne,Name,Shane Warne,Shane Warne,https://en.wikipedia.org/wiki/Shane_Warne,,Verified,Matches the Wikipedia article title.
+c_5b9981,Shane Warne,Surname,Warne,Warne,https://en.wikipedia.org/wiki/Shane_Warne,,Verified,From the name.
+c_5b9981,Shane Warne,Country,Australia,Australia,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,https://en.wikipedia.org/wiki/Shane_Warne,Verified,Listed among Australia ODI players.
+c_5b9981,Shane Warne,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Shane_Warne,,Verified,Consistent with the infobox playing role.
+c_5b9981,Shane Warne,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Shane_Warne,,Verified,Infobox: right-handed.
+c_5b9981,Shane Warne,Bowling,Spin,Spin,https://en.wikipedia.org/wiki/Shane_Warne,,Verified,Infobox: Leg break.
+c_5b9981,Shane Warne,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Shane_Warne,,Verified,Infobox: Leg break.
+c_5b9981,Shane Warne,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/Shane_Warne,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,Verified,First ODI 1993-03-24.
+c_5b9981,Shane Warne,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Australia_national_cricket_captains,https://en.wikipedia.org/wiki/Shane_Warne,Verified,Listed as Australia captain in: ODI.
+c_5b9981,Shane Warne,ODI World Cup winner,Yes,Yes,https://en.wikipedia.org/wiki/1999_Cricket_World_Cup_squads,,Verified,"Member of the winning squad in 1999. Withdrew before the 2003 World Cup, so only 1999 counts."
+c_ad3a3b,Steve Smith,Name,Steve Smith,Steve Smith,https://en.wikipedia.org/wiki/Steve_Smith_(cricketer),,Verified,Matches the Wikipedia article title.
+c_ad3a3b,Steve Smith,Surname,Smith,Smith,https://en.wikipedia.org/wiki/Steve_Smith_(cricketer),,Verified,From the name.
+c_ad3a3b,Steve Smith,Country,Australia,Australia,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,https://en.wikipedia.org/wiki/Steve_Smith_(cricketer),Verified,Listed among Australia ODI players.
+c_ad3a3b,Steve Smith,Role,Batter,Batter,https://en.wikipedia.org/wiki/Steve_Smith_(cricketer),,Verified,Consistent with the infobox playing role.
+c_ad3a3b,Steve Smith,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Steve_Smith_(cricketer),,Verified,Infobox: right-handed.
+c_ad3a3b,Steve Smith,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Steve_Smith_(cricketer),,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional leg break).
+c_ad3a3b,Steve Smith,Bowling arm,,,https://en.wikipedia.org/wiki/Steve_Smith_(cricketer),,Verified,Blank because not a regular bowler.
+c_ad3a3b,Steve Smith,ODI debut decade,2010,2010,https://en.wikipedia.org/wiki/Steve_Smith_(cricketer),https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,Verified,First ODI 2010-02-19.
+c_ad3a3b,Steve Smith,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Australia_national_cricket_captains,https://en.wikipedia.org/wiki/Steve_Smith_(cricketer),Verified,"Listed as Australia captain in: Test, ODI, T20I."
+c_ad3a3b,Steve Smith,ODI World Cup winner,Yes,Yes,https://www.icc-cricket.com/tournaments/cricketworldcup/news/india-bound-australia-lock-in-squad-for-2023-world-cup,https://en.wikipedia.org/wiki/2023_Cricket_World_Cup_squads,Verified,"Member of the winning squad in 2023. Also believed to have won 2015, not re-checked here."
+c_3ead7f,Steve Waugh,Name,Steve Waugh,Steve Waugh,https://en.wikipedia.org/wiki/Steve_Waugh,,Verified,Matches the Wikipedia article title.
+c_3ead7f,Steve Waugh,Surname,Waugh,Waugh,https://en.wikipedia.org/wiki/Steve_Waugh,,Verified,From the name.
+c_3ead7f,Steve Waugh,Country,Australia,Australia,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,https://en.wikipedia.org/wiki/Steve_Waugh,Verified,Listed among Australia ODI players.
+c_3ead7f,Steve Waugh,Role,Batter,Batter,https://en.wikipedia.org/wiki/Steve_Waugh,,Verified,Consistent with the infobox playing role.
+c_3ead7f,Steve Waugh,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Steve_Waugh,,Verified,Infobox: right-handed.
+c_3ead7f,Steve Waugh,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Steve_Waugh,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional right-arm medium).
+c_3ead7f,Steve Waugh,Bowling arm,,,https://en.wikipedia.org/wiki/Steve_Waugh,,Verified,Blank because not a regular bowler.
+c_3ead7f,Steve Waugh,ODI debut decade,1980,1980,https://en.wikipedia.org/wiki/Steve_Waugh,https://en.wikipedia.org/wiki/List_of_Australia_ODI_cricketers,Verified,First ODI 1986-01-09.
+c_3ead7f,Steve Waugh,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Australia_national_cricket_captains,https://en.wikipedia.org/wiki/Steve_Waugh,Verified,"Listed as Australia captain in: Test, ODI."
+c_3ead7f,Steve Waugh,ODI World Cup winner,Yes,Yes,https://en.wikipedia.org/wiki/1999_Cricket_World_Cup_squads,,Verified,"Member of the winning squad in 1987, 1999."
+c_797253,Shakib Al Hasan,Name,Shakib Al Hasan,Shakib Al Hasan,https://en.wikipedia.org/wiki/Shakib_Al_Hasan,,Verified,Matches the Wikipedia article title.
+c_797253,Shakib Al Hasan,Surname,Al Hasan,Al Hasan,https://en.wikipedia.org/wiki/Shakib_Al_Hasan,,Verified,From the name.
+c_797253,Shakib Al Hasan,Country,Bangladesh,Bangladesh,https://en.wikipedia.org/wiki/List_of_Bangladesh_ODI_cricketers,https://en.wikipedia.org/wiki/Shakib_Al_Hasan,Verified,Listed among Bangladesh ODI players.
+c_797253,Shakib Al Hasan,Role,All-rounder,All-rounder,https://en.wikipedia.org/wiki/Shakib_Al_Hasan,,Verified,Consistent with the infobox playing role.
+c_797253,Shakib Al Hasan,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Shakib_Al_Hasan,,Verified,Infobox: left-handed.
+c_797253,Shakib Al Hasan,Bowling,Spin,Spin,https://en.wikipedia.org/wiki/Shakib_Al_Hasan,,Verified,Infobox: Slow left-arm orthodox.
+c_797253,Shakib Al Hasan,Bowling arm,Left,Left,https://en.wikipedia.org/wiki/Shakib_Al_Hasan,,Verified,Infobox: Slow left-arm orthodox.
+c_797253,Shakib Al Hasan,ODI debut decade,2000,2000,https://en.wikipedia.org/wiki/Shakib_Al_Hasan,https://en.wikipedia.org/wiki/List_of_Bangladesh_ODI_cricketers,Verified,First ODI 2006-08-06.
+c_797253,Shakib Al Hasan,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Bangladesh_national_cricket_captains,https://en.wikipedia.org/wiki/Shakib_Al_Hasan,Verified,"Listed as Bangladesh captain in: Test, ODI, T20I."
+c_797253,Shakib Al Hasan,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,,Verified,Bangladesh has never won the men's ODI World Cup.
+c_4ed65e,Alastair Cook,Name,Alastair Cook,Alastair Cook,https://en.wikipedia.org/wiki/Alastair_Cook,,Verified,Matches the Wikipedia article title.
+c_4ed65e,Alastair Cook,Surname,Cook,Cook,https://en.wikipedia.org/wiki/Alastair_Cook,,Verified,From the name.
+c_4ed65e,Alastair Cook,Country,England,England,https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,https://en.wikipedia.org/wiki/Alastair_Cook,Verified,Listed among England ODI players.
+c_4ed65e,Alastair Cook,Role,Batter,Batter,https://en.wikipedia.org/wiki/Alastair_Cook,,Verified,Consistent with the infobox playing role.
+c_4ed65e,Alastair Cook,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Alastair_Cook,,Verified,Infobox: left-handed.
+c_4ed65e,Alastair Cook,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Alastair_Cook,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional right-arm slow seam).
+c_4ed65e,Alastair Cook,Bowling arm,,,https://en.wikipedia.org/wiki/Alastair_Cook,,Verified,Blank because not a regular bowler.
+c_4ed65e,Alastair Cook,ODI debut decade,2000,2000,https://en.wikipedia.org/wiki/Alastair_Cook,https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,Verified,First ODI 2006-06-28.
+c_4ed65e,Alastair Cook,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_England_cricket_captains,https://en.wikipedia.org/wiki/Alastair_Cook,Verified,"Listed as England captain in: Test, ODI, T20I."
+c_4ed65e,Alastair Cook,ODI World Cup winner,No,No,https://www.icc-cricket.com/tournaments/cricketworldcup/news/icc-mens-cricket-world-cup-2019-full-teams-and-squads,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,England won in 2019; not in those squads.
+c_77b6e6,Andrew Flintoff,Name,Andrew Flintoff,Andrew Flintoff,https://en.wikipedia.org/wiki/Andrew_Flintoff,,Verified,Matches the Wikipedia article title.
+c_77b6e6,Andrew Flintoff,Surname,Flintoff,Flintoff,https://en.wikipedia.org/wiki/Andrew_Flintoff,,Verified,From the name.
+c_77b6e6,Andrew Flintoff,Country,England,England,https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,https://en.wikipedia.org/wiki/Andrew_Flintoff,Verified,Listed among England ODI players.
+c_77b6e6,Andrew Flintoff,Role,All-rounder,All-rounder,https://en.wikipedia.org/wiki/Andrew_Flintoff,,Verified,Consistent with the infobox playing role.
+c_77b6e6,Andrew Flintoff,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Andrew_Flintoff,,Verified,Infobox: right-handed.
+c_77b6e6,Andrew Flintoff,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Andrew_Flintoff,,Verified,Infobox: Right-arm fast-medium.
+c_77b6e6,Andrew Flintoff,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Andrew_Flintoff,,Verified,Infobox: Right-arm fast-medium.
+c_77b6e6,Andrew Flintoff,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/Andrew_Flintoff,https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,Verified,First ODI 1999-04-07.
+c_77b6e6,Andrew Flintoff,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_England_cricket_captains,https://en.wikipedia.org/wiki/Andrew_Flintoff,Verified,"Listed as England captain in: Test, ODI."
+c_77b6e6,Andrew Flintoff,ODI World Cup winner,No,No,https://www.icc-cricket.com/tournaments/cricketworldcup/news/icc-mens-cricket-world-cup-2019-full-teams-and-squads,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,England won in 2019; not in those squads.
+c_7c12e5,Ben Stokes,Name,Ben Stokes,Ben Stokes,https://en.wikipedia.org/wiki/Ben_Stokes,,Verified,Matches the Wikipedia article title.
+c_7c12e5,Ben Stokes,Surname,Stokes,Stokes,https://en.wikipedia.org/wiki/Ben_Stokes,,Verified,From the name.
+c_7c12e5,Ben Stokes,Country,England,England,https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,https://en.wikipedia.org/wiki/Ben_Stokes,Verified,Listed among England ODI players.
+c_7c12e5,Ben Stokes,Role,All-rounder,All-rounder,https://en.wikipedia.org/wiki/Ben_Stokes,,Verified,Consistent with the infobox playing role.
+c_7c12e5,Ben Stokes,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Ben_Stokes,,Verified,Infobox: left-handed.
+c_7c12e5,Ben Stokes,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Ben_Stokes,,Verified,Infobox: Right-arm fast-medium.
+c_7c12e5,Ben Stokes,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Ben_Stokes,,Verified,Infobox: Right-arm fast-medium.
+c_7c12e5,Ben Stokes,ODI debut decade,2010,2010,https://en.wikipedia.org/wiki/Ben_Stokes,https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,Verified,First ODI 2011-08-25.
+c_7c12e5,Ben Stokes,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_England_cricket_captains,https://en.wikipedia.org/wiki/Ben_Stokes,Verified,"Listed as England captain in: Test, ODI."
+c_7c12e5,Ben Stokes,ODI World Cup winner,Yes,Yes,https://www.icc-cricket.com/tournaments/cricketworldcup/news/icc-mens-cricket-world-cup-2019-full-teams-and-squads,https://en.wikipedia.org/wiki/2019_Cricket_World_Cup_squads,Verified,Member of the winning squad in 2019.
+c_c71ed0,Eoin Morgan,Name,Eoin Morgan,Eoin Morgan,https://en.wikipedia.org/wiki/Eoin_Morgan,,Verified,Matches the Wikipedia article title.
+c_c71ed0,Eoin Morgan,Surname,Morgan,Morgan,https://en.wikipedia.org/wiki/Eoin_Morgan,,Verified,From the name.
+c_c71ed0,Eoin Morgan,Country,England,England,https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,https://en.wikipedia.org/wiki/Eoin_Morgan,Verified,Listed among England ODI players. First ODI was for Ireland.
+c_c71ed0,Eoin Morgan,Role,Batter,Batter,https://en.wikipedia.org/wiki/Eoin_Morgan,,Verified,Consistent with the infobox playing role.
+c_c71ed0,Eoin Morgan,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Eoin_Morgan,,Verified,Infobox: left-handed.
+c_c71ed0,Eoin Morgan,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Eoin_Morgan,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler'.
+c_c71ed0,Eoin Morgan,Bowling arm,,,https://en.wikipedia.org/wiki/Eoin_Morgan,,Verified,Blank because not a regular bowler.
+c_c71ed0,Eoin Morgan,ODI debut decade,2000,2000,https://en.wikipedia.org/wiki/Eoin_Morgan,https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,Verified,"First ODI 2006-08-05 for Ireland. First ODI was for Ireland (v Scotland, 2006); first for England in 2009. Brief rule: first ODI for any country."
+c_c71ed0,Eoin Morgan,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_England_cricket_captains,https://en.wikipedia.org/wiki/Eoin_Morgan,Verified,"Listed as England captain in: ODI, T20I."
+c_c71ed0,Eoin Morgan,ODI World Cup winner,Yes,Yes,https://www.icc-cricket.com/tournaments/cricketworldcup/news/icc-mens-cricket-world-cup-2019-full-teams-and-squads,https://en.wikipedia.org/wiki/2019_Cricket_World_Cup_squads,Verified,Member of the winning squad in 2019.
+c_da88e6,Ian Botham,Name,Ian Botham,Ian Botham,https://en.wikipedia.org/wiki/Ian_Botham,,Verified,Matches the Wikipedia article title.
+c_da88e6,Ian Botham,Surname,Botham,Botham,https://en.wikipedia.org/wiki/Ian_Botham,,Verified,From the name.
+c_da88e6,Ian Botham,Country,England,England,https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,https://en.wikipedia.org/wiki/Ian_Botham,Verified,Listed among England ODI players.
+c_da88e6,Ian Botham,Role,All-rounder,All-rounder,https://en.wikipedia.org/wiki/Ian_Botham,,Verified,Consistent with the infobox playing role.
+c_da88e6,Ian Botham,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Ian_Botham,,Verified,Infobox: right-handed.
+c_da88e6,Ian Botham,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Ian_Botham,,Verified,Infobox: Right-arm fast-medium.
+c_da88e6,Ian Botham,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Ian_Botham,,Verified,Infobox: Right-arm fast-medium.
+c_da88e6,Ian Botham,ODI debut decade,1970,1970,https://en.wikipedia.org/wiki/Ian_Botham,https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,Verified,First ODI 1976-08-26.
+c_da88e6,Ian Botham,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_England_cricket_captains,https://en.wikipedia.org/wiki/Ian_Botham,Verified,"Listed as England captain in: Test, ODI."
+c_da88e6,Ian Botham,ODI World Cup winner,No,No,https://www.icc-cricket.com/tournaments/cricketworldcup/news/icc-mens-cricket-world-cup-2019-full-teams-and-squads,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,England won in 2019; not in those squads.
+c_d9679b,James Anderson,Name,James Anderson,James Anderson,https://en.wikipedia.org/wiki/James_Anderson_(cricketer),,Verified,Matches the Wikipedia article title.
+c_d9679b,James Anderson,Surname,Anderson,Anderson,https://en.wikipedia.org/wiki/James_Anderson_(cricketer),,Verified,From the name.
+c_d9679b,James Anderson,Country,England,England,https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,https://en.wikipedia.org/wiki/James_Anderson_(cricketer),Verified,Listed among England ODI players.
+c_d9679b,James Anderson,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/James_Anderson_(cricketer),,Verified,Consistent with the infobox playing role.
+c_d9679b,James Anderson,Batting hand,Left,Left,https://en.wikipedia.org/wiki/James_Anderson_(cricketer),,Verified,Infobox: left-handed.
+c_d9679b,James Anderson,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/James_Anderson_(cricketer),,Verified,Infobox: Right-arm fast-medium.
+c_d9679b,James Anderson,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/James_Anderson_(cricketer),,Verified,Infobox: Right-arm fast-medium.
+c_d9679b,James Anderson,ODI debut decade,2000,2000,https://en.wikipedia.org/wiki/James_Anderson_(cricketer),https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,Verified,First ODI 2002-12-15.
+c_d9679b,James Anderson,Captained country,No,No,https://en.wikipedia.org/wiki/List_of_England_cricket_captains,https://en.wikipedia.org/wiki/James_Anderson_(cricketer),Verified,"Not in the England captains list (Test, ODI or T20I)."
+c_d9679b,James Anderson,ODI World Cup winner,No,No,https://www.icc-cricket.com/tournaments/cricketworldcup/news/icc-mens-cricket-world-cup-2019-full-teams-and-squads,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,England won in 2019; not in those squads.
+c_51aae2,Joe Root,Name,Joe Root,Joe Root,https://en.wikipedia.org/wiki/Joe_Root,,Verified,Matches the Wikipedia article title.
+c_51aae2,Joe Root,Surname,Root,Root,https://en.wikipedia.org/wiki/Joe_Root,,Verified,From the name.
+c_51aae2,Joe Root,Country,England,England,https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,https://en.wikipedia.org/wiki/Joe_Root,Verified,Listed among England ODI players.
+c_51aae2,Joe Root,Role,Batter,Batter,https://en.wikipedia.org/wiki/Joe_Root,,Verified,Consistent with the infobox playing role.
+c_51aae2,Joe Root,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Joe_Root,,Verified,Infobox: right-handed.
+c_51aae2,Joe Root,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Joe_Root,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional off break).
+c_51aae2,Joe Root,Bowling arm,,,https://en.wikipedia.org/wiki/Joe_Root,,Verified,Blank because not a regular bowler.
+c_51aae2,Joe Root,ODI debut decade,2010,2010,https://en.wikipedia.org/wiki/Joe_Root,https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,Verified,First ODI 2013-01-11.
+c_51aae2,Joe Root,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_England_cricket_captains,https://en.wikipedia.org/wiki/Joe_Root,Verified,Listed as England captain in: Test.
+c_51aae2,Joe Root,ODI World Cup winner,Yes,Yes,https://www.icc-cricket.com/tournaments/cricketworldcup/news/icc-mens-cricket-world-cup-2019-full-teams-and-squads,https://en.wikipedia.org/wiki/2019_Cricket_World_Cup_squads,Verified,Member of the winning squad in 2019.
+c_d3ecb4,Jos Buttler,Name,Jos Buttler,Jos Buttler,https://en.wikipedia.org/wiki/Jos_Buttler,,Verified,Matches the Wikipedia article title.
+c_d3ecb4,Jos Buttler,Surname,Buttler,Buttler,https://en.wikipedia.org/wiki/Jos_Buttler,,Verified,From the name.
+c_d3ecb4,Jos Buttler,Country,England,England,https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,https://en.wikipedia.org/wiki/Jos_Buttler,Verified,Listed among England ODI players.
+c_d3ecb4,Jos Buttler,Role,Wicketkeeper,Wicketkeeper,https://en.wikipedia.org/wiki/Jos_Buttler,,Verified,Consistent with the infobox playing role.
+c_d3ecb4,Jos Buttler,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Jos_Buttler,,Verified,Infobox: right-handed.
+c_d3ecb4,Jos Buttler,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Jos_Buttler,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler'.
+c_d3ecb4,Jos Buttler,Bowling arm,,,https://en.wikipedia.org/wiki/Jos_Buttler,,Verified,Blank because not a regular bowler.
+c_d3ecb4,Jos Buttler,ODI debut decade,2010,2010,https://en.wikipedia.org/wiki/Jos_Buttler,https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,Verified,First ODI 2012-02-21.
+c_d3ecb4,Jos Buttler,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_England_cricket_captains,https://en.wikipedia.org/wiki/Jos_Buttler,Verified,"Listed as England captain in: ODI, T20I."
+c_d3ecb4,Jos Buttler,ODI World Cup winner,Yes,Yes,https://www.icc-cricket.com/tournaments/cricketworldcup/news/icc-mens-cricket-world-cup-2019-full-teams-and-squads,https://en.wikipedia.org/wiki/2019_Cricket_World_Cup_squads,Verified,Member of the winning squad in 2019.
+c_428cf4,Kevin Pietersen,Name,Kevin Pietersen,Kevin Pietersen,https://en.wikipedia.org/wiki/Kevin_Pietersen,,Verified,Matches the Wikipedia article title.
+c_428cf4,Kevin Pietersen,Surname,Pietersen,Pietersen,https://en.wikipedia.org/wiki/Kevin_Pietersen,,Verified,From the name.
+c_428cf4,Kevin Pietersen,Country,England,England,https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,https://en.wikipedia.org/wiki/Kevin_Pietersen,Verified,Listed among England ODI players.
+c_428cf4,Kevin Pietersen,Role,Batter,Batter,https://en.wikipedia.org/wiki/Kevin_Pietersen,,Verified,Consistent with the infobox playing role.
+c_428cf4,Kevin Pietersen,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Kevin_Pietersen,,Verified,Infobox: right-handed.
+c_428cf4,Kevin Pietersen,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Kevin_Pietersen,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional off break).
+c_428cf4,Kevin Pietersen,Bowling arm,,,https://en.wikipedia.org/wiki/Kevin_Pietersen,,Verified,Blank because not a regular bowler.
+c_428cf4,Kevin Pietersen,ODI debut decade,2000,2000,https://en.wikipedia.org/wiki/Kevin_Pietersen,https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,Verified,First ODI 2004-11-28.
+c_428cf4,Kevin Pietersen,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_England_cricket_captains,https://en.wikipedia.org/wiki/Kevin_Pietersen,Verified,"Listed as England captain in: Test, ODI."
+c_428cf4,Kevin Pietersen,ODI World Cup winner,No,No,https://www.icc-cricket.com/tournaments/cricketworldcup/news/icc-mens-cricket-world-cup-2019-full-teams-and-squads,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,England won in 2019; not in those squads.
+c_4a3336,Stuart Broad,Name,Stuart Broad,Stuart Broad,https://en.wikipedia.org/wiki/Stuart_Broad,,Verified,Matches the Wikipedia article title.
+c_4a3336,Stuart Broad,Surname,Broad,Broad,https://en.wikipedia.org/wiki/Stuart_Broad,,Verified,From the name.
+c_4a3336,Stuart Broad,Country,England,England,https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,https://en.wikipedia.org/wiki/Stuart_Broad,Verified,Listed among England ODI players.
+c_4a3336,Stuart Broad,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Stuart_Broad,,Verified,Consistent with the infobox playing role.
+c_4a3336,Stuart Broad,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Stuart_Broad,,Verified,Infobox: left-handed.
+c_4a3336,Stuart Broad,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Stuart_Broad,,Verified,Infobox: Right-arm fast-medium.
+c_4a3336,Stuart Broad,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Stuart_Broad,,Verified,Infobox: Right-arm fast-medium.
+c_4a3336,Stuart Broad,ODI debut decade,2000,2000,https://en.wikipedia.org/wiki/Stuart_Broad,https://en.wikipedia.org/wiki/List_of_England_ODI_cricketers,Verified,First ODI 2006-08-30.
+c_4a3336,Stuart Broad,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_England_cricket_captains,https://en.wikipedia.org/wiki/Stuart_Broad,Verified,"Listed as England captain in: ODI, T20I."
+c_4a3336,Stuart Broad,ODI World Cup winner,No,No,https://www.icc-cricket.com/tournaments/cricketworldcup/news/icc-mens-cricket-world-cup-2019-full-teams-and-squads,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,England won in 2019; not in those squads.
+c_b17b3a,Anil Kumble,Name,Anil Kumble,Anil Kumble,https://en.wikipedia.org/wiki/Anil_Kumble,,Verified,Matches the Wikipedia article title.
+c_b17b3a,Anil Kumble,Surname,Kumble,Kumble,https://en.wikipedia.org/wiki/Anil_Kumble,,Verified,From the name.
+c_b17b3a,Anil Kumble,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/Anil_Kumble,Verified,Listed among India ODI players.
+c_b17b3a,Anil Kumble,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Anil_Kumble,,Verified,Consistent with the infobox playing role.
+c_b17b3a,Anil Kumble,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Anil_Kumble,,Verified,Infobox: right-handed.
+c_b17b3a,Anil Kumble,Bowling,Spin,Spin,https://en.wikipedia.org/wiki/Anil_Kumble,,Verified,Infobox: Leg break.
+c_b17b3a,Anil Kumble,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Anil_Kumble,,Verified,Infobox: Leg break.
+c_b17b3a,Anil Kumble,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/Anil_Kumble,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 1990-04-25.
+c_b17b3a,Anil Kumble,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/Anil_Kumble,Verified,"Listed as India captain in: Test, ODI."
+c_b17b3a,Anil Kumble,ODI World Cup winner,No,No,https://www.bcci.tv/news/article/bcci-names-15-member-team-for-wc,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,"India won in 1983, 2011; not in those squads."
+c_80d63a,Harbhajan Singh,Name,Harbhajan Singh,Harbhajan Singh,https://en.wikipedia.org/wiki/Harbhajan_Singh,,Verified,Matches the Wikipedia article title.
+c_80d63a,Harbhajan Singh,Surname,Singh,Singh,https://en.wikipedia.org/wiki/Harbhajan_Singh,,Verified,From the name.
+c_80d63a,Harbhajan Singh,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/Harbhajan_Singh,Verified,Listed among India ODI players.
+c_80d63a,Harbhajan Singh,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Harbhajan_Singh,,Verified,Consistent with the infobox playing role.
+c_80d63a,Harbhajan Singh,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Harbhajan_Singh,,Verified,Infobox: right-handed.
+c_80d63a,Harbhajan Singh,Bowling,Spin,Spin,https://en.wikipedia.org/wiki/Harbhajan_Singh,,Verified,Infobox: Off break.
+c_80d63a,Harbhajan Singh,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Harbhajan_Singh,,Verified,Infobox: Off break.
+c_80d63a,Harbhajan Singh,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/Harbhajan_Singh,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 1998-04-17.
+c_80d63a,Harbhajan Singh,Captained country,No,No,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/Harbhajan_Singh,Verified,"Not in the India captains list (Test, ODI or T20I)."
+c_80d63a,Harbhajan Singh,ODI World Cup winner,Yes,Yes,https://www.bcci.tv/news/article/bcci-names-15-member-team-for-wc,https://en.wikipedia.org/wiki/2011_Cricket_World_Cup_squads,Verified,Member of the winning squad in 2011.
+c_48f3ec,Hardik Pandya,Name,Hardik Pandya,Hardik Pandya,https://en.wikipedia.org/wiki/Hardik_Pandya,,Verified,Matches the Wikipedia article title.
+c_48f3ec,Hardik Pandya,Surname,Pandya,Pandya,https://en.wikipedia.org/wiki/Hardik_Pandya,,Verified,From the name.
+c_48f3ec,Hardik Pandya,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/Hardik_Pandya,Verified,Listed among India ODI players.
+c_48f3ec,Hardik Pandya,Role,All-rounder,All-rounder,https://en.wikipedia.org/wiki/Hardik_Pandya,,Verified,Consistent with the infobox playing role.
+c_48f3ec,Hardik Pandya,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Hardik_Pandya,,Verified,Infobox: right-handed.
+c_48f3ec,Hardik Pandya,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Hardik_Pandya,,Verified,Infobox: Right-arm medium-fast.
+c_48f3ec,Hardik Pandya,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Hardik_Pandya,,Verified,Infobox: Right-arm medium-fast.
+c_48f3ec,Hardik Pandya,ODI debut decade,2010,2010,https://en.wikipedia.org/wiki/Hardik_Pandya,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 2016-10-16.
+c_48f3ec,Hardik Pandya,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/Hardik_Pandya,Verified,"Listed as India captain in: ODI, T20I."
+c_48f3ec,Hardik Pandya,ODI World Cup winner,No,No,https://www.bcci.tv/news/article/bcci-names-15-member-team-for-wc,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,"India won in 1983, 2011; not in those squads."
+c_8d1297,Jasprit Bumrah,Name,Jasprit Bumrah,Jasprit Bumrah,https://en.wikipedia.org/wiki/Jasprit_Bumrah,,Verified,Matches the Wikipedia article title.
+c_8d1297,Jasprit Bumrah,Surname,Bumrah,Bumrah,https://en.wikipedia.org/wiki/Jasprit_Bumrah,,Verified,From the name.
+c_8d1297,Jasprit Bumrah,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/Jasprit_Bumrah,Verified,Listed among India ODI players.
+c_8d1297,Jasprit Bumrah,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Jasprit_Bumrah,,Verified,Consistent with the infobox playing role.
+c_8d1297,Jasprit Bumrah,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Jasprit_Bumrah,,Verified,Infobox: right-handed.
+c_8d1297,Jasprit Bumrah,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Jasprit_Bumrah,,Verified,Infobox: Right-arm fast.
+c_8d1297,Jasprit Bumrah,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Jasprit_Bumrah,,Verified,Infobox: Right-arm fast.
+c_8d1297,Jasprit Bumrah,ODI debut decade,2010,2010,https://en.wikipedia.org/wiki/Jasprit_Bumrah,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 2016-01-23.
+c_8d1297,Jasprit Bumrah,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/Jasprit_Bumrah,Verified,"Listed as India captain in: Test, T20I."
+c_8d1297,Jasprit Bumrah,ODI World Cup winner,No,No,https://www.bcci.tv/news/article/bcci-names-15-member-team-for-wc,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,"India won in 1983, 2011; not in those squads."
+c_1dec33,Kapil Dev,Name,Kapil Dev,Kapil Dev,https://en.wikipedia.org/wiki/Kapil_Dev,,Verified,Matches the Wikipedia article title.
+c_1dec33,Kapil Dev,Surname,Dev,Dev,https://en.wikipedia.org/wiki/Kapil_Dev,,Verified,From the name.
+c_1dec33,Kapil Dev,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/Kapil_Dev,Verified,Listed among India ODI players.
+c_1dec33,Kapil Dev,Role,All-rounder,All-rounder,https://en.wikipedia.org/wiki/Kapil_Dev,,Verified,Consistent with the infobox playing role.
+c_1dec33,Kapil Dev,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Kapil_Dev,,Verified,Infobox: right-handed.
+c_1dec33,Kapil Dev,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Kapil_Dev,,Verified,Infobox: Right-arm fast-medium.
+c_1dec33,Kapil Dev,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Kapil_Dev,,Verified,Infobox: Right-arm fast-medium.
+c_1dec33,Kapil Dev,ODI debut decade,1970,1970,https://en.wikipedia.org/wiki/Kapil_Dev,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 1978-10-01.
+c_1dec33,Kapil Dev,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/Kapil_Dev,Verified,"Listed as India captain in: Test, ODI."
+c_1dec33,Kapil Dev,ODI World Cup winner,Yes,Yes,https://en.wikipedia.org/wiki/1983_Cricket_World_Cup_squads,,Verified,Member of the winning squad in 1983.
+c_761fdf,MS Dhoni,Name,MS Dhoni,MS Dhoni,https://en.wikipedia.org/wiki/MS_Dhoni,,Verified,Matches the Wikipedia article title.
+c_761fdf,MS Dhoni,Surname,Dhoni,Dhoni,https://en.wikipedia.org/wiki/MS_Dhoni,,Verified,From the name.
+c_761fdf,MS Dhoni,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/MS_Dhoni,Verified,Listed among India ODI players.
+c_761fdf,MS Dhoni,Role,Wicketkeeper,Wicketkeeper,https://en.wikipedia.org/wiki/MS_Dhoni,,Verified,Consistent with the infobox playing role.
+c_761fdf,MS Dhoni,Batting hand,Right,Right,https://en.wikipedia.org/wiki/MS_Dhoni,,Verified,Infobox: right-handed.
+c_761fdf,MS Dhoni,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/MS_Dhoni,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler'.
+c_761fdf,MS Dhoni,Bowling arm,,,https://en.wikipedia.org/wiki/MS_Dhoni,,Verified,Blank because not a regular bowler.
+c_761fdf,MS Dhoni,ODI debut decade,2000,2000,https://en.wikipedia.org/wiki/MS_Dhoni,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 2004-12-23.
+c_761fdf,MS Dhoni,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/MS_Dhoni,Verified,"Listed as India captain in: Test, ODI, T20I."
+c_761fdf,MS Dhoni,ODI World Cup winner,Yes,Yes,https://www.bcci.tv/news/article/bcci-names-15-member-team-for-wc,https://en.wikipedia.org/wiki/2011_Cricket_World_Cup_squads,Verified,Member of the winning squad in 2011.
+c_a0db8a,Mohammed Shami,Name,Mohammed Shami,Mohammed Shami,https://en.wikipedia.org/wiki/Mohammed_Shami,,Verified,Matches the Wikipedia article title.
+c_a0db8a,Mohammed Shami,Surname,Shami,Shami,https://en.wikipedia.org/wiki/Mohammed_Shami,,Verified,From the name.
+c_a0db8a,Mohammed Shami,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/Mohammed_Shami,Verified,Listed among India ODI players.
+c_a0db8a,Mohammed Shami,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Mohammed_Shami,,Verified,Consistent with the infobox playing role.
+c_a0db8a,Mohammed Shami,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Mohammed_Shami,,Verified,Infobox: right-handed.
+c_a0db8a,Mohammed Shami,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Mohammed_Shami,,Verified,Infobox: Right-arm fast.
+c_a0db8a,Mohammed Shami,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Mohammed_Shami,,Verified,Infobox: Right-arm fast.
+c_a0db8a,Mohammed Shami,ODI debut decade,2010,2010,https://en.wikipedia.org/wiki/Mohammed_Shami,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 2013-01-06.
+c_a0db8a,Mohammed Shami,Captained country,No,No,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/Mohammed_Shami,Verified,"Not in the India captains list (Test, ODI or T20I)."
+c_a0db8a,Mohammed Shami,ODI World Cup winner,No,No,https://www.bcci.tv/news/article/bcci-names-15-member-team-for-wc,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,"India won in 1983, 2011; not in those squads."
+c_69bcca,Rahul Dravid,Name,Rahul Dravid,Rahul Dravid,https://en.wikipedia.org/wiki/Rahul_Dravid,,Verified,Matches the Wikipedia article title.
+c_69bcca,Rahul Dravid,Surname,Dravid,Dravid,https://en.wikipedia.org/wiki/Rahul_Dravid,,Verified,From the name.
+c_69bcca,Rahul Dravid,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/Rahul_Dravid,Verified,Listed among India ODI players.
+c_69bcca,Rahul Dravid,Role,Batter,Batter,https://en.wikipedia.org/wiki/Rahul_Dravid,,Verified,Consistent with the infobox playing role.
+c_69bcca,Rahul Dravid,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Rahul_Dravid,,Verified,Infobox: right-handed.
+c_69bcca,Rahul Dravid,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Rahul_Dravid,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional off break).
+c_69bcca,Rahul Dravid,Bowling arm,,,https://en.wikipedia.org/wiki/Rahul_Dravid,,Verified,Blank because not a regular bowler.
+c_69bcca,Rahul Dravid,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/Rahul_Dravid,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 1996-04-03.
+c_69bcca,Rahul Dravid,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/Rahul_Dravid,Verified,"Listed as India captain in: Test, ODI."
+c_69bcca,Rahul Dravid,ODI World Cup winner,No,No,https://www.bcci.tv/news/article/bcci-names-15-member-team-for-wc,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,"India won in 1983, 2011; not in those squads."
+c_055053,Ravichandran Ashwin,Name,Ravichandran Ashwin,Ravichandran Ashwin,https://en.wikipedia.org/wiki/Ravichandran_Ashwin,,Verified,Matches the Wikipedia article title.
+c_055053,Ravichandran Ashwin,Surname,Ashwin,Ashwin,https://en.wikipedia.org/wiki/Ravichandran_Ashwin,,Verified,From the name.
+c_055053,Ravichandran Ashwin,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/Ravichandran_Ashwin,Verified,Listed among India ODI players.
+c_055053,Ravichandran Ashwin,Role,Bowler,All-rounder,https://en.wikipedia.org/wiki/Ravichandran_Ashwin,,Corrected,Infobox calls him 'Bowling all-rounder'; the pack owner chose 'All-rounder' on 2026-10-18 (the pack has 4 classes).
+c_055053,Ravichandran Ashwin,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Ravichandran_Ashwin,,Verified,Infobox: right-handed.
+c_055053,Ravichandran Ashwin,Bowling,Spin,Spin,https://en.wikipedia.org/wiki/Ravichandran_Ashwin,,Verified,Infobox: Off break.
+c_055053,Ravichandran Ashwin,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Ravichandran_Ashwin,,Verified,Infobox: Off break.
+c_055053,Ravichandran Ashwin,ODI debut decade,2010,2010,https://en.wikipedia.org/wiki/Ravichandran_Ashwin,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 2010-06-05.
+c_055053,Ravichandran Ashwin,Captained country,No,No,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/Ravichandran_Ashwin,Verified,"Not in the India captains list (Test, ODI or T20I)."
+c_055053,Ravichandran Ashwin,ODI World Cup winner,Yes,Yes,https://www.bcci.tv/news/article/bcci-names-15-member-team-for-wc,https://en.wikipedia.org/wiki/2011_Cricket_World_Cup_squads,Verified,Member of the winning squad in 2011.
+c_276ed0,Ravindra Jadeja,Name,Ravindra Jadeja,Ravindra Jadeja,https://en.wikipedia.org/wiki/Ravindra_Jadeja,,Verified,Matches the Wikipedia article title.
+c_276ed0,Ravindra Jadeja,Surname,Jadeja,Jadeja,https://en.wikipedia.org/wiki/Ravindra_Jadeja,,Verified,From the name.
+c_276ed0,Ravindra Jadeja,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/Ravindra_Jadeja,Verified,Listed among India ODI players.
+c_276ed0,Ravindra Jadeja,Role,All-rounder,All-rounder,https://en.wikipedia.org/wiki/Ravindra_Jadeja,,Verified,Consistent with the infobox playing role.
+c_276ed0,Ravindra Jadeja,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Ravindra_Jadeja,,Verified,Infobox: left-handed.
+c_276ed0,Ravindra Jadeja,Bowling,Spin,Spin,https://en.wikipedia.org/wiki/Ravindra_Jadeja,,Verified,Infobox: Slow left-arm orthodox.
+c_276ed0,Ravindra Jadeja,Bowling arm,Left,Left,https://en.wikipedia.org/wiki/Ravindra_Jadeja,,Verified,Infobox: Slow left-arm orthodox.
+c_276ed0,Ravindra Jadeja,ODI debut decade,2000,2000,https://en.wikipedia.org/wiki/Ravindra_Jadeja,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 2009-02-08.
+c_276ed0,Ravindra Jadeja,Captained country,No,No,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/Ravindra_Jadeja,Verified,"Not in the India captains list (Test, ODI or T20I)."
+c_276ed0,Ravindra Jadeja,ODI World Cup winner,No,No,https://www.bcci.tv/news/article/bcci-names-15-member-team-for-wc,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,"India won in 1983, 2011; not in those squads."
+c_5deaef,Rohit Sharma,Name,Rohit Sharma,Rohit Sharma,https://en.wikipedia.org/wiki/Rohit_Sharma,,Verified,Matches the Wikipedia article title.
+c_5deaef,Rohit Sharma,Surname,Sharma,Sharma,https://en.wikipedia.org/wiki/Rohit_Sharma,,Verified,From the name.
+c_5deaef,Rohit Sharma,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/Rohit_Sharma,Verified,Listed among India ODI players.
+c_5deaef,Rohit Sharma,Role,Batter,Batter,https://en.wikipedia.org/wiki/Rohit_Sharma,,Verified,Consistent with the infobox playing role.
+c_5deaef,Rohit Sharma,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Rohit_Sharma,,Verified,Infobox: right-handed.
+c_5deaef,Rohit Sharma,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Rohit_Sharma,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional off break).
+c_5deaef,Rohit Sharma,Bowling arm,,,https://en.wikipedia.org/wiki/Rohit_Sharma,,Verified,Blank because not a regular bowler.
+c_5deaef,Rohit Sharma,ODI debut decade,2000,2000,https://en.wikipedia.org/wiki/Rohit_Sharma,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 2007-06-23.
+c_5deaef,Rohit Sharma,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/Rohit_Sharma,Verified,"Listed as India captain in: Test, ODI, T20I."
+c_5deaef,Rohit Sharma,ODI World Cup winner,No,No,https://www.bcci.tv/news/article/bcci-names-15-member-team-for-wc,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,"India won in 1983, 2011; not in those squads."
+c_c5b024,Sachin Tendulkar,Name,Sachin Tendulkar,Sachin Tendulkar,https://en.wikipedia.org/wiki/Sachin_Tendulkar,,Verified,Matches the Wikipedia article title.
+c_c5b024,Sachin Tendulkar,Surname,Tendulkar,Tendulkar,https://en.wikipedia.org/wiki/Sachin_Tendulkar,,Verified,From the name.
+c_c5b024,Sachin Tendulkar,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/Sachin_Tendulkar,Verified,Listed among India ODI players.
+c_c5b024,Sachin Tendulkar,Role,Batter,Batter,https://en.wikipedia.org/wiki/Sachin_Tendulkar,,Verified,Consistent with the infobox playing role.
+c_c5b024,Sachin Tendulkar,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Sachin_Tendulkar,,Verified,Infobox: right-handed.
+c_c5b024,Sachin Tendulkar,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Sachin_Tendulkar,,Verified,"Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional leg break, off break)."
+c_c5b024,Sachin Tendulkar,Bowling arm,,,https://en.wikipedia.org/wiki/Sachin_Tendulkar,,Verified,Blank because not a regular bowler.
+c_c5b024,Sachin Tendulkar,ODI debut decade,1980,1980,https://en.wikipedia.org/wiki/Sachin_Tendulkar,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 1989-12-18.
+c_c5b024,Sachin Tendulkar,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/Sachin_Tendulkar,Verified,"Listed as India captain in: Test, ODI."
+c_c5b024,Sachin Tendulkar,ODI World Cup winner,Yes,Yes,https://www.bcci.tv/news/article/bcci-names-15-member-team-for-wc,https://en.wikipedia.org/wiki/2011_Cricket_World_Cup_squads,Verified,Member of the winning squad in 2011.
+c_fbded7,Shikhar Dhawan,Name,Shikhar Dhawan,Shikhar Dhawan,https://en.wikipedia.org/wiki/Shikhar_Dhawan,,Verified,Matches the Wikipedia article title.
+c_fbded7,Shikhar Dhawan,Surname,Dhawan,Dhawan,https://en.wikipedia.org/wiki/Shikhar_Dhawan,,Verified,From the name.
+c_fbded7,Shikhar Dhawan,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/Shikhar_Dhawan,Verified,Listed among India ODI players.
+c_fbded7,Shikhar Dhawan,Role,Batter,Batter,https://en.wikipedia.org/wiki/Shikhar_Dhawan,,Verified,Consistent with the infobox playing role.
+c_fbded7,Shikhar Dhawan,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Shikhar_Dhawan,,Verified,Infobox: left-handed.
+c_fbded7,Shikhar Dhawan,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Shikhar_Dhawan,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional off break).
+c_fbded7,Shikhar Dhawan,Bowling arm,,,https://en.wikipedia.org/wiki/Shikhar_Dhawan,,Verified,Blank because not a regular bowler.
+c_fbded7,Shikhar Dhawan,ODI debut decade,2010,2010,https://en.wikipedia.org/wiki/Shikhar_Dhawan,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 2010-10-20.
+c_fbded7,Shikhar Dhawan,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/Shikhar_Dhawan,Verified,"Listed as India captain in: ODI, T20I."
+c_fbded7,Shikhar Dhawan,ODI World Cup winner,No,No,https://www.bcci.tv/news/article/bcci-names-15-member-team-for-wc,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,"India won in 1983, 2011; not in those squads."
+c_d9fa31,Shubman Gill,Name,Shubman Gill,Shubman Gill,https://en.wikipedia.org/wiki/Shubman_Gill,,Verified,Matches the Wikipedia article title.
+c_d9fa31,Shubman Gill,Surname,Gill,Gill,https://en.wikipedia.org/wiki/Shubman_Gill,,Verified,From the name.
+c_d9fa31,Shubman Gill,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/Shubman_Gill,Verified,Listed among India ODI players.
+c_d9fa31,Shubman Gill,Role,Batter,Batter,https://en.wikipedia.org/wiki/Shubman_Gill,,Verified,Consistent with the infobox playing role.
+c_d9fa31,Shubman Gill,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Shubman_Gill,,Verified,Infobox: right-handed.
+c_d9fa31,Shubman Gill,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Shubman_Gill,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional off break).
+c_d9fa31,Shubman Gill,Bowling arm,,,https://en.wikipedia.org/wiki/Shubman_Gill,,Verified,Blank because not a regular bowler.
+c_d9fa31,Shubman Gill,ODI debut decade,2010,2010,https://en.wikipedia.org/wiki/Shubman_Gill,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 2019-01-31.
+c_d9fa31,Shubman Gill,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/Shubman_Gill,Verified,"Listed as India captain in: Test, ODI, T20I."
+c_d9fa31,Shubman Gill,ODI World Cup winner,No,No,https://www.bcci.tv/news/article/bcci-names-15-member-team-for-wc,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,"India won in 1983, 2011; not in those squads."
+c_ef0210,Sourav Ganguly,Name,Sourav Ganguly,Sourav Ganguly,https://en.wikipedia.org/wiki/Sourav_Ganguly,,Verified,Matches the Wikipedia article title.
+c_ef0210,Sourav Ganguly,Surname,Ganguly,Ganguly,https://en.wikipedia.org/wiki/Sourav_Ganguly,,Verified,From the name.
+c_ef0210,Sourav Ganguly,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/Sourav_Ganguly,Verified,Listed among India ODI players.
+c_ef0210,Sourav Ganguly,Role,Batter,Batter,https://en.wikipedia.org/wiki/Sourav_Ganguly,,Verified,Consistent with the infobox playing role.
+c_ef0210,Sourav Ganguly,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Sourav_Ganguly,,Verified,Infobox: left-handed.
+c_ef0210,Sourav Ganguly,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Sourav_Ganguly,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional right-arm medium).
+c_ef0210,Sourav Ganguly,Bowling arm,,,https://en.wikipedia.org/wiki/Sourav_Ganguly,,Verified,Blank because not a regular bowler.
+c_ef0210,Sourav Ganguly,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/Sourav_Ganguly,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 1992-01-11.
+c_ef0210,Sourav Ganguly,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/Sourav_Ganguly,Verified,"Listed as India captain in: Test, ODI."
+c_ef0210,Sourav Ganguly,ODI World Cup winner,No,No,https://www.bcci.tv/news/article/bcci-names-15-member-team-for-wc,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,"India won in 1983, 2011; not in those squads."
+c_b6142d,Sunil Gavaskar,Name,Sunil Gavaskar,Sunil Gavaskar,https://en.wikipedia.org/wiki/Sunil_Gavaskar,,Verified,Matches the Wikipedia article title.
+c_b6142d,Sunil Gavaskar,Surname,Gavaskar,Gavaskar,https://en.wikipedia.org/wiki/Sunil_Gavaskar,,Verified,From the name.
+c_b6142d,Sunil Gavaskar,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/Sunil_Gavaskar,Verified,Listed among India ODI players.
+c_b6142d,Sunil Gavaskar,Role,Batter,Batter,https://en.wikipedia.org/wiki/Sunil_Gavaskar,,Verified,Consistent with the infobox playing role.
+c_b6142d,Sunil Gavaskar,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Sunil_Gavaskar,,Verified,Infobox: right-handed.
+c_b6142d,Sunil Gavaskar,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Sunil_Gavaskar,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler'.
+c_b6142d,Sunil Gavaskar,Bowling arm,,,https://en.wikipedia.org/wiki/Sunil_Gavaskar,,Verified,Blank because not a regular bowler.
+c_b6142d,Sunil Gavaskar,ODI debut decade,1970,1970,https://en.wikipedia.org/wiki/Sunil_Gavaskar,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 1974-07-13.
+c_b6142d,Sunil Gavaskar,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/Sunil_Gavaskar,Verified,"Listed as India captain in: Test, ODI."
+c_b6142d,Sunil Gavaskar,ODI World Cup winner,Yes,Yes,https://en.wikipedia.org/wiki/1983_Cricket_World_Cup_squads,,Verified,Member of the winning squad in 1983.
+c_19e2a6,VVS Laxman,Name,VVS Laxman,VVS Laxman,https://en.wikipedia.org/wiki/VVS_Laxman,,Verified,Matches the Wikipedia article title.
+c_19e2a6,VVS Laxman,Surname,Laxman,Laxman,https://en.wikipedia.org/wiki/VVS_Laxman,,Verified,From the name.
+c_19e2a6,VVS Laxman,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/VVS_Laxman,Verified,Listed among India ODI players.
+c_19e2a6,VVS Laxman,Role,Batter,Batter,https://en.wikipedia.org/wiki/VVS_Laxman,,Verified,Consistent with the infobox playing role.
+c_19e2a6,VVS Laxman,Batting hand,Right,Right,https://en.wikipedia.org/wiki/VVS_Laxman,,Verified,Infobox: right-handed.
+c_19e2a6,VVS Laxman,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/VVS_Laxman,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional off break).
+c_19e2a6,VVS Laxman,Bowling arm,,,https://en.wikipedia.org/wiki/VVS_Laxman,,Verified,Blank because not a regular bowler.
+c_19e2a6,VVS Laxman,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/VVS_Laxman,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 1998-04-09.
+c_19e2a6,VVS Laxman,Captained country,No,No,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/VVS_Laxman,Verified,"Not in the India captains list (Test, ODI or T20I)."
+c_19e2a6,VVS Laxman,ODI World Cup winner,No,No,https://www.bcci.tv/news/article/bcci-names-15-member-team-for-wc,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,"India won in 1983, 2011; not in those squads."
+c_88c098,Virat Kohli,Name,Virat Kohli,Virat Kohli,https://en.wikipedia.org/wiki/Virat_Kohli,,Verified,Matches the Wikipedia article title.
+c_88c098,Virat Kohli,Surname,Kohli,Kohli,https://en.wikipedia.org/wiki/Virat_Kohli,,Verified,From the name.
+c_88c098,Virat Kohli,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/Virat_Kohli,Verified,Listed among India ODI players.
+c_88c098,Virat Kohli,Role,Batter,Batter,https://en.wikipedia.org/wiki/Virat_Kohli,,Verified,Consistent with the infobox playing role.
+c_88c098,Virat Kohli,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Virat_Kohli,,Verified,Infobox: right-handed.
+c_88c098,Virat Kohli,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Virat_Kohli,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional right-arm medium).
+c_88c098,Virat Kohli,Bowling arm,,,https://en.wikipedia.org/wiki/Virat_Kohli,,Verified,Blank because not a regular bowler.
+c_88c098,Virat Kohli,ODI debut decade,2000,2000,https://en.wikipedia.org/wiki/Virat_Kohli,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 2008-08-18.
+c_88c098,Virat Kohli,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/Virat_Kohli,Verified,"Listed as India captain in: Test, ODI, T20I."
+c_88c098,Virat Kohli,ODI World Cup winner,Yes,Yes,https://www.bcci.tv/news/article/bcci-names-15-member-team-for-wc,https://en.wikipedia.org/wiki/2011_Cricket_World_Cup_squads,Verified,Member of the winning squad in 2011.
+c_888569,Virender Sehwag,Name,Virender Sehwag,Virender Sehwag,https://en.wikipedia.org/wiki/Virender_Sehwag,,Verified,Matches the Wikipedia article title.
+c_888569,Virender Sehwag,Surname,Sehwag,Sehwag,https://en.wikipedia.org/wiki/Virender_Sehwag,,Verified,From the name.
+c_888569,Virender Sehwag,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/Virender_Sehwag,Verified,Listed among India ODI players.
+c_888569,Virender Sehwag,Role,Batter,Batter,https://en.wikipedia.org/wiki/Virender_Sehwag,,Verified,Consistent with the infobox playing role.
+c_888569,Virender Sehwag,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Virender_Sehwag,,Verified,Infobox: right-handed.
+c_888569,Virender Sehwag,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Virender_Sehwag,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional off break).
+c_888569,Virender Sehwag,Bowling arm,,,https://en.wikipedia.org/wiki/Virender_Sehwag,,Verified,Blank because not a regular bowler.
+c_888569,Virender Sehwag,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/Virender_Sehwag,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 1999-04-01.
+c_888569,Virender Sehwag,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/Virender_Sehwag,Verified,"Listed as India captain in: Test, ODI, T20I."
+c_888569,Virender Sehwag,ODI World Cup winner,Yes,Yes,https://www.bcci.tv/news/article/bcci-names-15-member-team-for-wc,https://en.wikipedia.org/wiki/2011_Cricket_World_Cup_squads,Verified,Member of the winning squad in 2011.
+c_ac22b2,Yuvraj Singh,Name,Yuvraj Singh,Yuvraj Singh,https://en.wikipedia.org/wiki/Yuvraj_Singh,,Verified,Matches the Wikipedia article title.
+c_ac22b2,Yuvraj Singh,Surname,Singh,Singh,https://en.wikipedia.org/wiki/Yuvraj_Singh,,Verified,From the name.
+c_ac22b2,Yuvraj Singh,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/Yuvraj_Singh,Verified,Listed among India ODI players.
+c_ac22b2,Yuvraj Singh,Role,All-rounder,All-rounder,https://en.wikipedia.org/wiki/Yuvraj_Singh,,Verified,Infobox calls him 'Middle-order batsman'; the pack owner chose 'All-rounder' on 2026-10-18 (the pack has 4 classes).
+c_ac22b2,Yuvraj Singh,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Yuvraj_Singh,,Verified,Infobox: left-handed.
+c_ac22b2,Yuvraj Singh,Bowling,Spin,Spin,https://en.wikipedia.org/wiki/Yuvraj_Singh,,Verified,Infobox: Slow left-arm orthodox.
+c_ac22b2,Yuvraj Singh,Bowling arm,Left,Left,https://en.wikipedia.org/wiki/Yuvraj_Singh,,Verified,Infobox: Slow left-arm orthodox.
+c_ac22b2,Yuvraj Singh,ODI debut decade,2000,2000,https://en.wikipedia.org/wiki/Yuvraj_Singh,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 2000-10-03.
+c_ac22b2,Yuvraj Singh,Captained country,No,No,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/Yuvraj_Singh,Verified,"Not in the India captains list (Test, ODI or T20I)."
+c_ac22b2,Yuvraj Singh,ODI World Cup winner,Yes,Yes,https://www.bcci.tv/news/article/bcci-names-15-member-team-for-wc,https://en.wikipedia.org/wiki/2011_Cricket_World_Cup_squads,Verified,Member of the winning squad in 2011.
+c_b0b136,Zaheer Khan,Name,Zaheer Khan,Zaheer Khan,https://en.wikipedia.org/wiki/Zaheer_Khan,,Verified,Matches the Wikipedia article title.
+c_b0b136,Zaheer Khan,Surname,Khan,Khan,https://en.wikipedia.org/wiki/Zaheer_Khan,,Verified,From the name.
+c_b0b136,Zaheer Khan,Country,India,India,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,https://en.wikipedia.org/wiki/Zaheer_Khan,Verified,Listed among India ODI players.
+c_b0b136,Zaheer Khan,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Zaheer_Khan,,Verified,Consistent with the infobox playing role.
+c_b0b136,Zaheer Khan,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Zaheer_Khan,,Verified,Infobox: right-handed.
+c_b0b136,Zaheer Khan,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Zaheer_Khan,,Verified,Infobox: Left-arm fast-medium.
+c_b0b136,Zaheer Khan,Bowling arm,Left,Left,https://en.wikipedia.org/wiki/Zaheer_Khan,,Verified,Infobox: Left-arm fast-medium.
+c_b0b136,Zaheer Khan,ODI debut decade,2000,2000,https://en.wikipedia.org/wiki/Zaheer_Khan,https://en.wikipedia.org/wiki/List_of_India_ODI_cricketers,Verified,First ODI 2000-10-03.
+c_b0b136,Zaheer Khan,Captained country,No,No,https://en.wikipedia.org/wiki/List_of_India_national_cricket_captains,https://en.wikipedia.org/wiki/Zaheer_Khan,Verified,"Not in the India captains list (Test, ODI or T20I)."
+c_b0b136,Zaheer Khan,ODI World Cup winner,Yes,Yes,https://www.bcci.tv/news/article/bcci-names-15-member-team-for-wc,https://en.wikipedia.org/wiki/2011_Cricket_World_Cup_squads,Verified,Member of the winning squad in 2011.
+c_23d9a9,Daniel Vettori,Name,Daniel Vettori,Daniel Vettori,https://en.wikipedia.org/wiki/Daniel_Vettori,,Verified,Matches the Wikipedia article title.
+c_23d9a9,Daniel Vettori,Surname,Vettori,Vettori,https://en.wikipedia.org/wiki/Daniel_Vettori,,Verified,From the name.
+c_23d9a9,Daniel Vettori,Country,New Zealand,New Zealand,https://en.wikipedia.org/wiki/List_of_New_Zealand_ODI_cricketers,https://en.wikipedia.org/wiki/Daniel_Vettori,Verified,Listed among New Zealand ODI players.
+c_23d9a9,Daniel Vettori,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Daniel_Vettori,,Verified,Infobox calls him 'All-rounder'; the pack owner chose 'Bowler' on 2026-10-18 (the pack has 4 classes).
+c_23d9a9,Daniel Vettori,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Daniel_Vettori,,Verified,Infobox: left-handed.
+c_23d9a9,Daniel Vettori,Bowling,Spin,Spin,https://en.wikipedia.org/wiki/Daniel_Vettori,,Verified,Infobox: Slow left-arm orthodox.
+c_23d9a9,Daniel Vettori,Bowling arm,Left,Left,https://en.wikipedia.org/wiki/Daniel_Vettori,,Verified,Infobox: Slow left-arm orthodox.
+c_23d9a9,Daniel Vettori,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/Daniel_Vettori,https://en.wikipedia.org/wiki/List_of_New_Zealand_ODI_cricketers,Verified,First ODI 1997-03-25.
+c_23d9a9,Daniel Vettori,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_New_Zealand_national_cricket_captains,https://en.wikipedia.org/wiki/Daniel_Vettori,Verified,"Listed as New Zealand captain in: Test, ODI, T20I."
+c_23d9a9,Daniel Vettori,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,,Verified,New Zealand has never won the men's ODI World Cup.
+c_81900e,Kane Williamson,Name,Kane Williamson,Kane Williamson,https://en.wikipedia.org/wiki/Kane_Williamson,,Verified,Matches the Wikipedia article title.
+c_81900e,Kane Williamson,Surname,Williamson,Williamson,https://en.wikipedia.org/wiki/Kane_Williamson,,Verified,From the name.
+c_81900e,Kane Williamson,Country,New Zealand,New Zealand,https://en.wikipedia.org/wiki/List_of_New_Zealand_ODI_cricketers,https://en.wikipedia.org/wiki/Kane_Williamson,Verified,Listed among New Zealand ODI players.
+c_81900e,Kane Williamson,Role,Batter,Batter,https://en.wikipedia.org/wiki/Kane_Williamson,,Verified,Consistent with the infobox playing role.
+c_81900e,Kane Williamson,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Kane_Williamson,,Verified,Infobox: right-handed.
+c_81900e,Kane Williamson,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Kane_Williamson,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional off break).
+c_81900e,Kane Williamson,Bowling arm,,,https://en.wikipedia.org/wiki/Kane_Williamson,,Verified,Blank because not a regular bowler.
+c_81900e,Kane Williamson,ODI debut decade,2010,2010,https://en.wikipedia.org/wiki/Kane_Williamson,https://en.wikipedia.org/wiki/List_of_New_Zealand_ODI_cricketers,Verified,First ODI 2010-08-10.
+c_81900e,Kane Williamson,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_New_Zealand_national_cricket_captains,https://en.wikipedia.org/wiki/Kane_Williamson,Verified,"Listed as New Zealand captain in: Test, ODI, T20I."
+c_81900e,Kane Williamson,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,,Verified,New Zealand has never won the men's ODI World Cup.
+c_055ef0,Ross Taylor,Name,Ross Taylor,Ross Taylor,https://en.wikipedia.org/wiki/Ross_Taylor,,Verified,Matches the Wikipedia article title.
+c_055ef0,Ross Taylor,Surname,Taylor,Taylor,https://en.wikipedia.org/wiki/Ross_Taylor,,Verified,From the name.
+c_055ef0,Ross Taylor,Country,New Zealand,New Zealand,https://en.wikipedia.org/wiki/List_of_New_Zealand_ODI_cricketers,https://en.wikipedia.org/wiki/Ross_Taylor,Verified,Listed among New Zealand ODI players.
+c_055ef0,Ross Taylor,Role,Batter,Batter,https://en.wikipedia.org/wiki/Ross_Taylor,,Verified,Consistent with the infobox playing role.
+c_055ef0,Ross Taylor,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Ross_Taylor,,Verified,Infobox: right-handed.
+c_055ef0,Ross Taylor,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Ross_Taylor,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional off break).
+c_055ef0,Ross Taylor,Bowling arm,,,https://en.wikipedia.org/wiki/Ross_Taylor,,Verified,Blank because not a regular bowler.
+c_055ef0,Ross Taylor,ODI debut decade,2000,2000,https://en.wikipedia.org/wiki/Ross_Taylor,https://en.wikipedia.org/wiki/List_of_New_Zealand_ODI_cricketers,Verified,First ODI 2006-03-01.
+c_055ef0,Ross Taylor,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_New_Zealand_national_cricket_captains,https://en.wikipedia.org/wiki/Ross_Taylor,Verified,"Listed as New Zealand captain in: Test, ODI, T20I."
+c_055ef0,Ross Taylor,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,,Verified,New Zealand has never won the men's ODI World Cup.
+c_75ca70,Trent Boult,Name,Trent Boult,Trent Boult,https://en.wikipedia.org/wiki/Trent_Boult,,Verified,Matches the Wikipedia article title.
+c_75ca70,Trent Boult,Surname,Boult,Boult,https://en.wikipedia.org/wiki/Trent_Boult,,Verified,From the name.
+c_75ca70,Trent Boult,Country,New Zealand,New Zealand,https://en.wikipedia.org/wiki/List_of_New_Zealand_ODI_cricketers,https://en.wikipedia.org/wiki/Trent_Boult,Verified,Listed among New Zealand ODI players.
+c_75ca70,Trent Boult,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Trent_Boult,,Verified,Consistent with the infobox playing role.
+c_75ca70,Trent Boult,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Trent_Boult,,Verified,Infobox: right-handed.
+c_75ca70,Trent Boult,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Trent_Boult,,Verified,Infobox: Left-arm fast-medium.
+c_75ca70,Trent Boult,Bowling arm,Left,Left,https://en.wikipedia.org/wiki/Trent_Boult,,Verified,Infobox: Left-arm fast-medium.
+c_75ca70,Trent Boult,ODI debut decade,2010,2010,https://en.wikipedia.org/wiki/Trent_Boult,https://en.wikipedia.org/wiki/List_of_New_Zealand_ODI_cricketers,Verified,First ODI 2012-07-11.
+c_75ca70,Trent Boult,Captained country,No,No,https://en.wikipedia.org/wiki/List_of_New_Zealand_national_cricket_captains,https://en.wikipedia.org/wiki/Trent_Boult,Verified,"Not in the New Zealand captains list (Test, ODI or T20I)."
+c_75ca70,Trent Boult,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,,Verified,New Zealand has never won the men's ODI World Cup.
+c_82ff16,Babar Azam,Name,Babar Azam,Babar Azam,https://en.wikipedia.org/wiki/Babar_Azam,,Verified,Matches the Wikipedia article title.
+c_82ff16,Babar Azam,Surname,Azam,Azam,https://en.wikipedia.org/wiki/Babar_Azam,,Verified,From the name.
+c_82ff16,Babar Azam,Country,Pakistan,Pakistan,https://en.wikipedia.org/wiki/List_of_Pakistan_ODI_cricketers,https://en.wikipedia.org/wiki/Babar_Azam,Verified,Listed among Pakistan ODI players.
+c_82ff16,Babar Azam,Role,Batter,Batter,https://en.wikipedia.org/wiki/Babar_Azam,,Verified,Consistent with the infobox playing role.
+c_82ff16,Babar Azam,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Babar_Azam,,Verified,Infobox: right-handed.
+c_82ff16,Babar Azam,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Babar_Azam,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional off break).
+c_82ff16,Babar Azam,Bowling arm,,,https://en.wikipedia.org/wiki/Babar_Azam,,Verified,Blank because not a regular bowler.
+c_82ff16,Babar Azam,ODI debut decade,2010,2010,https://en.wikipedia.org/wiki/Babar_Azam,https://en.wikipedia.org/wiki/List_of_Pakistan_ODI_cricketers,Verified,First ODI 2015-05-31.
+c_82ff16,Babar Azam,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Pakistan_national_cricket_captains,https://en.wikipedia.org/wiki/Babar_Azam,Verified,"Listed as Pakistan captain in: Test, ODI, T20I."
+c_82ff16,Babar Azam,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/1992_Cricket_World_Cup_squads,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,Pakistan won in 1992; not in those squads.
+c_314a50,Imran Khan,Name,Imran Khan,Imran Khan,https://en.wikipedia.org/wiki/Imran_Khan,,Verified,Matches the Wikipedia article title.
+c_314a50,Imran Khan,Surname,Khan,Khan,https://en.wikipedia.org/wiki/Imran_Khan,,Verified,From the name.
+c_314a50,Imran Khan,Country,Pakistan,Pakistan,https://en.wikipedia.org/wiki/List_of_Pakistan_ODI_cricketers,https://en.wikipedia.org/wiki/Imran_Khan,Verified,Listed among Pakistan ODI players.
+c_314a50,Imran Khan,Role,All-rounder,All-rounder,https://en.wikipedia.org/wiki/Imran_Khan,,Verified,Consistent with the infobox playing role.
+c_314a50,Imran Khan,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Imran_Khan,,Verified,Infobox: right-handed.
+c_314a50,Imran Khan,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Imran_Khan,,Verified,Infobox: Right-arm fast.
+c_314a50,Imran Khan,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Imran_Khan,,Verified,Infobox: Right-arm fast.
+c_314a50,Imran Khan,ODI debut decade,1970,1970,https://en.wikipedia.org/wiki/Imran_Khan,https://en.wikipedia.org/wiki/List_of_Pakistan_ODI_cricketers,Verified,First ODI 1974-08-31.
+c_314a50,Imran Khan,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Pakistan_national_cricket_captains,https://en.wikipedia.org/wiki/Imran_Khan,Verified,"Listed as Pakistan captain in: Test, ODI."
+c_314a50,Imran Khan,ODI World Cup winner,Yes,Yes,https://en.wikipedia.org/wiki/1992_Cricket_World_Cup_squads,,Verified,Member of the winning squad in 1992.
+c_f14f66,Inzamam-ul-Haq,Name,Inzamam-ul-Haq,Inzamam-ul-Haq,https://en.wikipedia.org/wiki/Inzamam-ul-Haq,,Verified,Matches the Wikipedia article title.
+c_f14f66,Inzamam-ul-Haq,Surname,Inzamam-ul-Haq,Inzamam-ul-Haq,https://en.wikipedia.org/wiki/Inzamam-ul-Haq,,Verified,From the name.
+c_f14f66,Inzamam-ul-Haq,Country,Pakistan,Pakistan,https://en.wikipedia.org/wiki/List_of_Pakistan_ODI_cricketers,https://en.wikipedia.org/wiki/Inzamam-ul-Haq,Verified,Listed among Pakistan ODI players.
+c_f14f66,Inzamam-ul-Haq,Role,Batter,Batter,https://en.wikipedia.org/wiki/Inzamam-ul-Haq,,Verified,Consistent with the infobox playing role.
+c_f14f66,Inzamam-ul-Haq,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Inzamam-ul-Haq,,Verified,Infobox: right-handed.
+c_f14f66,Inzamam-ul-Haq,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Inzamam-ul-Haq,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional slow left-arm orthodox).
+c_f14f66,Inzamam-ul-Haq,Bowling arm,,,https://en.wikipedia.org/wiki/Inzamam-ul-Haq,,Verified,Blank because not a regular bowler.
+c_f14f66,Inzamam-ul-Haq,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/Inzamam-ul-Haq,https://en.wikipedia.org/wiki/List_of_Pakistan_ODI_cricketers,Verified,First ODI 1991-11-23.
+c_f14f66,Inzamam-ul-Haq,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Pakistan_national_cricket_captains,https://en.wikipedia.org/wiki/Inzamam-ul-Haq,Verified,"Listed as Pakistan captain in: Test, ODI, T20I."
+c_f14f66,Inzamam-ul-Haq,ODI World Cup winner,Yes,Yes,https://en.wikipedia.org/wiki/1992_Cricket_World_Cup_squads,,Verified,Member of the winning squad in 1992.
+c_6d4926,Shahid Afridi,Name,Shahid Afridi,Shahid Afridi,https://en.wikipedia.org/wiki/Shahid_Afridi,,Verified,Matches the Wikipedia article title.
+c_6d4926,Shahid Afridi,Surname,Afridi,Afridi,https://en.wikipedia.org/wiki/Shahid_Afridi,,Verified,From the name.
+c_6d4926,Shahid Afridi,Country,Pakistan,Pakistan,https://en.wikipedia.org/wiki/List_of_Pakistan_ODI_cricketers,https://en.wikipedia.org/wiki/Shahid_Afridi,Verified,Listed among Pakistan ODI players.
+c_6d4926,Shahid Afridi,Role,All-rounder,All-rounder,https://en.wikipedia.org/wiki/Shahid_Afridi,,Verified,Consistent with the infobox playing role.
+c_6d4926,Shahid Afridi,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Shahid_Afridi,,Verified,Infobox: right-handed.
+c_6d4926,Shahid Afridi,Bowling,Spin,Spin,https://en.wikipedia.org/wiki/Shahid_Afridi,,Verified,Infobox: Leg break.
+c_6d4926,Shahid Afridi,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Shahid_Afridi,,Verified,Infobox: Leg break.
+c_6d4926,Shahid Afridi,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/Shahid_Afridi,https://en.wikipedia.org/wiki/List_of_Pakistan_ODI_cricketers,Verified,First ODI 1996-10-02.
+c_6d4926,Shahid Afridi,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Pakistan_national_cricket_captains,https://en.wikipedia.org/wiki/Shahid_Afridi,Verified,"Listed as Pakistan captain in: Test, ODI, T20I."
+c_6d4926,Shahid Afridi,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/1992_Cricket_World_Cup_squads,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,Pakistan won in 1992; not in those squads.
+c_e63474,Shoaib Akhtar,Name,Shoaib Akhtar,Shoaib Akhtar,https://en.wikipedia.org/wiki/Shoaib_Akhtar,,Verified,Matches the Wikipedia article title.
+c_e63474,Shoaib Akhtar,Surname,Akhtar,Akhtar,https://en.wikipedia.org/wiki/Shoaib_Akhtar,,Verified,From the name.
+c_e63474,Shoaib Akhtar,Country,Pakistan,Pakistan,https://en.wikipedia.org/wiki/List_of_Pakistan_ODI_cricketers,https://en.wikipedia.org/wiki/Shoaib_Akhtar,Verified,Listed among Pakistan ODI players.
+c_e63474,Shoaib Akhtar,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Shoaib_Akhtar,,Verified,Consistent with the infobox playing role.
+c_e63474,Shoaib Akhtar,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Shoaib_Akhtar,,Verified,Infobox: right-handed.
+c_e63474,Shoaib Akhtar,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Shoaib_Akhtar,,Verified,Infobox: Right-arm fast.
+c_e63474,Shoaib Akhtar,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Shoaib_Akhtar,,Verified,Infobox: Right-arm fast.
+c_e63474,Shoaib Akhtar,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/Shoaib_Akhtar,https://en.wikipedia.org/wiki/List_of_Pakistan_ODI_cricketers,Verified,First ODI 1998-03-28.
+c_e63474,Shoaib Akhtar,Captained country,No,No,https://en.wikipedia.org/wiki/List_of_Pakistan_national_cricket_captains,https://en.wikipedia.org/wiki/Shoaib_Akhtar,Verified,"Not in the Pakistan captains list (Test, ODI or T20I)."
+c_e63474,Shoaib Akhtar,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/1992_Cricket_World_Cup_squads,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,Pakistan won in 1992; not in those squads.
+c_c2e4a2,Waqar Younis,Name,Waqar Younis,Waqar Younis,https://en.wikipedia.org/wiki/Waqar_Younis,,Verified,Matches the Wikipedia article title.
+c_c2e4a2,Waqar Younis,Surname,Younis,Younis,https://en.wikipedia.org/wiki/Waqar_Younis,,Verified,From the name.
+c_c2e4a2,Waqar Younis,Country,Pakistan,Pakistan,https://en.wikipedia.org/wiki/List_of_Pakistan_ODI_cricketers,https://en.wikipedia.org/wiki/Waqar_Younis,Verified,Listed among Pakistan ODI players.
+c_c2e4a2,Waqar Younis,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Waqar_Younis,,Verified,Consistent with the infobox playing role.
+c_c2e4a2,Waqar Younis,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Waqar_Younis,,Verified,Infobox: right-handed.
+c_c2e4a2,Waqar Younis,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Waqar_Younis,,Verified,Infobox: Right-arm fast.
+c_c2e4a2,Waqar Younis,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Waqar_Younis,,Verified,Infobox: Right-arm fast.
+c_c2e4a2,Waqar Younis,ODI debut decade,1980,1980,https://en.wikipedia.org/wiki/Waqar_Younis,https://en.wikipedia.org/wiki/List_of_Pakistan_ODI_cricketers,Verified,First ODI 1989-10-14.
+c_c2e4a2,Waqar Younis,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Pakistan_national_cricket_captains,https://en.wikipedia.org/wiki/Waqar_Younis,Verified,"Listed as Pakistan captain in: Test, ODI."
+c_c2e4a2,Waqar Younis,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/1992_Cricket_World_Cup_squads,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,Pakistan won in 1992; not in those squads. Not in the 1992 squad (injured).
+c_b5f95f,Wasim Akram,Name,Wasim Akram,Wasim Akram,https://en.wikipedia.org/wiki/Wasim_Akram,,Verified,Matches the Wikipedia article title.
+c_b5f95f,Wasim Akram,Surname,Akram,Akram,https://en.wikipedia.org/wiki/Wasim_Akram,,Verified,From the name.
+c_b5f95f,Wasim Akram,Country,Pakistan,Pakistan,https://en.wikipedia.org/wiki/List_of_Pakistan_ODI_cricketers,https://en.wikipedia.org/wiki/Wasim_Akram,Verified,Listed among Pakistan ODI players.
+c_b5f95f,Wasim Akram,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Wasim_Akram,,Verified,Infobox calls him 'Bowling all-rounder'; the pack owner chose 'Bowler' on 2026-10-18 (the pack has 4 classes).
+c_b5f95f,Wasim Akram,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Wasim_Akram,,Verified,Infobox: left-handed.
+c_b5f95f,Wasim Akram,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Wasim_Akram,,Verified,Infobox: Left-arm fast.
+c_b5f95f,Wasim Akram,Bowling arm,Left,Left,https://en.wikipedia.org/wiki/Wasim_Akram,,Verified,Infobox: Left-arm fast.
+c_b5f95f,Wasim Akram,ODI debut decade,1980,1980,https://en.wikipedia.org/wiki/Wasim_Akram,https://en.wikipedia.org/wiki/List_of_Pakistan_ODI_cricketers,Verified,First ODI 1984-11-23.
+c_b5f95f,Wasim Akram,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Pakistan_national_cricket_captains,https://en.wikipedia.org/wiki/Wasim_Akram,Verified,"Listed as Pakistan captain in: Test, ODI."
+c_b5f95f,Wasim Akram,ODI World Cup winner,Yes,Yes,https://en.wikipedia.org/wiki/1992_Cricket_World_Cup_squads,,Verified,Member of the winning squad in 1992.
+c_f8d89d,AB de Villiers,Name,AB de Villiers,AB de Villiers,https://en.wikipedia.org/wiki/AB_de_Villiers,,Verified,Matches the Wikipedia article title.
+c_f8d89d,AB de Villiers,Surname,de Villiers,de Villiers,https://en.wikipedia.org/wiki/AB_de_Villiers,,Verified,From the name.
+c_f8d89d,AB de Villiers,Country,South Africa,South Africa,https://en.wikipedia.org/wiki/List_of_South_Africa_ODI_cricketers,https://en.wikipedia.org/wiki/AB_de_Villiers,Verified,Listed among South Africa ODI players.
+c_f8d89d,AB de Villiers,Role,Batter,Batter,https://en.wikipedia.org/wiki/AB_de_Villiers,,Verified,Infobox calls him 'Wicket-keeper-batter'; the pack owner chose 'Batter' on 2026-10-18 (the pack has 4 classes).
+c_f8d89d,AB de Villiers,Batting hand,Right,Right,https://en.wikipedia.org/wiki/AB_de_Villiers,,Verified,Infobox: right-handed.
+c_f8d89d,AB de Villiers,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/AB_de_Villiers,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional right-arm medium).
+c_f8d89d,AB de Villiers,Bowling arm,,,https://en.wikipedia.org/wiki/AB_de_Villiers,,Verified,Blank because not a regular bowler.
+c_f8d89d,AB de Villiers,ODI debut decade,2000,2000,https://en.wikipedia.org/wiki/AB_de_Villiers,https://en.wikipedia.org/wiki/List_of_South_Africa_ODI_cricketers,Verified,First ODI 2005-02-02.
+c_f8d89d,AB de Villiers,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_South_Africa_national_cricket_captains,https://en.wikipedia.org/wiki/AB_de_Villiers,Verified,"Listed as South Africa captain in: Test, ODI, T20I."
+c_f8d89d,AB de Villiers,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,,Verified,South Africa has never won the men's ODI World Cup.
+c_5187e0,Dale Steyn,Name,Dale Steyn,Dale Steyn,https://en.wikipedia.org/wiki/Dale_Steyn,,Verified,Matches the Wikipedia article title.
+c_5187e0,Dale Steyn,Surname,Steyn,Steyn,https://en.wikipedia.org/wiki/Dale_Steyn,,Verified,From the name.
+c_5187e0,Dale Steyn,Country,South Africa,South Africa,https://en.wikipedia.org/wiki/List_of_South_Africa_ODI_cricketers,https://en.wikipedia.org/wiki/Dale_Steyn,Verified,Listed among South Africa ODI players. First ODI was for Africa XI.
+c_5187e0,Dale Steyn,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Dale_Steyn,,Verified,Consistent with the infobox playing role.
+c_5187e0,Dale Steyn,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Dale_Steyn,,Verified,Infobox: right-handed.
+c_5187e0,Dale Steyn,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Dale_Steyn,,Verified,Infobox: Right-arm fast.
+c_5187e0,Dale Steyn,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Dale_Steyn,,Verified,Infobox: Right-arm fast.
+c_5187e0,Dale Steyn,ODI debut decade,2000,2000,https://en.wikipedia.org/wiki/Dale_Steyn,https://en.wikipedia.org/wiki/List_of_South_Africa_ODI_cricketers,Verified,First ODI 2005-08-17 for Africa XI. First ODI was for the Africa XI v Asia XI (2005); first for South Africa in 2006. Both in the 2000s.
+c_5187e0,Dale Steyn,Captained country,No,No,https://en.wikipedia.org/wiki/List_of_South_Africa_national_cricket_captains,https://en.wikipedia.org/wiki/Dale_Steyn,Verified,"Not in the South Africa captains list (Test, ODI or T20I)."
+c_5187e0,Dale Steyn,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,,Verified,South Africa has never won the men's ODI World Cup.
+c_ff809f,Graeme Smith,Name,Graeme Smith,Graeme Smith,https://en.wikipedia.org/wiki/Graeme_Smith,,Verified,Matches the Wikipedia article title.
+c_ff809f,Graeme Smith,Surname,Smith,Smith,https://en.wikipedia.org/wiki/Graeme_Smith,,Verified,From the name.
+c_ff809f,Graeme Smith,Country,South Africa,South Africa,https://en.wikipedia.org/wiki/List_of_South_Africa_ODI_cricketers,https://en.wikipedia.org/wiki/Graeme_Smith,Verified,Listed among South Africa ODI players.
+c_ff809f,Graeme Smith,Role,Batter,Batter,https://en.wikipedia.org/wiki/Graeme_Smith,,Verified,Consistent with the infobox playing role.
+c_ff809f,Graeme Smith,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Graeme_Smith,,Verified,Infobox: left-handed.
+c_ff809f,Graeme Smith,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Graeme_Smith,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional off break).
+c_ff809f,Graeme Smith,Bowling arm,,,https://en.wikipedia.org/wiki/Graeme_Smith,,Verified,Blank because not a regular bowler.
+c_ff809f,Graeme Smith,ODI debut decade,2000,2000,https://en.wikipedia.org/wiki/Graeme_Smith,https://en.wikipedia.org/wiki/List_of_South_Africa_ODI_cricketers,Verified,First ODI 2002-03-30.
+c_ff809f,Graeme Smith,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_South_Africa_national_cricket_captains,https://en.wikipedia.org/wiki/Graeme_Smith,Verified,"Listed as South Africa captain in: Test, ODI, T20I."
+c_ff809f,Graeme Smith,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,,Verified,South Africa has never won the men's ODI World Cup.
+c_2639fe,Hashim Amla,Name,Hashim Amla,Hashim Amla,https://en.wikipedia.org/wiki/Hashim_Amla,,Verified,Matches the Wikipedia article title.
+c_2639fe,Hashim Amla,Surname,Amla,Amla,https://en.wikipedia.org/wiki/Hashim_Amla,,Verified,From the name.
+c_2639fe,Hashim Amla,Country,South Africa,South Africa,https://en.wikipedia.org/wiki/List_of_South_Africa_ODI_cricketers,https://en.wikipedia.org/wiki/Hashim_Amla,Verified,Listed among South Africa ODI players.
+c_2639fe,Hashim Amla,Role,Batter,Batter,https://en.wikipedia.org/wiki/Hashim_Amla,,Verified,Consistent with the infobox playing role.
+c_2639fe,Hashim Amla,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Hashim_Amla,,Verified,Infobox: right-handed.
+c_2639fe,Hashim Amla,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Hashim_Amla,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional off break).
+c_2639fe,Hashim Amla,Bowling arm,,,https://en.wikipedia.org/wiki/Hashim_Amla,,Verified,Blank because not a regular bowler.
+c_2639fe,Hashim Amla,ODI debut decade,2000,2000,https://en.wikipedia.org/wiki/Hashim_Amla,https://en.wikipedia.org/wiki/List_of_South_Africa_ODI_cricketers,Verified,First ODI 2008-03-09.
+c_2639fe,Hashim Amla,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_South_Africa_national_cricket_captains,https://en.wikipedia.org/wiki/Hashim_Amla,Verified,"Listed as South Africa captain in: Test, ODI, T20I."
+c_2639fe,Hashim Amla,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,,Verified,South Africa has never won the men's ODI World Cup.
+c_9f5f82,Kagiso Rabada,Name,Kagiso Rabada,Kagiso Rabada,https://en.wikipedia.org/wiki/Kagiso_Rabada,,Verified,Matches the Wikipedia article title.
+c_9f5f82,Kagiso Rabada,Surname,Rabada,Rabada,https://en.wikipedia.org/wiki/Kagiso_Rabada,,Verified,From the name.
+c_9f5f82,Kagiso Rabada,Country,South Africa,South Africa,https://en.wikipedia.org/wiki/List_of_South_Africa_ODI_cricketers,https://en.wikipedia.org/wiki/Kagiso_Rabada,Verified,Listed among South Africa ODI players.
+c_9f5f82,Kagiso Rabada,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Kagiso_Rabada,,Verified,Consistent with the infobox playing role.
+c_9f5f82,Kagiso Rabada,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Kagiso_Rabada,,Verified,Infobox: left-handed.
+c_9f5f82,Kagiso Rabada,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Kagiso_Rabada,,Verified,Infobox: Right-arm fast.
+c_9f5f82,Kagiso Rabada,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Kagiso_Rabada,,Verified,Infobox: Right-arm fast.
+c_9f5f82,Kagiso Rabada,ODI debut decade,2010,2010,https://en.wikipedia.org/wiki/Kagiso_Rabada,https://en.wikipedia.org/wiki/List_of_South_Africa_ODI_cricketers,Verified,First ODI 2015-07-10.
+c_9f5f82,Kagiso Rabada,Captained country,No,No,https://en.wikipedia.org/wiki/List_of_South_Africa_national_cricket_captains,https://en.wikipedia.org/wiki/Kagiso_Rabada,Verified,"Not in the South Africa captains list (Test, ODI or T20I)."
+c_9f5f82,Kagiso Rabada,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,,Verified,South Africa has never won the men's ODI World Cup.
+c_2da20e,Kumar Sangakkara,Name,Kumar Sangakkara,Kumar Sangakkara,https://en.wikipedia.org/wiki/Kumar_Sangakkara,,Verified,Matches the Wikipedia article title.
+c_2da20e,Kumar Sangakkara,Surname,Sangakkara,Sangakkara,https://en.wikipedia.org/wiki/Kumar_Sangakkara,,Verified,From the name.
+c_2da20e,Kumar Sangakkara,Country,Sri Lanka,Sri Lanka,https://en.wikipedia.org/wiki/List_of_Sri_Lanka_ODI_cricketers,https://en.wikipedia.org/wiki/Kumar_Sangakkara,Verified,Listed among Sri Lanka ODI players.
+c_2da20e,Kumar Sangakkara,Role,Wicketkeeper,Wicketkeeper,https://en.wikipedia.org/wiki/Kumar_Sangakkara,,Verified,Consistent with the infobox playing role.
+c_2da20e,Kumar Sangakkara,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Kumar_Sangakkara,,Verified,Infobox: left-handed.
+c_2da20e,Kumar Sangakkara,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Kumar_Sangakkara,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional off break).
+c_2da20e,Kumar Sangakkara,Bowling arm,,,https://en.wikipedia.org/wiki/Kumar_Sangakkara,,Verified,Blank because not a regular bowler.
+c_2da20e,Kumar Sangakkara,ODI debut decade,2000,2000,https://en.wikipedia.org/wiki/Kumar_Sangakkara,https://en.wikipedia.org/wiki/List_of_Sri_Lanka_ODI_cricketers,Verified,First ODI 2000-07-05.
+c_2da20e,Kumar Sangakkara,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Sri_Lanka_national_cricket_captains,https://en.wikipedia.org/wiki/Kumar_Sangakkara,Verified,"Listed as Sri Lanka captain in: Test, ODI, T20I."
+c_2da20e,Kumar Sangakkara,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/1996_Cricket_World_Cup_squads,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,Sri Lanka won in 1996; not in those squads.
+c_1db375,Lasith Malinga,Name,Lasith Malinga,Lasith Malinga,https://en.wikipedia.org/wiki/Lasith_Malinga,,Verified,Matches the Wikipedia article title.
+c_1db375,Lasith Malinga,Surname,Malinga,Malinga,https://en.wikipedia.org/wiki/Lasith_Malinga,,Verified,From the name.
+c_1db375,Lasith Malinga,Country,Sri Lanka,Sri Lanka,https://en.wikipedia.org/wiki/List_of_Sri_Lanka_ODI_cricketers,https://en.wikipedia.org/wiki/Lasith_Malinga,Verified,Listed among Sri Lanka ODI players.
+c_1db375,Lasith Malinga,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Lasith_Malinga,,Verified,Consistent with the infobox playing role.
+c_1db375,Lasith Malinga,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Lasith_Malinga,,Verified,Infobox: right-handed.
+c_1db375,Lasith Malinga,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Lasith_Malinga,,Verified,Infobox: Right-arm fast.
+c_1db375,Lasith Malinga,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Lasith_Malinga,,Verified,Infobox: Right-arm fast.
+c_1db375,Lasith Malinga,ODI debut decade,2000,2000,https://en.wikipedia.org/wiki/Lasith_Malinga,https://en.wikipedia.org/wiki/List_of_Sri_Lanka_ODI_cricketers,Verified,First ODI 2004-07-17.
+c_1db375,Lasith Malinga,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Sri_Lanka_national_cricket_captains,https://en.wikipedia.org/wiki/Lasith_Malinga,Verified,"Listed as Sri Lanka captain in: ODI, T20I."
+c_1db375,Lasith Malinga,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/1996_Cricket_World_Cup_squads,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,Sri Lanka won in 1996; not in those squads.
+c_4be4bf,Mahela Jayawardene,Name,Mahela Jayawardene,Mahela Jayawardene,https://en.wikipedia.org/wiki/Mahela_Jayawardene,,Verified,Matches the Wikipedia article title.
+c_4be4bf,Mahela Jayawardene,Surname,Jayawardene,Jayawardene,https://en.wikipedia.org/wiki/Mahela_Jayawardene,,Verified,From the name.
+c_4be4bf,Mahela Jayawardene,Country,Sri Lanka,Sri Lanka,https://en.wikipedia.org/wiki/List_of_Sri_Lanka_ODI_cricketers,https://en.wikipedia.org/wiki/Mahela_Jayawardene,Verified,Listed among Sri Lanka ODI players.
+c_4be4bf,Mahela Jayawardene,Role,Batter,Batter,https://en.wikipedia.org/wiki/Mahela_Jayawardene,,Verified,Consistent with the infobox playing role.
+c_4be4bf,Mahela Jayawardene,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Mahela_Jayawardene,,Verified,Infobox: right-handed.
+c_4be4bf,Mahela Jayawardene,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Mahela_Jayawardene,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional right-arm medium).
+c_4be4bf,Mahela Jayawardene,Bowling arm,,,https://en.wikipedia.org/wiki/Mahela_Jayawardene,,Verified,Blank because not a regular bowler.
+c_4be4bf,Mahela Jayawardene,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/Mahela_Jayawardene,https://en.wikipedia.org/wiki/List_of_Sri_Lanka_ODI_cricketers,Verified,First ODI 1998-01-24.
+c_4be4bf,Mahela Jayawardene,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Sri_Lanka_national_cricket_captains,https://en.wikipedia.org/wiki/Mahela_Jayawardene,Verified,"Listed as Sri Lanka captain in: Test, ODI, T20I."
+c_4be4bf,Mahela Jayawardene,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/1996_Cricket_World_Cup_squads,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,Sri Lanka won in 1996; not in those squads.
+c_44c51f,Muttiah Muralitharan,Name,Muttiah Muralidaran,Muttiah Muralitharan,https://en.wikipedia.org/wiki/Muttiah_Muralitharan,,Corrected,Spelling corrected from 'Muttiah Muralidaran' to the article's spelling; ID kept from the old name.
+c_44c51f,Muttiah Muralitharan,Surname,Muralidaran,Muralitharan,https://en.wikipedia.org/wiki/Muttiah_Muralitharan,,Corrected,Follows the corrected name.
+c_44c51f,Muttiah Muralitharan,Country,Sri Lanka,Sri Lanka,https://en.wikipedia.org/wiki/List_of_Sri_Lanka_ODI_cricketers,https://en.wikipedia.org/wiki/Muttiah_Muralitharan,Verified,Listed among Sri Lanka ODI players.
+c_44c51f,Muttiah Muralitharan,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Muttiah_Muralitharan,,Verified,Consistent with the infobox playing role.
+c_44c51f,Muttiah Muralitharan,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Muttiah_Muralitharan,,Verified,Infobox: right-handed.
+c_44c51f,Muttiah Muralitharan,Bowling,Spin,Spin,https://en.wikipedia.org/wiki/Muttiah_Muralitharan,,Verified,Infobox: Off break.
+c_44c51f,Muttiah Muralitharan,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Muttiah_Muralitharan,,Verified,Infobox: Off break.
+c_44c51f,Muttiah Muralitharan,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/Muttiah_Muralitharan,https://en.wikipedia.org/wiki/List_of_Sri_Lanka_ODI_cricketers,Verified,First ODI 1993-08-12.
+c_44c51f,Muttiah Muralitharan,Captained country,No,No,https://en.wikipedia.org/wiki/List_of_Sri_Lanka_national_cricket_captains,https://en.wikipedia.org/wiki/Muttiah_Muralitharan,Verified,"Not in the Sri Lanka captains list (Test, ODI or T20I)."
+c_44c51f,Muttiah Muralitharan,ODI World Cup winner,Yes,Yes,https://en.wikipedia.org/wiki/1996_Cricket_World_Cup_squads,,Verified,Member of the winning squad in 1996.
+c_2ecf6c,Sanath Jayasuriya,Name,Sanath Jayasuriya,Sanath Jayasuriya,https://en.wikipedia.org/wiki/Sanath_Jayasuriya,,Verified,Matches the Wikipedia article title.
+c_2ecf6c,Sanath Jayasuriya,Surname,Jayasuriya,Jayasuriya,https://en.wikipedia.org/wiki/Sanath_Jayasuriya,,Verified,From the name.
+c_2ecf6c,Sanath Jayasuriya,Country,Sri Lanka,Sri Lanka,https://en.wikipedia.org/wiki/List_of_Sri_Lanka_ODI_cricketers,https://en.wikipedia.org/wiki/Sanath_Jayasuriya,Verified,Listed among Sri Lanka ODI players.
+c_2ecf6c,Sanath Jayasuriya,Role,All-rounder,All-rounder,https://en.wikipedia.org/wiki/Sanath_Jayasuriya,,Verified,Consistent with the infobox playing role.
+c_2ecf6c,Sanath Jayasuriya,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Sanath_Jayasuriya,,Verified,Infobox: left-handed.
+c_2ecf6c,Sanath Jayasuriya,Bowling,Spin,Spin,https://en.wikipedia.org/wiki/Sanath_Jayasuriya,,Verified,Infobox: Slow left-arm orthodox.
+c_2ecf6c,Sanath Jayasuriya,Bowling arm,Left,Left,https://en.wikipedia.org/wiki/Sanath_Jayasuriya,,Verified,Infobox: Slow left-arm orthodox.
+c_2ecf6c,Sanath Jayasuriya,ODI debut decade,1980,1980,https://en.wikipedia.org/wiki/Sanath_Jayasuriya,https://en.wikipedia.org/wiki/List_of_Sri_Lanka_ODI_cricketers,Verified,First ODI 1989-12-26.
+c_2ecf6c,Sanath Jayasuriya,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Sri_Lanka_national_cricket_captains,https://en.wikipedia.org/wiki/Sanath_Jayasuriya,Verified,"Listed as Sri Lanka captain in: Test, ODI."
+c_2ecf6c,Sanath Jayasuriya,ODI World Cup winner,Yes,Yes,https://en.wikipedia.org/wiki/1996_Cricket_World_Cup_squads,,Verified,Member of the winning squad in 1996.
+c_4ead48,Brian Lara,Name,Brian Lara,Brian Lara,https://en.wikipedia.org/wiki/Brian_Lara,,Verified,Matches the Wikipedia article title.
+c_4ead48,Brian Lara,Surname,Lara,Lara,https://en.wikipedia.org/wiki/Brian_Lara,,Verified,From the name.
+c_4ead48,Brian Lara,Country,West Indies,West Indies,https://en.wikipedia.org/wiki/List_of_West_Indies_ODI_cricketers,https://en.wikipedia.org/wiki/Brian_Lara,Verified,Listed among West Indies ODI players.
+c_4ead48,Brian Lara,Role,Batter,Batter,https://en.wikipedia.org/wiki/Brian_Lara,,Verified,Consistent with the infobox playing role.
+c_4ead48,Brian Lara,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Brian_Lara,,Verified,Infobox: left-handed.
+c_4ead48,Brian Lara,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Brian_Lara,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional leg break).
+c_4ead48,Brian Lara,Bowling arm,,,https://en.wikipedia.org/wiki/Brian_Lara,,Verified,Blank because not a regular bowler.
+c_4ead48,Brian Lara,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/Brian_Lara,https://en.wikipedia.org/wiki/List_of_West_Indies_ODI_cricketers,Verified,First ODI 1990-11-09.
+c_4ead48,Brian Lara,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_West_Indies_cricket_captains,https://en.wikipedia.org/wiki/Brian_Lara,Verified,"Listed as West Indies captain in: Test, ODI."
+c_4ead48,Brian Lara,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/1979_Cricket_World_Cup_squads,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,"West Indies won in 1975, 1979; not in those squads."
+c_231838,Chris Gayle,Name,Chris Gayle,Chris Gayle,https://en.wikipedia.org/wiki/Chris_Gayle,,Verified,Matches the Wikipedia article title.
+c_231838,Chris Gayle,Surname,Gayle,Gayle,https://en.wikipedia.org/wiki/Chris_Gayle,,Verified,From the name.
+c_231838,Chris Gayle,Country,West Indies,West Indies,https://en.wikipedia.org/wiki/List_of_West_Indies_ODI_cricketers,https://en.wikipedia.org/wiki/Chris_Gayle,Verified,Listed among West Indies ODI players.
+c_231838,Chris Gayle,Role,Batter,All-rounder,https://en.wikipedia.org/wiki/Chris_Gayle,,Corrected,Infobox calls him 'All-rounder'; the pack owner chose 'All-rounder' on 2026-10-18 (the pack has 4 classes).
+c_231838,Chris Gayle,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Chris_Gayle,,Verified,Infobox: left-handed.
+c_231838,Chris Gayle,Bowling,Not a regular bowler,Spin,https://en.wikipedia.org/wiki/Chris_Gayle,,Corrected,Infobox: Off break.
+c_231838,Chris Gayle,Bowling arm,,Right,https://en.wikipedia.org/wiki/Chris_Gayle,,Corrected,Infobox: Off break.
+c_231838,Chris Gayle,ODI debut decade,1990,1990,https://en.wikipedia.org/wiki/Chris_Gayle,https://en.wikipedia.org/wiki/List_of_West_Indies_ODI_cricketers,Verified,First ODI 1999-09-11.
+c_231838,Chris Gayle,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_West_Indies_cricket_captains,https://en.wikipedia.org/wiki/Chris_Gayle,Verified,"Listed as West Indies captain in: Test, ODI, T20I."
+c_231838,Chris Gayle,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/1979_Cricket_World_Cup_squads,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,"West Indies won in 1975, 1979; not in those squads."
+c_dbbd1b,Clive Lloyd,Name,Clive Lloyd,Clive Lloyd,https://en.wikipedia.org/wiki/Clive_Lloyd,,Verified,Matches the Wikipedia article title.
+c_dbbd1b,Clive Lloyd,Surname,Lloyd,Lloyd,https://en.wikipedia.org/wiki/Clive_Lloyd,,Verified,From the name.
+c_dbbd1b,Clive Lloyd,Country,West Indies,West Indies,https://en.wikipedia.org/wiki/List_of_West_Indies_ODI_cricketers,https://en.wikipedia.org/wiki/Clive_Lloyd,Verified,Listed among West Indies ODI players.
+c_dbbd1b,Clive Lloyd,Role,Batter,Batter,https://en.wikipedia.org/wiki/Clive_Lloyd,,Verified,Consistent with the infobox playing role.
+c_dbbd1b,Clive Lloyd,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Clive_Lloyd,,Verified,Infobox: left-handed.
+c_dbbd1b,Clive Lloyd,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Clive_Lloyd,,Verified,Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional right-arm medium).
+c_dbbd1b,Clive Lloyd,Bowling arm,,,https://en.wikipedia.org/wiki/Clive_Lloyd,,Verified,Blank because not a regular bowler.
+c_dbbd1b,Clive Lloyd,ODI debut decade,1960,1970,https://en.wikipedia.org/wiki/Clive_Lloyd,https://en.wikipedia.org/wiki/List_of_West_Indies_ODI_cricketers,Corrected,"First ODI 1973-09-05. Test debut 1966, first ODI 1973."
+c_dbbd1b,Clive Lloyd,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_West_Indies_cricket_captains,https://en.wikipedia.org/wiki/Clive_Lloyd,Verified,"Listed as West Indies captain in: Test, ODI."
+c_dbbd1b,Clive Lloyd,ODI World Cup winner,Yes,Yes,https://en.wikipedia.org/wiki/1979_Cricket_World_Cup_squads,,Verified,"Member of the winning squad in 1975, 1979."
+c_61c84f,Courtney Walsh,Name,Courtney Walsh,Courtney Walsh,https://en.wikipedia.org/wiki/Courtney_Walsh,,Verified,Matches the Wikipedia article title.
+c_61c84f,Courtney Walsh,Surname,Walsh,Walsh,https://en.wikipedia.org/wiki/Courtney_Walsh,,Verified,From the name.
+c_61c84f,Courtney Walsh,Country,West Indies,West Indies,https://en.wikipedia.org/wiki/List_of_West_Indies_ODI_cricketers,https://en.wikipedia.org/wiki/Courtney_Walsh,Verified,Listed among West Indies ODI players.
+c_61c84f,Courtney Walsh,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Courtney_Walsh,,Verified,Consistent with the infobox playing role.
+c_61c84f,Courtney Walsh,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Courtney_Walsh,,Verified,Infobox: right-handed.
+c_61c84f,Courtney Walsh,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Courtney_Walsh,,Verified,Infobox: Right-arm fast.
+c_61c84f,Courtney Walsh,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Courtney_Walsh,,Verified,Infobox: Right-arm fast.
+c_61c84f,Courtney Walsh,ODI debut decade,1980,1980,https://en.wikipedia.org/wiki/Courtney_Walsh,https://en.wikipedia.org/wiki/List_of_West_Indies_ODI_cricketers,Verified,First ODI 1985-01-10.
+c_61c84f,Courtney Walsh,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_West_Indies_cricket_captains,https://en.wikipedia.org/wiki/Courtney_Walsh,Verified,"Listed as West Indies captain in: Test, ODI."
+c_61c84f,Courtney Walsh,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/1979_Cricket_World_Cup_squads,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,"West Indies won in 1975, 1979; not in those squads."
+c_e70434,Curtly Ambrose,Name,Curtly Ambrose,Curtly Ambrose,https://en.wikipedia.org/wiki/Curtly_Ambrose,,Verified,Matches the Wikipedia article title.
+c_e70434,Curtly Ambrose,Surname,Ambrose,Ambrose,https://en.wikipedia.org/wiki/Curtly_Ambrose,,Verified,From the name.
+c_e70434,Curtly Ambrose,Country,West Indies,West Indies,https://en.wikipedia.org/wiki/List_of_West_Indies_ODI_cricketers,https://en.wikipedia.org/wiki/Curtly_Ambrose,Verified,Listed among West Indies ODI players.
+c_e70434,Curtly Ambrose,Role,Bowler,Bowler,https://en.wikipedia.org/wiki/Curtly_Ambrose,,Verified,Consistent with the infobox playing role.
+c_e70434,Curtly Ambrose,Batting hand,Left,Left,https://en.wikipedia.org/wiki/Curtly_Ambrose,,Verified,Infobox: left-handed.
+c_e70434,Curtly Ambrose,Bowling,Pace,Pace,https://en.wikipedia.org/wiki/Curtly_Ambrose,,Verified,Infobox: Right-arm fast.
+c_e70434,Curtly Ambrose,Bowling arm,Right,Right,https://en.wikipedia.org/wiki/Curtly_Ambrose,,Verified,Infobox: Right-arm fast.
+c_e70434,Curtly Ambrose,ODI debut decade,1980,1980,https://en.wikipedia.org/wiki/Curtly_Ambrose,https://en.wikipedia.org/wiki/List_of_West_Indies_ODI_cricketers,Verified,First ODI 1988-03-12.
+c_e70434,Curtly Ambrose,Captained country,No,No,https://en.wikipedia.org/wiki/List_of_West_Indies_cricket_captains,https://en.wikipedia.org/wiki/Curtly_Ambrose,Verified,"Not in the West Indies captains list (Test, ODI or T20I)."
+c_e70434,Curtly Ambrose,ODI World Cup winner,No,No,https://en.wikipedia.org/wiki/1979_Cricket_World_Cup_squads,https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals,Verified,"West Indies won in 1975, 1979; not in those squads."
+c_341e05,Viv Richards,Name,Viv Richards,Viv Richards,https://en.wikipedia.org/wiki/Viv_Richards,,Verified,Matches the Wikipedia article title.
+c_341e05,Viv Richards,Surname,Richards,Richards,https://en.wikipedia.org/wiki/Viv_Richards,,Verified,From the name.
+c_341e05,Viv Richards,Country,West Indies,West Indies,https://en.wikipedia.org/wiki/List_of_West_Indies_ODI_cricketers,https://en.wikipedia.org/wiki/Viv_Richards,Verified,Listed among West Indies ODI players.
+c_341e05,Viv Richards,Role,Batter,Batter,https://en.wikipedia.org/wiki/Viv_Richards,,Verified,Infobox calls him 'Batting all-rounder'; the pack owner chose 'Batter' on 2026-10-18 (the pack has 4 classes).
+c_341e05,Viv Richards,Batting hand,Right,Right,https://en.wikipedia.org/wiki/Viv_Richards,,Verified,Infobox: right-handed.
+c_341e05,Viv Richards,Bowling,Not a regular bowler,Not a regular bowler,https://en.wikipedia.org/wiki/Viv_Richards,,Verified,"Workbook rule: specialist batters and keepers are 'Not a regular bowler' (infobox lists occasional slow seam, off break)."
+c_341e05,Viv Richards,Bowling arm,,,https://en.wikipedia.org/wiki/Viv_Richards,,Verified,Blank because not a regular bowler.
+c_341e05,Viv Richards,ODI debut decade,1970,1970,https://en.wikipedia.org/wiki/Viv_Richards,https://en.wikipedia.org/wiki/List_of_West_Indies_ODI_cricketers,Verified,First ODI 1975-06-07.
+c_341e05,Viv Richards,Captained country,Yes,Yes,https://en.wikipedia.org/wiki/List_of_West_Indies_cricket_captains,https://en.wikipedia.org/wiki/Viv_Richards,Verified,"Listed as West Indies captain in: Test, ODI."
+c_341e05,Viv Richards,ODI World Cup winner,Yes,Yes,https://en.wikipedia.org/wiki/1979_Cricket_World_Cup_squads,,Verified,"Member of the winning squad in 1975, 1979."

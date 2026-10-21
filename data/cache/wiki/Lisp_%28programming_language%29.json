@@ -1,0 +1,23 @@
+{
+ "asked": "Lisp (programming language)",
+ "title": "Lisp (programming language)",
+ "missing": false,
+ "disambiguation": false,
+ "description": "Programming language family",
+ "extract": "Lisp (historically LISP, an abbreviation of \"list processing\") is a family of programming languages with a long history and a distinctive, fully parenthesized prefix notation.\nOriginally specified in the late 1950s, it is the second-oldest high-level programming language still in common use, after Fortran. Lisp has changed since its early days, and many dialects have existed over its history. Today, the best-known general-purpose Lisp dialects are Common Lisp, Scheme, Racket, and Clojure.\nLisp was originally created as a practical mathematical notation for computer programs, influenced by (though not originally derived from) the notation of Alonzo Church's lambda calculus. It quickly became a favored programming language for artificial intelligence (AI) research. As one of the earliest programming languages, Lisp pioneered many ideas in computer science, including tree data structures, automatic storage management, dynamic typing, conditionals, higher-order functions, recursion, the self-hosting compiler, and the read–eval–print loop.\nThe name LISP derives from \"List Processor\". Linked lists are one of Lisp's major data structures, and Lisp source code is made of lists. Thus, Lisp programs can manipulate source code as a data structure, giving rise to the macro systems that allow programmers to create new syntax or new domain-specific languages embedded in Lisp.\nThe interchangeability of code and data gives Lisp its instantly recognizable syntax. All program code is written as s-expressions, or parenthesized lists. A function call or syntactic form is written as a list with the function or operator's name first, and the arguments following; for instance, a function f that takes three arguments would be called as (f arg1 arg2 arg3).",
+ "revid": 1371893565,
+ "infobox": {
+  "name": "Lisp",
+  "paradigm": "Multi-paradigm: functional, procedural, reflective, meta",
+  "released": "{{Start date and age|1960}}",
+  "designer": "John McCarthy",
+  "developer": "Steve Russell, Timothy P. Hart, Mike Levin",
+  "latest release version": "| latest release date =",
+  "typing": "Dynamic, strong",
+  "implementations": "| dialects = {{startflatlist}}",
+  "influenced by": "Information Processing Language (IPL)",
+  "influenced": "{{startflatlist}}"
+ },
+ "url": "https://en.wikipedia.org/wiki/Lisp_%28programming_language%29",
+ "fetched": "2026-10-18"
+}

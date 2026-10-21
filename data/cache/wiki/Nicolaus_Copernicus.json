@@ -1,0 +1,29 @@
+{
+ "asked": "Nicolaus Copernicus",
+ "title": "Nicolaus Copernicus",
+ "missing": false,
+ "disambiguation": false,
+ "description": "Mathematician and astronomer (1473–1543)",
+ "extract": "Nicolaus Copernicus (19 February 1473 – 24 May 1543) was a Renaissance polymath who formulated a model of the universe that placed the Sun rather than Earth at its center. The publication of Copernicus's model in his book De revolutionibus orbium coelestium (On the Revolutions of the Celestial Spheres), just before his death in 1543, was a major event in the history of science, triggering the Copernican Revolution and making a pioneering contribution to the Scientific Revolution. Though a similar heliocentric model had been developed eighteen centuries earlier by Aristarchus of Samos, an ancient Greek astronomer, Copernicus likely arrived at his model independently.\nCopernicus was born and died in Royal Prussia, a semi-autonomous and multilingual region created within the Crown of the Kingdom of Poland from lands regained from the Teutonic Order after the Thirteen Years' War.\nA polyglot and polymath, he obtained a doctorate in canon law and was a mathematician, astronomer, physician, classics scholar, translator, governor, diplomat, and economist. From 1497 he was a Warmian Cathedral chapter canon. In 1517 he derived a quantity theory of money—a key concept in economics—and in 1519 he formulated an economic principle that later came to be called Gresham's law.",
+ "revid": 1375851478,
+ "infobox": {
+  "name": "Nicolaus Copernicus",
+  "image": "Nikolaus Kopernikus MOT.jpg",
+  "caption": "\"Toruń portrait\" ({{Circa|1580}}){{efn|The oldest known portrait of Copernicus is that on the Strasbourg astronomical clock, made by Tobias Stimmer c. 1571–1574. According to the inscription next to that portrait, it was made from a self-portrait by Copernicus himself. This has led to speculation th",
+  "birth_date": "19 February 1473",
+  "birth_place": "{{nowrap|Thorn, Royal Prussia, Poland}}",
+  "death_date": "24 May 1543 (aged&nbsp;70)",
+  "death_place": "{{nowrap|Frauenburg, Royal Prussia, Poland}}",
+  "field": "{{hlist|Astronomy |Canon law |Economics |Mathematics |Medicine |Politics}}",
+  "education": "{{ublist|class=nowrap|University of Kraków (1491–1495)|University of Bologna (1496–1500)|University of Padua (1501–1503)|University of Ferrara (DCanL, 1503)}}",
+  "known_for": "{{ublist|class=nowrap|Copernican heliocentrism|Quantity theory of money|Gresham–Copernicus law}}",
+  "signature": "Nicolaus Copernicus signature (podpis Mikołaja Kopernika).svg",
+  "academic_advisors": "Domenico Maria Novara da Ferrara",
+  "module": "{{Infobox military person | embed = yes",
+  "allegiance": "Kingdom of Poland 23px",
+  "service_years": "1519–1521",
+  "battles": "{{tree list}}"
+ },
+ "url": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
+ "fetched": "2026-10-18"
+}

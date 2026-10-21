@@ -1,0 +1,31 @@
+{
+ "asked": "Swift (programming language)",
+ "title": "Swift (programming language)",
+ "missing": false,
+ "disambiguation": false,
+ "description": "General-purpose programming language",
+ "extract": "Swift is a high-level general-purpose, multi-paradigm, compiled programming language created by Chris Lattner in 2010 for Apple Inc. and maintained by the open-source community. Swift compiles to machine code and uses an LLVM-based compiler. Swift was first released in June 2014 and the Swift toolchain has shipped in Xcode since Xcode version 6, released in September 2014.\nApple intended Swift to support many core concepts associated with Objective-C, notably dynamic dispatch, widespread late binding, extensible programming, and similar features, but in a \"safer\" way, making it easier to catch software bugs; Swift has features addressing some common programming errors like null pointer dereferencing and provides syntactic sugar to help avoid the pyramid of doom. Swift supports the concept of protocol extensibility, an extensibility system that can be applied to types, structs and classes, which Apple promotes as a real change in programming paradigms they term \"protocol-oriented programming\" (similar to traits and type classes).\nSwift was introduced at Apple's 2014 Worldwide Developers Conference (WWDC). It underwent an upgrade to version 1.2 during 2014 and a major upgrade to Swift 2 at WWDC 2015. It was initially a proprietary language, but version 2.2 was made open-source software under the Apache License 2.0 on December 3, 2015, for Apple's platforms and Linux.",
+ "revid": 1379000016,
+ "infobox": {
+  "name": "Swift (programming language)",
+  "title": "Swift",
+  "logo": "{{Dark mode switch|250px|250px|logo}}",
+  "paradigm": "Multi-paradigm: protocol-oriented, object-oriented, functional, imperative, block structured, declarative, concurrent",
+  "released": "{{start date and age|2014|6|2}}",
+  "designer": "Chris Lattner, Doug Gregor, John McCall, Ted Kremenek, Joe Groff, and Apple Inc.",
+  "developer": "Apple Inc. and open-source contributors",
+  "latest_release_version": "{{wikidata|property|reference|edit|Q17118377|P348}}",
+  "latest_release_date": "{{start date and age|{{wikidata|qualifier|single|Q17118377|P348|P577}}}}",
+  "typing": "Static, strong, inferred",
+  "memory management": "Automatic Reference Counting",
+  "operating system": "Apple's operating systems (Darwin, iOS, iPadOS, macOS, tvOS, visionOS, watchOS), Linux, Windows, FreeBSD, Android, z/OS",
+  "license": "Apache 2.0 (Swift 2.2–present)<br/>Proprietary (Swift 1.0–2.1)",
+  "website": "{{plainlist|",
+  "file ext": ".swift, .SWIFT",
+  "implementations": "swiftc, silver",
+  "influenced by": "Objective-C, Rust, Haskell, Ruby, Python, C#, CLU, D",
+  "influenced": "Rust, V (Vlang), Mojo, Carbon"
+ },
+ "url": "https://en.wikipedia.org/wiki/Swift_%28programming_language%29",
+ "fetched": "2026-10-18"
+}

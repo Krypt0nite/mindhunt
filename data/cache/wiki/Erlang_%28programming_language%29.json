@@ -1,0 +1,30 @@
+{
+ "asked": "Erlang (programming language)",
+ "title": "Erlang (programming language)",
+ "missing": false,
+ "disambiguation": false,
+ "description": "Programming language",
+ "extract": "Erlang ( UR-lang) is a general-purpose, concurrent, functional high-level programming language, and a garbage-collected runtime system. The term Erlang is used interchangeably with Erlang/OTP, or Open Telecom Platform (OTP), which consists of the Erlang runtime system, several ready-to-use components (OTP) mainly written in Erlang, and a set of design principles for Erlang programs.\nThe Erlang runtime system is designed for systems with these traits:\n\nDistributed\nFault-tolerant\nSoft real-time\nHighly available, non-stop applications\nHot swapping, where code can be changed without stopping a system.\nThe Erlang programming language has data, pattern matching, and functional programming. The sequential subset of the Erlang language supports eager evaluation, single assignment, and dynamic typing.\nA normal Erlang application is built out of hundreds of small Erlang processes.\nIt was originally proprietary software within Ericsson, developed by Joe Armstrong, Robert Virding, and Mike Williams in 1986, but was released as free and open-source software in 1998. Erlang/OTP is supported and maintained by the Open Telecom Platform (OTP) product unit at Ericsson.",
+ "revid": 1371489886,
+ "infobox": {
+  "name": "Erlang",
+  "logo": "Erlang logo.svg",
+  "logo size": "140px",
+  "paradigms": "Multi-paradigm: concurrent, functional",
+  "family": "| designer = {{unbulleted list|Joe Armstrong|Robert Virding|Mike Williams}}",
+  "developer": "Ericsson",
+  "released": "{{Start date and age|1986}}",
+  "latest release version": "{{wikidata|property|edit|reference|P348}}",
+  "latest release date": "{{start date and age|{{wikidata|qualifier|single|P348|P577}}}}",
+  "typing": "Dynamic, strong",
+  "scope": "| implementations = Erlang",
+  "dialects": "| influenced_by = Lisp, PLEX, Prolog, Smalltalk",
+  "influenced": "Akka, Clojure, Dart, Elixir, F#, Opa, Oz, Reia, Rust, Scala, Go",
+  "file ext": ".erl, .hrl",
+  "license": "Apache License 2.0",
+  "website": "{{url|https://www.erlang.org}}",
+  "wikibooks": "Erlang Programming"
+ },
+ "url": "https://en.wikipedia.org/wiki/Erlang_%28programming_language%29",
+ "fetched": "2026-10-18"
+}

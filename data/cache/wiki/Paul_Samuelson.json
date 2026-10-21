@@ -1,0 +1,33 @@
+{
+ "asked": "Paul Samuelson",
+ "title": "Paul Samuelson",
+ "missing": false,
+ "disambiguation": false,
+ "description": "American economist and Nobel Laureate (1915–2009)",
+ "extract": "Paul Anthony Samuelson (May 15, 1915 – December 13, 2009) was an American economist who was the first American to win the Nobel Memorial Prize in Economic Sciences. When awarding the prize in 1970, the Swedish Royal Academies stated that he \"has done more than any other contemporary economist to raise the level of scientific analysis in economic theory\".\nSamuelson was one of the most influential economists of the latter half of the 20th century. In 1996, he was awarded the National Medal of Science. Samuelson considered mathematics to be the \"natural language\" for economists and contributed significantly to the mathematical foundations of economics with his book Foundations of Economic Analysis. He was author of the best-selling economics textbook of all time: Economics: An Introductory Analysis, first published in 1948. It was the second American textbook that attempted to explain the principles of Keynesian economics.\nSamuelson served as an advisor to President John F. Kennedy and President Lyndon B. Johnson, and was a consultant to the United States Treasury, the Bureau of the Budget and the President's Council of Economic Advisers. Samuelson wrote a weekly column for Newsweek magazine along with Chicago School economist Milton Friedman, where they represented opposing sides: Samuelson, as a self described \"Cafeteria Keynesian\", claimed taking the Keynesian perspective but only accepting what he felt was good in it. By contrast, Friedman represented the monetarist perspective. Together with Henry Wallich, their 1967 columns earned the magazine a Gerald Loeb Special Award in 1968.",
+ "revid": 1378660821,
+ "infobox": {
+  "image": "Paul A. Samuelson, economist, edited.jpg",
+  "caption": "Samuelson between 1970 and 1975",
+  "birth_name": "Paul Anthony Samuelson",
+  "birth_date": "{{birth date|1915|5|15}}",
+  "birth_place": "Gary, Indiana, U.S.",
+  "death_date": "{{death date and age|2009|12|13|1915|5|15}}",
+  "death_place": "Belmont, Massachusetts, U.S.",
+  "education": "University of Chicago (BA)<br />Harvard University (MA, PhD)",
+  "spouse": "{{plainlist|",
+  "institution": "Massachusetts Institute of Technology",
+  "field": "Macroeconomics",
+  "school_tradition": "Neo-Keynesian economics",
+  "doctoral_advisor": "Joseph Schumpeter<br>Wassily Leontief",
+  "doctoral_students": "Lawrence Klein<br>Robert C. Merton",
+  "influences": "Keynes{{•}} Schumpeter{{•}} Leontief{{•}} Haberler{{•}} Hansen{{•}} Wilson{{•}} Wicksell{{•}} Lindahl",
+  "contributions": "Neoclassical synthesis<br>Mathematical economics<br>Economic methodology<br />Revealed preference<br>International trade<br>Economic growth<br>Public goods",
+  "awards": "John Bates Clark Medal (1947)<br />Nobel Memorial Prize in Economic Sciences (1970)<br>National Medal of Science (1996)",
+  "repec_prefix": "e",
+  "repec_id": "psa57",
+  "signature": "Paul_Samuelson_Signature_from_the_Goldman_Collection.png"
+ },
+ "url": "https://en.wikipedia.org/wiki/Paul_Samuelson",
+ "fetched": "2026-10-18"
+}

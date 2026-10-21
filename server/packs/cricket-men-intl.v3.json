@@ -1,0 +1,1283 @@
+{
+  "id": "cricket-men-intl",
+  "version": 3,
+  "as_of": "2026-10-18",
+  "category": "Sports",
+  "title": "International Cricketers",
+  "noun": "cricketer",
+  "description": "Legends and modern stars of men's international cricket.",
+  "draft": false,
+  "notes": "Facts checked 2026-10-18 against ICC/BCCI squad announcements and Wikipedia captain, ODI-cricketer and World Cup squad lists; 8 role classifications decided by the pack owner (see the Audit sheet).",
+  "attributes": [
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "enum",
+      "values": [
+        "India",
+        "Australia",
+        "England",
+        "Pakistan",
+        "Sri Lanka",
+        "South Africa",
+        "West Indies",
+        "New Zealand",
+        "Bangladesh",
+        "Afghanistan"
+      ],
+      "templates": {
+        "eq": "Have they represented {value}?"
+      },
+      "aliases": {
+        "India": [
+          "indian"
+        ],
+        "Australia": [
+          "australian",
+          "aussie",
+          "aussies"
+        ],
+        "England": [
+          "english"
+        ],
+        "Pakistan": [
+          "pakistani",
+          "pak"
+        ],
+        "Sri Lanka": [
+          "sri lankan",
+          "lanka",
+          "lankan"
+        ],
+        "South Africa": [
+          "south african",
+          "proteas"
+        ],
+        "West Indies": [
+          "west indian",
+          "windies"
+        ],
+        "New Zealand": [
+          "kiwi",
+          "kiwis",
+          "nz"
+        ],
+        "Bangladesh": [
+          "bangladeshi"
+        ],
+        "Afghanistan": [
+          "afghan"
+        ]
+      }
+    },
+    {
+      "key": "role",
+      "label": "Role",
+      "type": "enum",
+      "values": [
+        "Batter",
+        "Bowler",
+        "All-rounder",
+        "Wicketkeeper"
+      ],
+      "templates": {
+        "eq:Batter": "Are they mainly a batter?",
+        "eq:Bowler": "Are they mainly a bowler?",
+        "eq:All-rounder": "Are they an all-rounder?",
+        "eq:Wicketkeeper": "Are they a wicketkeeper?"
+      },
+      "aliases": {
+        "Batter": [
+          "batsman",
+          "batting specialist"
+        ],
+        "Bowler": [
+          "bowling specialist"
+        ],
+        "All-rounder": [
+          "allrounder",
+          "all rounder"
+        ],
+        "Wicketkeeper": [
+          "keeper",
+          "wicket keeper",
+          "wk",
+          "stumper"
+        ]
+      }
+    },
+    {
+      "key": "batting_hand",
+      "label": "Batting hand",
+      "type": "enum",
+      "values": [
+        "Left",
+        "Right"
+      ],
+      "templates": {
+        "eq": "Do they bat {value_lc}-handed?"
+      },
+      "aliases": {
+        "Left": [
+          "left handed",
+          "left hander",
+          "left handed batter",
+          "lefty",
+          "southpaw"
+        ],
+        "Right": [
+          "right handed",
+          "right hander",
+          "right handed batter"
+        ]
+      }
+    },
+    {
+      "key": "bowling",
+      "label": "Bowling",
+      "type": "enum",
+      "values": [
+        "Pace",
+        "Spin",
+        "Not a regular bowler"
+      ],
+      "help": "Batters and wicketkeepers count as 'Not a regular bowler', even if they bowled occasionally.",
+      "templates": {
+        "eq:Pace": "Are they a pace bowler?",
+        "eq:Spin": "Are they a spin bowler?",
+        "eq:Not a regular bowler": "Do they not bowl regularly?"
+      },
+      "aliases": {
+        "Pace": [
+          "pace bowler",
+          "pacer",
+          "fast",
+          "fast bowler",
+          "seamer",
+          "seam bowler",
+          "quick",
+          "medium pacer"
+        ],
+        "Spin": [
+          "spinner",
+          "spin bowler",
+          "leg spinner",
+          "off spinner",
+          "leggie",
+          "finger spinner"
+        ]
+      }
+    },
+    {
+      "key": "bowling_arm",
+      "label": "Bowling arm",
+      "type": "enum",
+      "values": [
+        "Left",
+        "Right"
+      ],
+      "help": "Recorded only for bowlers and all-rounders; others answer Unknown.",
+      "templates": {
+        "eq": "Do they bowl {value_lc}-arm?"
+      },
+      "aliases": {
+        "Left": [
+          "left arm"
+        ],
+        "Right": [
+          "right arm"
+        ]
+      }
+    },
+    {
+      "key": "debut_decade",
+      "label": "ODI debut decade",
+      "type": "int",
+      "min": 1970,
+      "max": 2020,
+      "step": 10,
+      "help": "Decade of their first one-day international, for any country. Players who never played an ODI (Bradman) answer Unknown.",
+      "templates": {
+        "eq": "Did they make their ODI debut in the {value}s?",
+        "gt": "Did they make their ODI debut after the {value}s?",
+        "lt": "Did they make their ODI debut before the {value}s?",
+        "between": "Did they make their ODI debut between the {value}s and the {value2}s?"
+      }
+    },
+    {
+      "key": "captained_country",
+      "label": "Captained their country",
+      "type": "bool",
+      "help": "Officially captained in a Test, ODI or T20I, including as stand-in captain.",
+      "templates": {
+        "is": "Have they captained their country?",
+        "is_false": "Have they never captained their country?"
+      }
+    },
+    {
+      "key": "odi_wc_winner",
+      "label": "ODI World Cup winner",
+      "type": "bool",
+      "help": "Member of a squad that won the men's 50-over World Cup.",
+      "templates": {
+        "is": "Have they won the 50-over World Cup?",
+        "is_false": "Have they never won the 50-over World Cup?"
+      }
+    },
+    {
+      "key": "surname",
+      "label": "Surname",
+      "type": "string",
+      "help": "Ask about the first 1 to 3 letters (spaces and hyphens ignored).",
+      "templates": {
+        "starts_with": "Does their surname start with “{value}”?"
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c_c5b024",
+      "name": "Sachin Tendulkar",
+      "attrs": {
+        "country": "India",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Tendulkar",
+        "debut_decade": 1980
+      }
+    },
+    {
+      "id": "c_88c098",
+      "name": "Virat Kohli",
+      "attrs": {
+        "country": "India",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Kohli",
+        "debut_decade": 2000
+      }
+    },
+    {
+      "id": "c_5deaef",
+      "name": "Rohit Sharma",
+      "attrs": {
+        "country": "India",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Sharma",
+        "debut_decade": 2000
+      }
+    },
+    {
+      "id": "c_761fdf",
+      "name": "MS Dhoni",
+      "attrs": {
+        "country": "India",
+        "role": "Wicketkeeper",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Dhoni",
+        "debut_decade": 2000
+      }
+    },
+    {
+      "id": "c_ef0210",
+      "name": "Sourav Ganguly",
+      "attrs": {
+        "country": "India",
+        "role": "Batter",
+        "batting_hand": "Left",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Ganguly",
+        "debut_decade": 1990
+      }
+    },
+    {
+      "id": "c_69bcca",
+      "name": "Rahul Dravid",
+      "attrs": {
+        "country": "India",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Dravid",
+        "debut_decade": 1990
+      }
+    },
+    {
+      "id": "c_b17b3a",
+      "name": "Anil Kumble",
+      "attrs": {
+        "country": "India",
+        "role": "Bowler",
+        "batting_hand": "Right",
+        "bowling": "Spin",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Kumble",
+        "debut_decade": 1990,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_1dec33",
+      "name": "Kapil Dev",
+      "attrs": {
+        "country": "India",
+        "role": "All-rounder",
+        "batting_hand": "Right",
+        "bowling": "Pace",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Dev",
+        "debut_decade": 1970,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_b6142d",
+      "name": "Sunil Gavaskar",
+      "attrs": {
+        "country": "India",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Gavaskar",
+        "debut_decade": 1970
+      }
+    },
+    {
+      "id": "c_8d1297",
+      "name": "Jasprit Bumrah",
+      "attrs": {
+        "country": "India",
+        "role": "Bowler",
+        "batting_hand": "Right",
+        "bowling": "Pace",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Bumrah",
+        "debut_decade": 2010,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_276ed0",
+      "name": "Ravindra Jadeja",
+      "attrs": {
+        "country": "India",
+        "role": "All-rounder",
+        "batting_hand": "Left",
+        "bowling": "Spin",
+        "captained_country": false,
+        "odi_wc_winner": false,
+        "surname": "Jadeja",
+        "debut_decade": 2000,
+        "bowling_arm": "Left"
+      }
+    },
+    {
+      "id": "c_055053",
+      "name": "Ravichandran Ashwin",
+      "attrs": {
+        "country": "India",
+        "role": "All-rounder",
+        "batting_hand": "Right",
+        "bowling": "Spin",
+        "captained_country": false,
+        "odi_wc_winner": true,
+        "surname": "Ashwin",
+        "debut_decade": 2010,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_ac22b2",
+      "name": "Yuvraj Singh",
+      "attrs": {
+        "country": "India",
+        "role": "All-rounder",
+        "batting_hand": "Left",
+        "bowling": "Spin",
+        "captained_country": false,
+        "odi_wc_winner": true,
+        "surname": "Singh",
+        "debut_decade": 2000,
+        "bowling_arm": "Left"
+      }
+    },
+    {
+      "id": "c_888569",
+      "name": "Virender Sehwag",
+      "attrs": {
+        "country": "India",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Sehwag",
+        "debut_decade": 1990
+      }
+    },
+    {
+      "id": "c_b0b136",
+      "name": "Zaheer Khan",
+      "attrs": {
+        "country": "India",
+        "role": "Bowler",
+        "batting_hand": "Right",
+        "bowling": "Pace",
+        "captained_country": false,
+        "odi_wc_winner": true,
+        "surname": "Khan",
+        "debut_decade": 2000,
+        "bowling_arm": "Left"
+      }
+    },
+    {
+      "id": "c_80d63a",
+      "name": "Harbhajan Singh",
+      "attrs": {
+        "country": "India",
+        "role": "Bowler",
+        "batting_hand": "Right",
+        "bowling": "Spin",
+        "captained_country": false,
+        "odi_wc_winner": true,
+        "surname": "Singh",
+        "debut_decade": 1990,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_fbded7",
+      "name": "Shikhar Dhawan",
+      "attrs": {
+        "country": "India",
+        "role": "Batter",
+        "batting_hand": "Left",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Dhawan",
+        "debut_decade": 2010
+      }
+    },
+    {
+      "id": "c_d9fa31",
+      "name": "Shubman Gill",
+      "attrs": {
+        "country": "India",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Gill",
+        "debut_decade": 2010
+      }
+    },
+    {
+      "id": "c_48f3ec",
+      "name": "Hardik Pandya",
+      "attrs": {
+        "country": "India",
+        "role": "All-rounder",
+        "batting_hand": "Right",
+        "bowling": "Pace",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Pandya",
+        "debut_decade": 2010,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_19e2a6",
+      "name": "VVS Laxman",
+      "attrs": {
+        "country": "India",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": false,
+        "odi_wc_winner": false,
+        "surname": "Laxman",
+        "debut_decade": 1990
+      }
+    },
+    {
+      "id": "c_a0db8a",
+      "name": "Mohammed Shami",
+      "attrs": {
+        "country": "India",
+        "role": "Bowler",
+        "batting_hand": "Right",
+        "bowling": "Pace",
+        "captained_country": false,
+        "odi_wc_winner": false,
+        "surname": "Shami",
+        "debut_decade": 2010,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_1b8b38",
+      "name": "Ricky Ponting",
+      "attrs": {
+        "country": "Australia",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Ponting",
+        "debut_decade": 1990
+      }
+    },
+    {
+      "id": "c_5b9981",
+      "name": "Shane Warne",
+      "attrs": {
+        "country": "Australia",
+        "role": "Bowler",
+        "batting_hand": "Right",
+        "bowling": "Spin",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Warne",
+        "debut_decade": 1990,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_758e44",
+      "name": "Glenn McGrath",
+      "attrs": {
+        "country": "Australia",
+        "role": "Bowler",
+        "batting_hand": "Right",
+        "bowling": "Pace",
+        "captained_country": false,
+        "odi_wc_winner": true,
+        "surname": "McGrath",
+        "debut_decade": 1990,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_531269",
+      "name": "Adam Gilchrist",
+      "attrs": {
+        "country": "Australia",
+        "role": "Wicketkeeper",
+        "batting_hand": "Left",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Gilchrist",
+        "debut_decade": 1990
+      }
+    },
+    {
+      "id": "c_3ead7f",
+      "name": "Steve Waugh",
+      "attrs": {
+        "country": "Australia",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Waugh",
+        "debut_decade": 1980
+      }
+    },
+    {
+      "id": "c_12ae0c",
+      "name": "Don Bradman",
+      "attrs": {
+        "country": "Australia",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Bradman"
+      }
+    },
+    {
+      "id": "c_ad3a3b",
+      "name": "Steve Smith",
+      "attrs": {
+        "country": "Australia",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Smith",
+        "debut_decade": 2010
+      }
+    },
+    {
+      "id": "c_2d13ff",
+      "name": "Pat Cummins",
+      "attrs": {
+        "country": "Australia",
+        "role": "Bowler",
+        "batting_hand": "Right",
+        "bowling": "Pace",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Cummins",
+        "debut_decade": 2010,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_bf44e1",
+      "name": "Mitchell Starc",
+      "attrs": {
+        "country": "Australia",
+        "role": "Bowler",
+        "batting_hand": "Left",
+        "bowling": "Pace",
+        "captained_country": false,
+        "odi_wc_winner": true,
+        "surname": "Starc",
+        "debut_decade": 2010,
+        "bowling_arm": "Left"
+      }
+    },
+    {
+      "id": "c_df81c7",
+      "name": "Matthew Hayden",
+      "attrs": {
+        "country": "Australia",
+        "role": "Batter",
+        "batting_hand": "Left",
+        "bowling": "Not a regular bowler",
+        "captained_country": false,
+        "odi_wc_winner": true,
+        "surname": "Hayden",
+        "debut_decade": 1990
+      }
+    },
+    {
+      "id": "c_9940ec",
+      "name": "Allan Border",
+      "attrs": {
+        "country": "Australia",
+        "role": "Batter",
+        "batting_hand": "Left",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Border",
+        "debut_decade": 1970
+      }
+    },
+    {
+      "id": "c_daca3b",
+      "name": "Dennis Lillee",
+      "attrs": {
+        "country": "Australia",
+        "role": "Bowler",
+        "batting_hand": "Right",
+        "bowling": "Pace",
+        "captained_country": false,
+        "odi_wc_winner": false,
+        "surname": "Lillee",
+        "debut_decade": 1970,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_51aae2",
+      "name": "Joe Root",
+      "attrs": {
+        "country": "England",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Root",
+        "debut_decade": 2010
+      }
+    },
+    {
+      "id": "c_7c12e5",
+      "name": "Ben Stokes",
+      "attrs": {
+        "country": "England",
+        "role": "All-rounder",
+        "batting_hand": "Left",
+        "bowling": "Pace",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Stokes",
+        "debut_decade": 2010,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_d9679b",
+      "name": "James Anderson",
+      "attrs": {
+        "country": "England",
+        "role": "Bowler",
+        "batting_hand": "Left",
+        "bowling": "Pace",
+        "captained_country": false,
+        "odi_wc_winner": false,
+        "surname": "Anderson",
+        "debut_decade": 2000,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_4a3336",
+      "name": "Stuart Broad",
+      "attrs": {
+        "country": "England",
+        "role": "Bowler",
+        "batting_hand": "Left",
+        "bowling": "Pace",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Broad",
+        "debut_decade": 2000,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_4ed65e",
+      "name": "Alastair Cook",
+      "attrs": {
+        "country": "England",
+        "role": "Batter",
+        "batting_hand": "Left",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Cook",
+        "debut_decade": 2000
+      }
+    },
+    {
+      "id": "c_428cf4",
+      "name": "Kevin Pietersen",
+      "attrs": {
+        "country": "England",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Pietersen",
+        "debut_decade": 2000
+      }
+    },
+    {
+      "id": "c_da88e6",
+      "name": "Ian Botham",
+      "attrs": {
+        "country": "England",
+        "role": "All-rounder",
+        "batting_hand": "Right",
+        "bowling": "Pace",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Botham",
+        "debut_decade": 1970,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_c71ed0",
+      "name": "Eoin Morgan",
+      "attrs": {
+        "country": "England",
+        "role": "Batter",
+        "batting_hand": "Left",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Morgan",
+        "debut_decade": 2000
+      }
+    },
+    {
+      "id": "c_d3ecb4",
+      "name": "Jos Buttler",
+      "attrs": {
+        "country": "England",
+        "role": "Wicketkeeper",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Buttler",
+        "debut_decade": 2010
+      }
+    },
+    {
+      "id": "c_77b6e6",
+      "name": "Andrew Flintoff",
+      "attrs": {
+        "country": "England",
+        "role": "All-rounder",
+        "batting_hand": "Right",
+        "bowling": "Pace",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Flintoff",
+        "debut_decade": 1990,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_314a50",
+      "name": "Imran Khan",
+      "attrs": {
+        "country": "Pakistan",
+        "role": "All-rounder",
+        "batting_hand": "Right",
+        "bowling": "Pace",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Khan",
+        "debut_decade": 1970,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_b5f95f",
+      "name": "Wasim Akram",
+      "attrs": {
+        "country": "Pakistan",
+        "role": "Bowler",
+        "batting_hand": "Left",
+        "bowling": "Pace",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Akram",
+        "debut_decade": 1980,
+        "bowling_arm": "Left"
+      }
+    },
+    {
+      "id": "c_c2e4a2",
+      "name": "Waqar Younis",
+      "attrs": {
+        "country": "Pakistan",
+        "role": "Bowler",
+        "batting_hand": "Right",
+        "bowling": "Pace",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Younis",
+        "debut_decade": 1980,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_82ff16",
+      "name": "Babar Azam",
+      "attrs": {
+        "country": "Pakistan",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Azam",
+        "debut_decade": 2010
+      }
+    },
+    {
+      "id": "c_6d4926",
+      "name": "Shahid Afridi",
+      "attrs": {
+        "country": "Pakistan",
+        "role": "All-rounder",
+        "batting_hand": "Right",
+        "bowling": "Spin",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Afridi",
+        "debut_decade": 1990,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_f14f66",
+      "name": "Inzamam-ul-Haq",
+      "attrs": {
+        "country": "Pakistan",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Inzamam-ul-Haq",
+        "debut_decade": 1990
+      }
+    },
+    {
+      "id": "c_e63474",
+      "name": "Shoaib Akhtar",
+      "attrs": {
+        "country": "Pakistan",
+        "role": "Bowler",
+        "batting_hand": "Right",
+        "bowling": "Pace",
+        "captained_country": false,
+        "odi_wc_winner": false,
+        "surname": "Akhtar",
+        "debut_decade": 1990,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_44c51f",
+      "name": "Muttiah Muralitharan",
+      "attrs": {
+        "country": "Sri Lanka",
+        "role": "Bowler",
+        "batting_hand": "Right",
+        "bowling": "Spin",
+        "captained_country": false,
+        "odi_wc_winner": true,
+        "surname": "Muralitharan",
+        "debut_decade": 1990,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_2da20e",
+      "name": "Kumar Sangakkara",
+      "attrs": {
+        "country": "Sri Lanka",
+        "role": "Wicketkeeper",
+        "batting_hand": "Left",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Sangakkara",
+        "debut_decade": 2000
+      }
+    },
+    {
+      "id": "c_4be4bf",
+      "name": "Mahela Jayawardene",
+      "attrs": {
+        "country": "Sri Lanka",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Jayawardene",
+        "debut_decade": 1990
+      }
+    },
+    {
+      "id": "c_2ecf6c",
+      "name": "Sanath Jayasuriya",
+      "attrs": {
+        "country": "Sri Lanka",
+        "role": "All-rounder",
+        "batting_hand": "Left",
+        "bowling": "Spin",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Jayasuriya",
+        "debut_decade": 1980,
+        "bowling_arm": "Left"
+      }
+    },
+    {
+      "id": "c_1db375",
+      "name": "Lasith Malinga",
+      "attrs": {
+        "country": "Sri Lanka",
+        "role": "Bowler",
+        "batting_hand": "Right",
+        "bowling": "Pace",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Malinga",
+        "debut_decade": 2000,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_f8d89d",
+      "name": "AB de Villiers",
+      "attrs": {
+        "country": "South Africa",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "de Villiers",
+        "debut_decade": 2000
+      }
+    },
+    {
+      "id": "c_5187e0",
+      "name": "Dale Steyn",
+      "attrs": {
+        "country": "South Africa",
+        "role": "Bowler",
+        "batting_hand": "Right",
+        "bowling": "Pace",
+        "captained_country": false,
+        "odi_wc_winner": false,
+        "surname": "Steyn",
+        "debut_decade": 2000,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_ff809f",
+      "name": "Graeme Smith",
+      "attrs": {
+        "country": "South Africa",
+        "role": "Batter",
+        "batting_hand": "Left",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Smith",
+        "debut_decade": 2000
+      }
+    },
+    {
+      "id": "c_2639fe",
+      "name": "Hashim Amla",
+      "attrs": {
+        "country": "South Africa",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Amla",
+        "debut_decade": 2000
+      }
+    },
+    {
+      "id": "c_9f5f82",
+      "name": "Kagiso Rabada",
+      "attrs": {
+        "country": "South Africa",
+        "role": "Bowler",
+        "batting_hand": "Left",
+        "bowling": "Pace",
+        "captained_country": false,
+        "odi_wc_winner": false,
+        "surname": "Rabada",
+        "debut_decade": 2010,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_4ead48",
+      "name": "Brian Lara",
+      "attrs": {
+        "country": "West Indies",
+        "role": "Batter",
+        "batting_hand": "Left",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Lara",
+        "debut_decade": 1990
+      }
+    },
+    {
+      "id": "c_341e05",
+      "name": "Viv Richards",
+      "attrs": {
+        "country": "West Indies",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Richards",
+        "debut_decade": 1970
+      }
+    },
+    {
+      "id": "c_231838",
+      "name": "Chris Gayle",
+      "attrs": {
+        "country": "West Indies",
+        "role": "All-rounder",
+        "batting_hand": "Left",
+        "bowling": "Spin",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Gayle",
+        "debut_decade": 1990,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_dbbd1b",
+      "name": "Clive Lloyd",
+      "attrs": {
+        "country": "West Indies",
+        "role": "Batter",
+        "batting_hand": "Left",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": true,
+        "surname": "Lloyd",
+        "debut_decade": 1970
+      }
+    },
+    {
+      "id": "c_e70434",
+      "name": "Curtly Ambrose",
+      "attrs": {
+        "country": "West Indies",
+        "role": "Bowler",
+        "batting_hand": "Left",
+        "bowling": "Pace",
+        "captained_country": false,
+        "odi_wc_winner": false,
+        "surname": "Ambrose",
+        "debut_decade": 1980,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_61c84f",
+      "name": "Courtney Walsh",
+      "attrs": {
+        "country": "West Indies",
+        "role": "Bowler",
+        "batting_hand": "Right",
+        "bowling": "Pace",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Walsh",
+        "debut_decade": 1980,
+        "bowling_arm": "Right"
+      }
+    },
+    {
+      "id": "c_81900e",
+      "name": "Kane Williamson",
+      "attrs": {
+        "country": "New Zealand",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Williamson",
+        "debut_decade": 2010
+      }
+    },
+    {
+      "id": "c_75ca70",
+      "name": "Trent Boult",
+      "attrs": {
+        "country": "New Zealand",
+        "role": "Bowler",
+        "batting_hand": "Right",
+        "bowling": "Pace",
+        "captained_country": false,
+        "odi_wc_winner": false,
+        "surname": "Boult",
+        "debut_decade": 2010,
+        "bowling_arm": "Left"
+      }
+    },
+    {
+      "id": "c_055ef0",
+      "name": "Ross Taylor",
+      "attrs": {
+        "country": "New Zealand",
+        "role": "Batter",
+        "batting_hand": "Right",
+        "bowling": "Not a regular bowler",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Taylor",
+        "debut_decade": 2000
+      }
+    },
+    {
+      "id": "c_23d9a9",
+      "name": "Daniel Vettori",
+      "attrs": {
+        "country": "New Zealand",
+        "role": "Bowler",
+        "batting_hand": "Left",
+        "bowling": "Spin",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Vettori",
+        "debut_decade": 1990,
+        "bowling_arm": "Left"
+      }
+    },
+    {
+      "id": "c_797253",
+      "name": "Shakib Al Hasan",
+      "attrs": {
+        "country": "Bangladesh",
+        "role": "All-rounder",
+        "batting_hand": "Left",
+        "bowling": "Spin",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Al Hasan",
+        "debut_decade": 2000,
+        "bowling_arm": "Left"
+      }
+    },
+    {
+      "id": "c_eb1836",
+      "name": "Rashid Khan",
+      "attrs": {
+        "country": "Afghanistan",
+        "role": "Bowler",
+        "batting_hand": "Right",
+        "bowling": "Spin",
+        "captained_country": true,
+        "odi_wc_winner": false,
+        "surname": "Khan",
+        "debut_decade": 2010,
+        "bowling_arm": "Right"
+      }
+    }
+  ]
+}

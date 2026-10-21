@@ -1,0 +1,1224 @@
+{
+  "id": "world-countries",
+  "version": 2,
+  "as_of": "2026-10-18",
+  "category": "Geography",
+  "title": "Countries",
+  "noun": "country",
+  "description": "Countries from every continent, with an India-first selection.",
+  "draft": false,
+  "notes": "Hand-entered; verify every row before a public release.",
+  "attributes": [
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "set",
+      "values": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America",
+        "South America",
+        "Oceania"
+      ],
+      "help": "Countries whose land spans two continents (Russia, Turkey, Kazakhstan, Egypt) count for both; overseas islands don't.",
+      "templates": {
+        "contains": "Is it (at least partly) in {value}?"
+      },
+      "aliases": {
+        "Asia": [
+          "asian"
+        ],
+        "Europe": [
+          "european"
+        ],
+        "Africa": [
+          "african"
+        ],
+        "North America": [
+          "north american",
+          "caribbean"
+        ],
+        "South America": [
+          "south american",
+          "latin america"
+        ],
+        "Oceania": [
+          "pacific",
+          "australasia"
+        ]
+      }
+    },
+    {
+      "key": "landlocked",
+      "label": "Landlocked",
+      "type": "bool",
+      "templates": {
+        "is": "Is it landlocked?",
+        "is_false": "Does it have a coastline?"
+      }
+    },
+    {
+      "key": "island",
+      "label": "Island nation",
+      "type": "bool",
+      "help": "The whole country is on islands. Australia counts as a continent, not an island nation.",
+      "templates": {
+        "is": "Is it an island nation?",
+        "is_false": "Is it on a mainland?"
+      }
+    },
+    {
+      "key": "drives_left",
+      "label": "Drives on the left",
+      "type": "bool",
+      "templates": {
+        "is": "Do they drive on the left?",
+        "is_false": "Do they drive on the right?"
+      }
+    },
+    {
+      "key": "g20",
+      "label": "G20 member",
+      "type": "bool",
+      "help": "A member country of the G20 in its own right (the EU and African Union don't count here).",
+      "templates": {
+        "is": "Is it a G20 member?",
+        "is_false": "Is it outside the G20?"
+      }
+    },
+    {
+      "key": "borders_india",
+      "label": "Borders India",
+      "type": "bool",
+      "help": "Shares a land border with India. India itself is No.",
+      "templates": {
+        "is": "Does it share a land border with India?",
+        "is_false": "Does it not border India?"
+      }
+    },
+    {
+      "key": "summer_olympics",
+      "label": "Hosted the Summer Olympics",
+      "type": "bool",
+      "help": "Games held up to 2024. Moscow 1980 counts for Russia, Munich 1972 for Germany.",
+      "templates": {
+        "is": "Has it hosted the Summer Olympics?",
+        "is_false": "Has it never hosted the Summer Olympics?"
+      }
+    },
+    {
+      "key": "fifa_world_cup",
+      "label": "Hosted the FIFA World Cup",
+      "type": "bool",
+      "help": "Men's FIFA World Cups held so far, including co-hosting (2002, 2026). England 1966 counts for the UK; future hosts (2030, 2034) don't yet.",
+      "templates": {
+        "is": "Has it hosted the men's FIFA World Cup?",
+        "is_false": "Has it never hosted the FIFA World Cup?"
+      }
+    },
+    {
+      "key": "pop_100m",
+      "label": "Over 100 million people",
+      "type": "bool",
+      "templates": {
+        "is": "Does it have more than 100 million people?",
+        "is_false": "Does it have fewer than 100 million people?"
+      }
+    },
+    {
+      "key": "monarchy",
+      "label": "Monarch as head of state",
+      "type": "bool",
+      "help": "Includes Commonwealth realms whose head of state is the British monarch (Canada, Australia, New Zealand, Jamaica).",
+      "templates": {
+        "is": "Is its head of state a monarch?",
+        "is_false": "Is it a republic?"
+      }
+    },
+    {
+      "key": "south",
+      "label": "Mostly south of the equator",
+      "type": "bool",
+      "help": "Wholly or mostly south of the equator. Unknown for countries the equator splits roughly in half (Kenya).",
+      "templates": {
+        "is": "Is it mostly in the Southern Hemisphere?",
+        "is_false": "Is it mostly in the Northern Hemisphere?"
+      }
+    },
+    {
+      "key": "letters",
+      "label": "Name",
+      "type": "string",
+      "help": "Ask about the first 1 to 3 letters (spaces and hyphens ignored).",
+      "templates": {
+        "starts_with": "Does the country's name start with “{value}”?"
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c_ce0073",
+      "name": "India",
+      "attrs": {
+        "continent": [
+          "Asia"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": true,
+        "g20": true,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": true,
+        "monarchy": false,
+        "south": false,
+        "letters": "India"
+      }
+    },
+    {
+      "id": "c_303d67",
+      "name": "Pakistan",
+      "attrs": {
+        "continent": [
+          "Asia"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": true,
+        "g20": false,
+        "borders_india": true,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": true,
+        "monarchy": false,
+        "south": false,
+        "letters": "Pakistan"
+      }
+    },
+    {
+      "id": "c_1a21b9",
+      "name": "Bangladesh",
+      "attrs": {
+        "continent": [
+          "Asia"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": true,
+        "g20": false,
+        "borders_india": true,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": true,
+        "monarchy": false,
+        "south": false,
+        "letters": "Bangladesh"
+      }
+    },
+    {
+      "id": "c_587984",
+      "name": "Nepal",
+      "attrs": {
+        "continent": [
+          "Asia"
+        ],
+        "landlocked": true,
+        "island": false,
+        "drives_left": true,
+        "g20": false,
+        "borders_india": true,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": false,
+        "letters": "Nepal"
+      }
+    },
+    {
+      "id": "c_7af7e7",
+      "name": "Bhutan",
+      "attrs": {
+        "continent": [
+          "Asia"
+        ],
+        "landlocked": true,
+        "island": false,
+        "drives_left": true,
+        "g20": false,
+        "borders_india": true,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": true,
+        "south": false,
+        "letters": "Bhutan"
+      }
+    },
+    {
+      "id": "c_03d607",
+      "name": "Sri Lanka",
+      "attrs": {
+        "continent": [
+          "Asia"
+        ],
+        "landlocked": false,
+        "island": true,
+        "drives_left": true,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": false,
+        "letters": "Sri Lanka"
+      }
+    },
+    {
+      "id": "c_e580f2",
+      "name": "China",
+      "attrs": {
+        "continent": [
+          "Asia"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": true,
+        "borders_india": true,
+        "summer_olympics": true,
+        "fifa_world_cup": false,
+        "pop_100m": true,
+        "monarchy": false,
+        "south": false,
+        "letters": "China"
+      }
+    },
+    {
+      "id": "c_f1d30f",
+      "name": "Myanmar",
+      "attrs": {
+        "continent": [
+          "Asia"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": true,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": false,
+        "letters": "Myanmar"
+      }
+    },
+    {
+      "id": "c_28559b",
+      "name": "Japan",
+      "attrs": {
+        "continent": [
+          "Asia"
+        ],
+        "landlocked": false,
+        "island": true,
+        "drives_left": true,
+        "g20": true,
+        "borders_india": false,
+        "summer_olympics": true,
+        "fifa_world_cup": true,
+        "pop_100m": true,
+        "monarchy": true,
+        "south": false,
+        "letters": "Japan"
+      }
+    },
+    {
+      "id": "c_71617a",
+      "name": "South Korea",
+      "attrs": {
+        "continent": [
+          "Asia"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": true,
+        "borders_india": false,
+        "summer_olympics": true,
+        "fifa_world_cup": true,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": false,
+        "letters": "South Korea"
+      }
+    },
+    {
+      "id": "c_ec4c05",
+      "name": "Mongolia",
+      "attrs": {
+        "continent": [
+          "Asia"
+        ],
+        "landlocked": true,
+        "island": false,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": false,
+        "letters": "Mongolia"
+      }
+    },
+    {
+      "id": "c_0f4114",
+      "name": "Indonesia",
+      "attrs": {
+        "continent": [
+          "Asia"
+        ],
+        "landlocked": false,
+        "island": true,
+        "drives_left": true,
+        "g20": true,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": true,
+        "monarchy": false,
+        "south": true,
+        "letters": "Indonesia"
+      }
+    },
+    {
+      "id": "c_4564f9",
+      "name": "Thailand",
+      "attrs": {
+        "continent": [
+          "Asia"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": true,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": true,
+        "south": false,
+        "letters": "Thailand"
+      }
+    },
+    {
+      "id": "c_a1d2c8",
+      "name": "Malaysia",
+      "attrs": {
+        "continent": [
+          "Asia"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": true,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": true,
+        "south": false,
+        "letters": "Malaysia"
+      }
+    },
+    {
+      "id": "c_bb6523",
+      "name": "Singapore",
+      "attrs": {
+        "continent": [
+          "Asia"
+        ],
+        "landlocked": false,
+        "island": true,
+        "drives_left": true,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": false,
+        "letters": "Singapore"
+      }
+    },
+    {
+      "id": "c_08193f",
+      "name": "Philippines",
+      "attrs": {
+        "continent": [
+          "Asia"
+        ],
+        "landlocked": false,
+        "island": true,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": true,
+        "monarchy": false,
+        "south": false,
+        "letters": "Philippines"
+      }
+    },
+    {
+      "id": "c_67c26e",
+      "name": "Saudi Arabia",
+      "attrs": {
+        "continent": [
+          "Asia"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": true,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": true,
+        "south": false,
+        "letters": "Saudi Arabia"
+      }
+    },
+    {
+      "id": "c_660ccc",
+      "name": "Iran",
+      "attrs": {
+        "continent": [
+          "Asia"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": false,
+        "letters": "Iran"
+      }
+    },
+    {
+      "id": "c_9cd3af",
+      "name": "Kazakhstan",
+      "attrs": {
+        "continent": [
+          "Asia",
+          "Europe"
+        ],
+        "landlocked": true,
+        "island": false,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": false,
+        "letters": "Kazakhstan"
+      }
+    },
+    {
+      "id": "c_6be92c",
+      "name": "Turkey",
+      "attrs": {
+        "continent": [
+          "Asia",
+          "Europe"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": true,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": false,
+        "letters": "Turkey"
+      }
+    },
+    {
+      "id": "c_2cb001",
+      "name": "Russia",
+      "attrs": {
+        "continent": [
+          "Asia",
+          "Europe"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": true,
+        "borders_india": false,
+        "summer_olympics": true,
+        "fifa_world_cup": true,
+        "pop_100m": true,
+        "monarchy": false,
+        "south": false,
+        "letters": "Russia"
+      }
+    },
+    {
+      "id": "c_c5596e",
+      "name": "United Kingdom",
+      "attrs": {
+        "continent": [
+          "Europe"
+        ],
+        "landlocked": false,
+        "island": true,
+        "drives_left": true,
+        "g20": true,
+        "borders_india": false,
+        "summer_olympics": true,
+        "fifa_world_cup": true,
+        "pop_100m": false,
+        "monarchy": true,
+        "south": false,
+        "letters": "United Kingdom"
+      }
+    },
+    {
+      "id": "c_0b2187",
+      "name": "Ireland",
+      "attrs": {
+        "continent": [
+          "Europe"
+        ],
+        "landlocked": false,
+        "island": true,
+        "drives_left": true,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": false,
+        "letters": "Ireland"
+      }
+    },
+    {
+      "id": "c_056f28",
+      "name": "Iceland",
+      "attrs": {
+        "continent": [
+          "Europe"
+        ],
+        "landlocked": false,
+        "island": true,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": false,
+        "letters": "Iceland"
+      }
+    },
+    {
+      "id": "c_47fa37",
+      "name": "France",
+      "attrs": {
+        "continent": [
+          "Europe"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": true,
+        "borders_india": false,
+        "summer_olympics": true,
+        "fifa_world_cup": true,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": false,
+        "letters": "France"
+      }
+    },
+    {
+      "id": "c_e56f04",
+      "name": "Germany",
+      "attrs": {
+        "continent": [
+          "Europe"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": true,
+        "borders_india": false,
+        "summer_olympics": true,
+        "fifa_world_cup": true,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": false,
+        "letters": "Germany"
+      }
+    },
+    {
+      "id": "c_259276",
+      "name": "Italy",
+      "attrs": {
+        "continent": [
+          "Europe"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": true,
+        "borders_india": false,
+        "summer_olympics": true,
+        "fifa_world_cup": true,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": false,
+        "letters": "Italy"
+      }
+    },
+    {
+      "id": "c_3590f7",
+      "name": "Spain",
+      "attrs": {
+        "continent": [
+          "Europe"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": true,
+        "fifa_world_cup": true,
+        "pop_100m": false,
+        "monarchy": true,
+        "south": false,
+        "letters": "Spain"
+      }
+    },
+    {
+      "id": "c_05cb12",
+      "name": "Portugal",
+      "attrs": {
+        "continent": [
+          "Europe"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": false,
+        "letters": "Portugal"
+      }
+    },
+    {
+      "id": "c_944110",
+      "name": "Netherlands",
+      "attrs": {
+        "continent": [
+          "Europe"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": true,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": true,
+        "south": false,
+        "letters": "Netherlands"
+      }
+    },
+    {
+      "id": "c_2bc952",
+      "name": "Belgium",
+      "attrs": {
+        "continent": [
+          "Europe"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": true,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": true,
+        "south": false,
+        "letters": "Belgium"
+      }
+    },
+    {
+      "id": "c_32a555",
+      "name": "Switzerland",
+      "attrs": {
+        "continent": [
+          "Europe"
+        ],
+        "landlocked": true,
+        "island": false,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": true,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": false,
+        "letters": "Switzerland"
+      }
+    },
+    {
+      "id": "c_73127c",
+      "name": "Sweden",
+      "attrs": {
+        "continent": [
+          "Europe"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": true,
+        "fifa_world_cup": true,
+        "pop_100m": false,
+        "monarchy": true,
+        "south": false,
+        "letters": "Sweden"
+      }
+    },
+    {
+      "id": "c_ccba75",
+      "name": "Norway",
+      "attrs": {
+        "continent": [
+          "Europe"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": true,
+        "south": false,
+        "letters": "Norway"
+      }
+    },
+    {
+      "id": "c_2fe10a",
+      "name": "Finland",
+      "attrs": {
+        "continent": [
+          "Europe"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": true,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": false,
+        "letters": "Finland"
+      }
+    },
+    {
+      "id": "c_cde2e8",
+      "name": "Greece",
+      "attrs": {
+        "continent": [
+          "Europe"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": true,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": false,
+        "letters": "Greece"
+      }
+    },
+    {
+      "id": "c_5d9f67",
+      "name": "Egypt",
+      "attrs": {
+        "continent": [
+          "Africa",
+          "Asia"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": true,
+        "monarchy": false,
+        "south": false,
+        "letters": "Egypt"
+      }
+    },
+    {
+      "id": "c_c248db",
+      "name": "Morocco",
+      "attrs": {
+        "continent": [
+          "Africa"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": true,
+        "south": false,
+        "letters": "Morocco"
+      }
+    },
+    {
+      "id": "c_3a9609",
+      "name": "Nigeria",
+      "attrs": {
+        "continent": [
+          "Africa"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": true,
+        "monarchy": false,
+        "south": false,
+        "letters": "Nigeria"
+      }
+    },
+    {
+      "id": "c_2375ca",
+      "name": "Ethiopia",
+      "attrs": {
+        "continent": [
+          "Africa"
+        ],
+        "landlocked": true,
+        "island": false,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": true,
+        "monarchy": false,
+        "south": false,
+        "letters": "Ethiopia"
+      }
+    },
+    {
+      "id": "c_86062b",
+      "name": "Kenya",
+      "attrs": {
+        "continent": [
+          "Africa"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": true,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": false,
+        "letters": "Kenya"
+      }
+    },
+    {
+      "id": "c_ac4203",
+      "name": "South Africa",
+      "attrs": {
+        "continent": [
+          "Africa"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": true,
+        "g20": true,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": true,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": true,
+        "letters": "South Africa"
+      }
+    },
+    {
+      "id": "c_d2c0e5",
+      "name": "United States",
+      "attrs": {
+        "continent": [
+          "North America"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": true,
+        "borders_india": false,
+        "summer_olympics": true,
+        "fifa_world_cup": true,
+        "pop_100m": true,
+        "monarchy": false,
+        "south": false,
+        "letters": "United States"
+      }
+    },
+    {
+      "id": "c_3637c7",
+      "name": "Canada",
+      "attrs": {
+        "continent": [
+          "North America"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": true,
+        "borders_india": false,
+        "summer_olympics": true,
+        "fifa_world_cup": true,
+        "pop_100m": false,
+        "monarchy": true,
+        "south": false,
+        "letters": "Canada"
+      }
+    },
+    {
+      "id": "c_d718bf",
+      "name": "Mexico",
+      "attrs": {
+        "continent": [
+          "North America"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": true,
+        "borders_india": false,
+        "summer_olympics": true,
+        "fifa_world_cup": true,
+        "pop_100m": true,
+        "monarchy": false,
+        "south": false,
+        "letters": "Mexico"
+      }
+    },
+    {
+      "id": "c_406736",
+      "name": "Cuba",
+      "attrs": {
+        "continent": [
+          "North America"
+        ],
+        "landlocked": false,
+        "island": true,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": false,
+        "letters": "Cuba"
+      }
+    },
+    {
+      "id": "c_fca422",
+      "name": "Jamaica",
+      "attrs": {
+        "continent": [
+          "North America"
+        ],
+        "landlocked": false,
+        "island": true,
+        "drives_left": true,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": true,
+        "south": false,
+        "letters": "Jamaica"
+      }
+    },
+    {
+      "id": "c_5e9563",
+      "name": "Brazil",
+      "attrs": {
+        "continent": [
+          "South America"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": true,
+        "borders_india": false,
+        "summer_olympics": true,
+        "fifa_world_cup": true,
+        "pop_100m": true,
+        "monarchy": false,
+        "south": true,
+        "letters": "Brazil"
+      }
+    },
+    {
+      "id": "c_22c998",
+      "name": "Argentina",
+      "attrs": {
+        "continent": [
+          "South America"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": true,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": true,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": true,
+        "letters": "Argentina"
+      }
+    },
+    {
+      "id": "c_74df28",
+      "name": "Chile",
+      "attrs": {
+        "continent": [
+          "South America"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": true,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": true,
+        "letters": "Chile"
+      }
+    },
+    {
+      "id": "c_651caf",
+      "name": "Peru",
+      "attrs": {
+        "continent": [
+          "South America"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": false,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": false,
+        "south": true,
+        "letters": "Peru"
+      }
+    },
+    {
+      "id": "c_47c885",
+      "name": "Australia",
+      "attrs": {
+        "continent": [
+          "Oceania"
+        ],
+        "landlocked": false,
+        "island": false,
+        "drives_left": true,
+        "g20": true,
+        "borders_india": false,
+        "summer_olympics": true,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": true,
+        "south": true,
+        "letters": "Australia"
+      }
+    },
+    {
+      "id": "c_368921",
+      "name": "New Zealand",
+      "attrs": {
+        "continent": [
+          "Oceania"
+        ],
+        "landlocked": false,
+        "island": true,
+        "drives_left": true,
+        "g20": false,
+        "borders_india": false,
+        "summer_olympics": false,
+        "fifa_world_cup": false,
+        "pop_100m": false,
+        "monarchy": true,
+        "south": true,
+        "letters": "New Zealand"
+      }
+    }
+  ]
+}

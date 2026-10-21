@@ -1,0 +1,31 @@
+{
+ "asked": "Elinor Ostrom",
+ "title": "Elinor Ostrom",
+ "missing": false,
+ "disambiguation": false,
+ "description": "American political economist (1933–2012)",
+ "extract": "Elinor Claire \"Lin\" Ostrom (née Awan; August 7, 1933 – June 12, 2012) was an American political scientist and political economist whose work was associated with New Institutional Economics and the resurgence of political economy. In 2009, she was awarded the Nobel Memorial Prize in Economic Sciences for her \"analysis of economic governance, especially the commons\", which she shared with Oliver E. Williamson; she was the first woman to win the prize.\nTrained in political science at UCLA, Ostrom was a faculty member at Indiana University Bloomington for 47 years. Beginning in the 1960s, Ostrom was involved in resource management policy and created a research center, the Workshop in Political Theory and Policy Analysis, which attracted scientists from different disciplines from around the world. Working and teaching at her center was created on the principle of a workshop, rather than a university with lectures and a strict hierarchy. Late in her career, she held an affiliation with Arizona State University.\nOstrom studied the interaction of people and ecosystems for many years and showed that the use of exhaustible resources by groups of people (communities, cooperatives, trusts, trade unions) can be rational and prevent depletion of the resource without either state intervention or markets with private property.",
+ "revid": 1379082085,
+ "infobox": {
+  "name": "Elinor Ostrom",
+  "school_tradition": "New institutional economics<br />Bloomington school",
+  "image": "Nobel Prize 2009-Press Conference KVA-30.jpg",
+  "caption": "Ostrom in 2009",
+  "birth_name": "Elinor Claire Awan",
+  "birth_date": "{{birth date|1933|8|7|mf=yes}}",
+  "birth_place": "Los Angeles, California, U.S.",
+  "death_date": "{{death date and age|2012|6|12|1933|8|7|mf=yes}}",
+  "death_place": "Bloomington, Indiana, U.S.",
+  "education": "University of California, Los Angeles (BA, MA, PhD)",
+  "field": "{{unbulleted list |Public economics | Common-pool resource | Public choice theory}}",
+  "doctoral_advisor": "Dwaine Marvick",
+  "doctoral_students": "| contributions    = {{unbulleted list | Institutional Analysis and Development framework | ''Governing the Commons''}}",
+  "awards": "{{unbulleted list |2009 Nobel Memorial Prize | 2004 John J. Carty Award | {{longitem|2001 US National Academy of Sciences electee}} |{{longitem|1999 Johan Skytte Prize in Political Science}} }}",
+  "institution": "{{unbulleted list |Indiana University Bloomington | Arizona State University | Virginia Tech | UCLA}}",
+  "spouses": "Charles Scott<br />{{longitem|Vincent Ostrom (1963–2012; her death)}}",
+  "repec_prefix": "e",
+  "repec_id": "pos55"
+ },
+ "url": "https://en.wikipedia.org/wiki/Elinor_Ostrom",
+ "fetched": "2026-10-18"
+}

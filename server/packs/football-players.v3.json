@@ -1,0 +1,778 @@
+{
+  "id": "football-players",
+  "version": 3,
+  "as_of": "2026-10-18",
+  "category": "Sports",
+  "title": "Footballers",
+  "noun": "footballer",
+  "description": "Legends and modern stars of men's international football, plus India's greats.",
+  "draft": true,
+  "notes": "Hand-entered; verify every row before a public release.",
+  "attributes": [
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "enum",
+      "values": [
+        "Argentina",
+        "Brazil",
+        "France",
+        "Germany",
+        "Italy",
+        "Spain",
+        "Portugal",
+        "Netherlands",
+        "England",
+        "Croatia",
+        "Poland",
+        "Sweden",
+        "Norway",
+        "Egypt",
+        "Ivory Coast",
+        "Liberia",
+        "India",
+        "South Korea"
+      ],
+      "templates": {
+        "eq": "Have they played for {value}?"
+      },
+      "aliases": {
+        "Argentina": [
+          "argentine",
+          "argentinian"
+        ],
+        "Brazil": [
+          "brazilian"
+        ],
+        "France": [
+          "french"
+        ],
+        "Germany": [
+          "german"
+        ],
+        "Italy": [
+          "italian"
+        ],
+        "Spain": [
+          "spanish"
+        ],
+        "Portugal": [
+          "portuguese"
+        ],
+        "Netherlands": [
+          "dutch",
+          "holland"
+        ],
+        "England": [
+          "english"
+        ],
+        "India": [
+          "indian"
+        ],
+        "South Korea": [
+          "korean",
+          "korea"
+        ],
+        "Egypt": [
+          "egyptian"
+        ],
+        "Croatia": [
+          "croatian"
+        ]
+      }
+    },
+    {
+      "key": "continent",
+      "label": "National team's continent",
+      "type": "enum",
+      "values": [
+        "Europe",
+        "South America",
+        "Africa",
+        "Asia"
+      ],
+      "templates": {
+        "eq": "Is their national team from {value}?"
+      },
+      "aliases": {
+        "Europe": [
+          "european"
+        ],
+        "South America": [
+          "south american"
+        ],
+        "Africa": [
+          "african"
+        ],
+        "Asia": [
+          "asian"
+        ]
+      }
+    },
+    {
+      "key": "position",
+      "label": "Position",
+      "type": "enum",
+      "values": [
+        "Goalkeeper",
+        "Defender",
+        "Midfielder",
+        "Forward"
+      ],
+      "help": "Main position over their career (first listed in their Wikipedia profile). Unknown where it is split between attacking midfield and forward (Maradona, Ronaldinho, Neymar).",
+      "templates": {
+        "eq:Goalkeeper": "Are they a goalkeeper?",
+        "eq:Defender": "Are they a defender?",
+        "eq:Midfielder": "Are they a midfielder?",
+        "eq:Forward": "Are they a forward?"
+      },
+      "aliases": {
+        "Goalkeeper": [
+          "keeper",
+          "goalie",
+          "gk"
+        ],
+        "Defender": [
+          "centre back",
+          "full back",
+          "defence"
+        ],
+        "Midfielder": [
+          "midfield",
+          "playmaker"
+        ],
+        "Forward": [
+          "striker",
+          "winger",
+          "attacker"
+        ]
+      }
+    },
+    {
+      "key": "foot",
+      "label": "Stronger foot",
+      "type": "enum",
+      "values": [
+        "Left",
+        "Right"
+      ],
+      "templates": {
+        "eq": "Are they {value_lc}-footed?"
+      },
+      "aliases": {
+        "Left": [
+          "left footed",
+          "left foot"
+        ],
+        "Right": [
+          "right footed",
+          "right foot"
+        ]
+      }
+    },
+    {
+      "key": "debut",
+      "label": "International debut decade",
+      "type": "int",
+      "min": 1950,
+      "max": 2020,
+      "step": 10,
+      "templates": {
+        "eq": "Did they make their international debut in the {value}s?",
+        "gt": "Did they debut after the {value}s?",
+        "lt": "Did they debut before the {value}s?",
+        "between": "Did they debut between the {value}s and the {value2}s?"
+      }
+    },
+    {
+      "key": "world_cup",
+      "label": "World Cup winner",
+      "type": "bool",
+      "help": "Member of a squad that won the men's FIFA World Cup.",
+      "templates": {
+        "is": "Have they won the World Cup?",
+        "is_false": "Have they never won the World Cup?"
+      }
+    },
+    {
+      "key": "ballon_dor",
+      "label": "Ballon d'Or winner",
+      "type": "bool",
+      "help": "Won the Ballon d'Or at least once (honorary awards don't count).",
+      "templates": {
+        "is": "Have they won the Ballon d'Or?",
+        "is_false": "Have they never won the Ballon d'Or?"
+      }
+    },
+    {
+      "key": "captain",
+      "label": "Captained their country",
+      "type": "bool",
+      "help": "Regular national team captain. Unknown where it was only occasional (Ronaldinho) or isn't sourced (Weah).",
+      "templates": {
+        "is": "Have they captained their country?",
+        "is_false": "Have they never captained their country?"
+      }
+    },
+    {
+      "key": "letters",
+      "label": "Name",
+      "type": "string",
+      "help": "Ask about the first 1 to 3 letters (spaces and hyphens ignored).",
+      "templates": {
+        "starts_with": "Does their name start with “{value}”?"
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c_937eae",
+      "name": "Pelé",
+      "attrs": {
+        "country": "Brazil",
+        "continent": "South America",
+        "position": "Forward",
+        "foot": "Right",
+        "debut": 1950,
+        "world_cup": true,
+        "ballon_dor": false,
+        "captain": false,
+        "letters": "Pelé"
+      }
+    },
+    {
+      "id": "c_7cfda1",
+      "name": "Johan Cruyff",
+      "attrs": {
+        "country": "Netherlands",
+        "continent": "Europe",
+        "position": "Forward",
+        "foot": "Right",
+        "debut": 1960,
+        "world_cup": false,
+        "ballon_dor": true,
+        "captain": true,
+        "letters": "Johan Cruyff"
+      }
+    },
+    {
+      "id": "c_fe10a1",
+      "name": "Franz Beckenbauer",
+      "attrs": {
+        "country": "Germany",
+        "continent": "Europe",
+        "position": "Defender",
+        "foot": "Right",
+        "debut": 1960,
+        "world_cup": true,
+        "ballon_dor": true,
+        "captain": true,
+        "letters": "Franz Beckenbauer"
+      }
+    },
+    {
+      "id": "c_450845",
+      "name": "Michel Platini",
+      "attrs": {
+        "country": "France",
+        "continent": "Europe",
+        "position": "Midfielder",
+        "foot": "Right",
+        "debut": 1970,
+        "world_cup": false,
+        "ballon_dor": true,
+        "captain": true,
+        "letters": "Michel Platini"
+      }
+    },
+    {
+      "id": "c_399298",
+      "name": "Diego Maradona",
+      "attrs": {
+        "country": "Argentina",
+        "continent": "South America",
+        "foot": "Left",
+        "debut": 1970,
+        "world_cup": true,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "Diego Maradona"
+      }
+    },
+    {
+      "id": "c_92fa44",
+      "name": "Lothar Matthäus",
+      "attrs": {
+        "country": "Germany",
+        "continent": "Europe",
+        "position": "Midfielder",
+        "foot": "Right",
+        "debut": 1980,
+        "world_cup": true,
+        "ballon_dor": true,
+        "captain": true,
+        "letters": "Lothar Matthäus"
+      }
+    },
+    {
+      "id": "c_514586",
+      "name": "Paolo Maldini",
+      "attrs": {
+        "country": "Italy",
+        "continent": "Europe",
+        "position": "Defender",
+        "foot": "Right",
+        "debut": 1980,
+        "world_cup": false,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "Paolo Maldini"
+      }
+    },
+    {
+      "id": "c_1bfa74",
+      "name": "George Weah",
+      "attrs": {
+        "country": "Liberia",
+        "continent": "Africa",
+        "position": "Forward",
+        "foot": "Right",
+        "debut": 1980,
+        "world_cup": false,
+        "ballon_dor": true,
+        "letters": "George Weah"
+      }
+    },
+    {
+      "id": "c_5c6191",
+      "name": "Zinedine Zidane",
+      "attrs": {
+        "country": "France",
+        "continent": "Europe",
+        "position": "Midfielder",
+        "foot": "Right",
+        "debut": 1990,
+        "world_cup": true,
+        "ballon_dor": true,
+        "captain": true,
+        "letters": "Zinedine Zidane"
+      }
+    },
+    {
+      "id": "c_01ef48",
+      "name": "Ronaldo Nazário",
+      "attrs": {
+        "country": "Brazil",
+        "continent": "South America",
+        "position": "Forward",
+        "foot": "Right",
+        "debut": 1990,
+        "world_cup": true,
+        "ballon_dor": true,
+        "captain": false,
+        "letters": "Ronaldo Nazário"
+      }
+    },
+    {
+      "id": "c_ba14c5",
+      "name": "Ronaldinho",
+      "attrs": {
+        "country": "Brazil",
+        "continent": "South America",
+        "foot": "Right",
+        "debut": 1990,
+        "world_cup": true,
+        "ballon_dor": true,
+        "letters": "Ronaldinho"
+      }
+    },
+    {
+      "id": "c_c9d44a",
+      "name": "David Beckham",
+      "attrs": {
+        "country": "England",
+        "continent": "Europe",
+        "position": "Midfielder",
+        "foot": "Right",
+        "debut": 1990,
+        "world_cup": false,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "David Beckham"
+      }
+    },
+    {
+      "id": "c_2229b9",
+      "name": "Thierry Henry",
+      "attrs": {
+        "country": "France",
+        "continent": "Europe",
+        "position": "Forward",
+        "foot": "Right",
+        "debut": 1990,
+        "world_cup": true,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "Thierry Henry"
+      }
+    },
+    {
+      "id": "c_428c6e",
+      "name": "Fabio Cannavaro",
+      "attrs": {
+        "country": "Italy",
+        "continent": "Europe",
+        "position": "Defender",
+        "foot": "Right",
+        "debut": 1990,
+        "world_cup": true,
+        "ballon_dor": true,
+        "captain": true,
+        "letters": "Fabio Cannavaro"
+      }
+    },
+    {
+      "id": "c_6c985e",
+      "name": "Gianluigi Buffon",
+      "attrs": {
+        "country": "Italy",
+        "continent": "Europe",
+        "position": "Goalkeeper",
+        "foot": "Right",
+        "debut": 1990,
+        "world_cup": true,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "Gianluigi Buffon"
+      }
+    },
+    {
+      "id": "c_17ce75",
+      "name": "Bhaichung Bhutia",
+      "attrs": {
+        "country": "India",
+        "continent": "Asia",
+        "position": "Forward",
+        "foot": "Right",
+        "debut": 1990,
+        "world_cup": false,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "Bhaichung Bhutia"
+      }
+    },
+    {
+      "id": "c_1982c3",
+      "name": "Iker Casillas",
+      "attrs": {
+        "country": "Spain",
+        "continent": "Europe",
+        "position": "Goalkeeper",
+        "foot": "Right",
+        "debut": 2000,
+        "world_cup": true,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "Iker Casillas"
+      }
+    },
+    {
+      "id": "c_40fa05",
+      "name": "Xavi",
+      "attrs": {
+        "country": "Spain",
+        "continent": "Europe",
+        "position": "Midfielder",
+        "foot": "Right",
+        "debut": 2000,
+        "world_cup": true,
+        "ballon_dor": false,
+        "captain": false,
+        "letters": "Xavi"
+      }
+    },
+    {
+      "id": "c_18b584",
+      "name": "Zlatan Ibrahimović",
+      "attrs": {
+        "country": "Sweden",
+        "continent": "Europe",
+        "position": "Forward",
+        "foot": "Right",
+        "debut": 2000,
+        "world_cup": false,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "Zlatan Ibrahimović"
+      }
+    },
+    {
+      "id": "c_596912",
+      "name": "Didier Drogba",
+      "attrs": {
+        "country": "Ivory Coast",
+        "continent": "Africa",
+        "position": "Forward",
+        "foot": "Right",
+        "debut": 2000,
+        "world_cup": false,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "Didier Drogba"
+      }
+    },
+    {
+      "id": "c_1e3036",
+      "name": "Kaká",
+      "attrs": {
+        "country": "Brazil",
+        "continent": "South America",
+        "position": "Midfielder",
+        "foot": "Right",
+        "debut": 2000,
+        "world_cup": true,
+        "ballon_dor": true,
+        "captain": false,
+        "letters": "Kaká"
+      }
+    },
+    {
+      "id": "c_78b8f4",
+      "name": "Cristiano Ronaldo",
+      "attrs": {
+        "country": "Portugal",
+        "continent": "Europe",
+        "position": "Forward",
+        "foot": "Right",
+        "debut": 2000,
+        "world_cup": false,
+        "ballon_dor": true,
+        "captain": true,
+        "letters": "Cristiano Ronaldo"
+      }
+    },
+    {
+      "id": "c_8d6cfa",
+      "name": "Wayne Rooney",
+      "attrs": {
+        "country": "England",
+        "continent": "Europe",
+        "position": "Forward",
+        "foot": "Right",
+        "debut": 2000,
+        "world_cup": false,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "Wayne Rooney"
+      }
+    },
+    {
+      "id": "c_b1f093",
+      "name": "Lionel Messi",
+      "attrs": {
+        "country": "Argentina",
+        "continent": "South America",
+        "position": "Forward",
+        "foot": "Left",
+        "debut": 2000,
+        "world_cup": true,
+        "ballon_dor": true,
+        "captain": true,
+        "letters": "Lionel Messi"
+      }
+    },
+    {
+      "id": "c_663b80",
+      "name": "Sergio Ramos",
+      "attrs": {
+        "country": "Spain",
+        "continent": "Europe",
+        "position": "Defender",
+        "foot": "Right",
+        "debut": 2000,
+        "world_cup": true,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "Sergio Ramos"
+      }
+    },
+    {
+      "id": "c_624057",
+      "name": "Sunil Chhetri",
+      "attrs": {
+        "country": "India",
+        "continent": "Asia",
+        "position": "Forward",
+        "foot": "Right",
+        "debut": 2000,
+        "world_cup": false,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "Sunil Chhetri"
+      }
+    },
+    {
+      "id": "c_04e4d3",
+      "name": "Luka Modrić",
+      "attrs": {
+        "country": "Croatia",
+        "continent": "Europe",
+        "position": "Midfielder",
+        "foot": "Right",
+        "debut": 2000,
+        "world_cup": false,
+        "ballon_dor": true,
+        "captain": true,
+        "letters": "Luka Modrić"
+      }
+    },
+    {
+      "id": "c_ea6162",
+      "name": "Andrés Iniesta",
+      "attrs": {
+        "country": "Spain",
+        "continent": "Europe",
+        "position": "Midfielder",
+        "foot": "Right",
+        "debut": 2000,
+        "world_cup": true,
+        "ballon_dor": false,
+        "captain": false,
+        "letters": "Andrés Iniesta"
+      }
+    },
+    {
+      "id": "c_4f228a",
+      "name": "Robert Lewandowski",
+      "attrs": {
+        "country": "Poland",
+        "continent": "Europe",
+        "position": "Forward",
+        "foot": "Right",
+        "debut": 2000,
+        "world_cup": false,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "Robert Lewandowski"
+      }
+    },
+    {
+      "id": "c_48faae",
+      "name": "Manuel Neuer",
+      "attrs": {
+        "country": "Germany",
+        "continent": "Europe",
+        "position": "Goalkeeper",
+        "foot": "Right",
+        "debut": 2000,
+        "world_cup": true,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "Manuel Neuer"
+      }
+    },
+    {
+      "id": "c_fd4aee",
+      "name": "Neymar",
+      "attrs": {
+        "country": "Brazil",
+        "continent": "South America",
+        "foot": "Right",
+        "debut": 2010,
+        "world_cup": false,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "Neymar"
+      }
+    },
+    {
+      "id": "c_072ee0",
+      "name": "Son Heung-min",
+      "attrs": {
+        "country": "South Korea",
+        "continent": "Asia",
+        "position": "Forward",
+        "debut": 2010,
+        "world_cup": false,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "Son Heung-min"
+      }
+    },
+    {
+      "id": "c_57194c",
+      "name": "Mohamed Salah",
+      "attrs": {
+        "country": "Egypt",
+        "continent": "Africa",
+        "position": "Forward",
+        "foot": "Left",
+        "debut": 2010,
+        "world_cup": false,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "Mohamed Salah"
+      }
+    },
+    {
+      "id": "c_a78826",
+      "name": "Harry Kane",
+      "attrs": {
+        "country": "England",
+        "continent": "Europe",
+        "position": "Forward",
+        "foot": "Right",
+        "debut": 2010,
+        "world_cup": false,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "Harry Kane"
+      }
+    },
+    {
+      "id": "c_d89e7f",
+      "name": "Virgil van Dijk",
+      "attrs": {
+        "country": "Netherlands",
+        "continent": "Europe",
+        "position": "Defender",
+        "foot": "Right",
+        "debut": 2010,
+        "world_cup": false,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "Virgil van Dijk"
+      }
+    },
+    {
+      "id": "c_a3b37a",
+      "name": "Kylian Mbappé",
+      "attrs": {
+        "country": "France",
+        "continent": "Europe",
+        "position": "Forward",
+        "foot": "Right",
+        "debut": 2010,
+        "world_cup": true,
+        "ballon_dor": false,
+        "captain": true,
+        "letters": "Kylian Mbappé"
+      }
+    },
+    {
+      "id": "c_8b8705",
+      "name": "Erling Haaland",
+      "attrs": {
+        "country": "Norway",
+        "continent": "Europe",
+        "position": "Forward",
+        "foot": "Left",
+        "debut": 2010,
+        "world_cup": false,
+        "ballon_dor": false,
+        "captain": false,
+        "letters": "Erling Haaland"
+      }
+    }
+  ]
+}

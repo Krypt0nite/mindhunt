@@ -1,0 +1,32 @@
+{
+ "asked": "Perl",
+ "title": "Perl",
+ "missing": false,
+ "disambiguation": false,
+ "description": "Interpreted programming language first released in 1987",
+ "extract": "Perl is a high-level, general-purpose, interpreted, dynamic programming language. Though Perl is not officially an acronym, there are various backronyms in use, including \"Practical Extraction and Reporting Language\".\nPerl was developed by Larry Wall in 1987 as a general-purpose Unix scripting language to make report processing easier. Since then, it has undergone many changes and revisions. Perl originally was not capitalized and the name was changed to being capitalized by the time Perl 4 was released. The latest release is Perl 5, first released in 1994. From 2000 to October 2019 a sixth version of Perl was in development; the sixth version's name was changed to Raku. Both languages continue to be developed independently by different development teams which liberally borrow ideas from each other.\nPerl borrows features from other programming languages including C, sh, AWK, and sed. It provides text processing facilities without the arbitrary data-length limits of many contemporary Unix command line tools. Perl is a highly expressive programming language: source code for a given algorithm can be short and highly compressible.\nPerl gained widespread popularity in the mid-1990s as a CGI scripting language, in part due to its powerful regular expression and string parsing abilities. In addition to CGI, Perl 5 is used for system administration, network programming, finance, bioinformatics, and other applications, such as for graphical user interfaces (GUIs). It has been nicknamed \"the Swiss Army chainsaw of scripting languages\" because of its flexibility and power. In 1998, it was also referred to as the \"duct tape that holds the Internet together\", in reference to both its ubiquitous use as a glue language and its perceived inelegance.",
+ "revid": 1380023948,
+ "infobox": {
+  "name": "Perl",
+  "logo": "perl-logo.svg",
+  "paradigm": "Multi-paradigm",
+  "designer": "Larry Wall",
+  "developer": "Larry Wall",
+  "typing": "Dynamic",
+  "influenced": "CoffeeScript,{{citation needed|date=January 2016}} Groovy,{{citation needed|date=February 2016}} JavaScript, Julia, LPC, PHP, Python, Raku, Ruby, PowerShell",
+  "license": "Artistic 1.0 or GNU General Public License version 1 or any later version",
+  "website": "{{URL|https://www.perl.org/|perl.org}}",
+  "wikibooks": "Perl Programming",
+  "released": "{{Start date and age|1987|12|18}}",
+  "latest release version": "5.44.0",
+  "latest release date": "{{Start date and age|2026|07|15|df=yes}}",
+  "latest preview version": "5.45.3",
+  "latest preview date": "{{Start date and age|2026|09|24|df=yes}}",
+  "influenced by": "AWK, BASIC, C, C++, Lisp, sed, Unix shell",
+  "programming language": "C",
+  "operating system": "Cross-platform",
+  "file ext": ".plx, .pls, .pl, .pm, .xs, .t, .pod, .cgi, .psgi"
+ },
+ "url": "https://en.wikipedia.org/wiki/Perl",
+ "fetched": "2026-10-18"
+}

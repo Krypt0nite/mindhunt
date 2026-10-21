@@ -1,0 +1,187 @@
+Item,Field,Original value,Final value,Source URL,Secondary source URL,Source tier,Status,Explanation
+Fortran,Type checking,Static,Static,https://en.wikipedia.org/wiki/Fortran,,Secondary (Wikipedia),Verified,Matches the source.
+Fortran,How it usually runs,Compiled to machine code,Compiled to machine code,https://en.wikipedia.org/wiki/Fortran,,Secondary (Wikipedia),Verified,Matches the source.
+Fortran,Decade first released,1950,1950,https://en.wikipedia.org/wiki/Fortran,,Secondary (Wikipedia),Verified,Matches the source.
+Fortran,Garbage collected,No,No,https://en.wikipedia.org/wiki/Fortran,,Secondary (Wikipedia),Verified,Matches the source.
+Fortran,Mainly functional,No,No,https://en.wikipedia.org/wiki/Fortran,,Secondary (Wikipedia),Verified,Matches the source.
+Fortran,Created at a company,Yes,Yes,https://en.wikipedia.org/wiki/Fortran,,Secondary (Wikipedia),Verified,Matches the source.
+COBOL,Type checking,Static,Static,https://en.wikipedia.org/wiki/COBOL,,Secondary (Wikipedia),Verified,Matches the source.
+COBOL,How it usually runs,Compiled to machine code,Compiled to machine code,https://en.wikipedia.org/wiki/COBOL,,Secondary (Wikipedia),Verified,Matches the source.
+COBOL,Decade first released,1950,1960,https://en.wikipedia.org/wiki/COBOL,,Secondary (Wikipedia),Corrected,Design began in 1959 (CODASYL); the infobox gives 1960 as first appeared.
+COBOL,Garbage collected,No,No,https://en.wikipedia.org/wiki/COBOL,,Secondary (Wikipedia),Verified,Matches the source.
+COBOL,Mainly functional,No,No,https://en.wikipedia.org/wiki/COBOL,,Secondary (Wikipedia),Verified,Matches the source.
+COBOL,Created at a company,No,No,https://en.wikipedia.org/wiki/COBOL,,Secondary (Wikipedia),Verified,Matches the source.
+Lisp,Type checking,Dynamic,Dynamic,https://en.wikipedia.org/wiki/Lisp_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Lisp,How it usually runs,Interpreted or JIT,Unknown,https://en.wikipedia.org/wiki/Lisp_%28programming_language%29,,Secondary (Wikipedia),Corrected,A family of languages; major implementations both interpret and compile to native code: Unknown.
+Lisp,Decade first released,1950,1960,https://en.wikipedia.org/wiki/Lisp_%28programming_language%29,,Secondary (Wikipedia),Corrected,Designed by McCarthy in 1958; the infobox gives 1960 as first appeared.
+Lisp,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/Lisp_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Lisp,Mainly functional,Yes,Yes,https://en.wikipedia.org/wiki/Lisp_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Lisp,Created at a company,No,No,https://en.wikipedia.org/wiki/Lisp_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+C,Type checking,Static,Static,https://en.wikipedia.org/wiki/C_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+C,How it usually runs,Compiled to machine code,Compiled to machine code,https://en.wikipedia.org/wiki/C_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+C,Decade first released,1970,1970,https://en.wikipedia.org/wiki/C_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+C,Garbage collected,No,No,https://en.wikipedia.org/wiki/C_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+C,Mainly functional,No,No,https://en.wikipedia.org/wiki/C_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+C,Created at a company,Yes,Yes,https://en.wikipedia.org/wiki/C_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Pascal,Type checking,Static,Static,https://en.wikipedia.org/wiki/Pascal_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Pascal,How it usually runs,Compiled to machine code,Compiled to machine code,https://en.wikipedia.org/wiki/Pascal_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Pascal,Decade first released,1970,1970,https://en.wikipedia.org/wiki/Pascal_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Pascal,Garbage collected,No,No,https://en.wikipedia.org/wiki/Pascal_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Pascal,Mainly functional,No,No,https://en.wikipedia.org/wiki/Pascal_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Pascal,Created at a company,No,No,https://en.wikipedia.org/wiki/Pascal_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Ada,Type checking,Static,Static,https://en.wikipedia.org/wiki/Ada_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Ada,How it usually runs,Compiled to machine code,Compiled to machine code,https://en.wikipedia.org/wiki/Ada_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Ada,Decade first released,1980,1980,https://en.wikipedia.org/wiki/Ada_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Ada,Garbage collected,No,No,https://en.wikipedia.org/wiki/Ada_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Ada,Mainly functional,No,No,https://en.wikipedia.org/wiki/Ada_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Ada,Created at a company,No,Unknown,https://en.wikipedia.org/wiki/Ada_%28programming_language%29,,Secondary (Wikipedia),Corrected,"Designed by a Honeywell team under contract to the US Department of Defense: a company built it, the government commissioned it. Unknown."
+C++,Type checking,Static,Static,https://en.wikipedia.org/wiki/C%2B%2B,,Secondary (Wikipedia),Verified,Matches the source.
+C++,How it usually runs,Compiled to machine code,Compiled to machine code,https://en.wikipedia.org/wiki/C%2B%2B,,Secondary (Wikipedia),Verified,Matches the source.
+C++,Decade first released,1980,1980,https://en.wikipedia.org/wiki/C%2B%2B,,Secondary (Wikipedia),Verified,Matches the source.
+C++,Garbage collected,No,No,https://en.wikipedia.org/wiki/C%2B%2B,,Secondary (Wikipedia),Verified,Matches the source.
+C++,Mainly functional,No,No,https://en.wikipedia.org/wiki/C%2B%2B,,Secondary (Wikipedia),Verified,Matches the source.
+C++,Created at a company,Yes,Yes,https://en.wikipedia.org/wiki/C%2B%2B,,Secondary (Wikipedia),Verified,Matches the source.
+Objective-C,Type checking,Static,Static,https://en.wikipedia.org/wiki/Objective-C,,Secondary (Wikipedia),Verified,Matches the source.
+Objective-C,How it usually runs,Compiled to machine code,Compiled to machine code,https://en.wikipedia.org/wiki/Objective-C,,Secondary (Wikipedia),Verified,Matches the source.
+Objective-C,Decade first released,1980,1980,https://en.wikipedia.org/wiki/Objective-C,,Secondary (Wikipedia),Verified,Matches the source.
+Objective-C,Garbage collected,Unknown,Unknown,https://en.wikipedia.org/wiki/Objective-C,,Secondary (Wikipedia),Verified,Matches the source.
+Objective-C,Mainly functional,No,No,https://en.wikipedia.org/wiki/Objective-C,,Secondary (Wikipedia),Verified,Matches the source.
+Objective-C,Created at a company,Yes,Yes,https://en.wikipedia.org/wiki/Objective-C,,Secondary (Wikipedia),Verified,Created by Brad Cox and Tom Love 'at their company Productivity Products International (PPI)'.
+Erlang,Type checking,Dynamic,Dynamic,https://en.wikipedia.org/wiki/Erlang_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Erlang,How it usually runs,On a virtual machine,On a virtual machine,https://en.wikipedia.org/wiki/Erlang_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Erlang,Decade first released,1980,1980,https://en.wikipedia.org/wiki/Erlang_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Erlang,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/Erlang_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Erlang,Mainly functional,Yes,Yes,https://en.wikipedia.org/wiki/Erlang_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Erlang,Created at a company,Yes,Yes,https://en.wikipedia.org/wiki/Erlang_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Perl,Type checking,Dynamic,Dynamic,https://en.wikipedia.org/wiki/Perl,,Secondary (Wikipedia),Verified,Matches the source.
+Perl,How it usually runs,Interpreted or JIT,Interpreted or JIT,https://en.wikipedia.org/wiki/Perl,,Secondary (Wikipedia),Verified,Matches the source.
+Perl,Decade first released,1980,1980,https://en.wikipedia.org/wiki/Perl,,Secondary (Wikipedia),Verified,Matches the source.
+Perl,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/Perl,,Secondary (Wikipedia),Verified,Matches the source.
+Perl,Mainly functional,No,No,https://en.wikipedia.org/wiki/Perl,,Secondary (Wikipedia),Verified,Matches the source.
+Perl,Created at a company,No,No,https://en.wikipedia.org/wiki/Perl,,Secondary (Wikipedia),Verified,Developed by Larry Wall (the infobox lists him as developer).
+MATLAB,Type checking,Dynamic,Dynamic,https://en.wikipedia.org/wiki/MATLAB,,Secondary (Wikipedia),Verified,Matches the source.
+MATLAB,How it usually runs,Interpreted or JIT,Interpreted or JIT,https://en.wikipedia.org/wiki/MATLAB,,Secondary (Wikipedia),Verified,Matches the source.
+MATLAB,Decade first released,1980,1970,https://en.wikipedia.org/wiki/MATLAB,,Secondary (Wikipedia),Corrected,First version written by Cleve Moler at the University of New Mexico; first publicly shown and distributed free in 1979. The commercial MathWorks product came in 1984.
+MATLAB,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/MATLAB,,Secondary (Wikipedia),Verified,Matches the source.
+MATLAB,Mainly functional,No,No,https://en.wikipedia.org/wiki/MATLAB,,Secondary (Wikipedia),Verified,Matches the source.
+MATLAB,Created at a company,No,No,https://en.wikipedia.org/wiki/MATLAB,,Secondary (Wikipedia),Verified,First built at the University of New Mexico (MathWorks was founded in 1984 to sell it).
+Bash,Type checking,Dynamic,Dynamic,https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29,,Secondary (Wikipedia),Verified,Matches the source.
+Bash,How it usually runs,Interpreted or JIT,Interpreted or JIT,https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29,,Secondary (Wikipedia),Verified,Matches the source.
+Bash,Decade first released,1980,1980,https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29,,Secondary (Wikipedia),Verified,Matches the source.
+Bash,Garbage collected,Unknown,Unknown,https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29,,Secondary (Wikipedia),Verified,Matches the source.
+Bash,Mainly functional,No,No,https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29,,Secondary (Wikipedia),Verified,Matches the source.
+Bash,Created at a company,No,No,https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29,,Secondary (Wikipedia),Verified,Matches the source.
+Haskell,Type checking,Static,Static,https://en.wikipedia.org/wiki/Haskell,,Secondary (Wikipedia),Verified,Matches the source.
+Haskell,How it usually runs,Compiled to machine code,Compiled to machine code,https://en.wikipedia.org/wiki/Haskell,,Secondary (Wikipedia),Verified,"Main implementation is the Glasgow Haskell Compiler, which compiles to native code."
+Haskell,Decade first released,1990,1990,https://en.wikipedia.org/wiki/Haskell,,Secondary (Wikipedia),Verified,Matches the source.
+Haskell,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/Haskell,,Secondary (Wikipedia),Verified,Matches the source.
+Haskell,Mainly functional,Yes,Yes,https://en.wikipedia.org/wiki/Haskell,,Secondary (Wikipedia),Verified,Matches the source.
+Haskell,Created at a company,No,No,https://en.wikipedia.org/wiki/Haskell,,Secondary (Wikipedia),Verified,Matches the source.
+Python,Type checking,Dynamic,Dynamic,https://en.wikipedia.org/wiki/Python_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Python,How it usually runs,Interpreted or JIT,Interpreted or JIT,https://en.wikipedia.org/wiki/Python_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Python,Decade first released,1990,1990,https://en.wikipedia.org/wiki/Python_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Python,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/Python_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Python,Mainly functional,No,No,https://en.wikipedia.org/wiki/Python_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Python,Created at a company,No,No,https://en.wikipedia.org/wiki/Python_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Lua,Type checking,Dynamic,Dynamic,https://en.wikipedia.org/wiki/Lua,,Secondary (Wikipedia),Verified,Matches the source.
+Lua,How it usually runs,Interpreted or JIT,Interpreted or JIT,https://en.wikipedia.org/wiki/Lua,,Secondary (Wikipedia),Verified,Matches the source.
+Lua,Decade first released,1990,1990,https://en.wikipedia.org/wiki/Lua,,Secondary (Wikipedia),Verified,Matches the source.
+Lua,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/Lua,,Secondary (Wikipedia),Verified,Matches the source.
+Lua,Mainly functional,No,No,https://en.wikipedia.org/wiki/Lua,,Secondary (Wikipedia),Verified,Matches the source.
+Lua,Created at a company,No,No,https://en.wikipedia.org/wiki/Lua,,Secondary (Wikipedia),Verified,Matches the source.
+R,Type checking,Dynamic,Dynamic,https://en.wikipedia.org/wiki/R_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+R,How it usually runs,Interpreted or JIT,Interpreted or JIT,https://en.wikipedia.org/wiki/R_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+R,Decade first released,1990,1990,https://en.wikipedia.org/wiki/R_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+R,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/R_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+R,Mainly functional,No,No,https://en.wikipedia.org/wiki/R_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+R,Created at a company,No,No,https://en.wikipedia.org/wiki/R_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Java,Type checking,Static,Static,https://en.wikipedia.org/wiki/Java_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Java,How it usually runs,On a virtual machine,On a virtual machine,https://en.wikipedia.org/wiki/Java_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Java,Decade first released,1990,1990,https://en.wikipedia.org/wiki/Java_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Java,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/Java_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Java,Mainly functional,No,No,https://en.wikipedia.org/wiki/Java_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Java,Created at a company,Yes,Yes,https://en.wikipedia.org/wiki/Java_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+JavaScript,Type checking,Dynamic,Dynamic,https://en.wikipedia.org/wiki/JavaScript,,Secondary (Wikipedia),Verified,Matches the source.
+JavaScript,How it usually runs,Interpreted or JIT,Interpreted or JIT,https://en.wikipedia.org/wiki/JavaScript,,Secondary (Wikipedia),Verified,Matches the source.
+JavaScript,Decade first released,1990,1990,https://en.wikipedia.org/wiki/JavaScript,,Secondary (Wikipedia),Verified,Matches the source.
+JavaScript,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/JavaScript,,Secondary (Wikipedia),Verified,Matches the source.
+JavaScript,Mainly functional,No,No,https://en.wikipedia.org/wiki/JavaScript,,Secondary (Wikipedia),Verified,Matches the source.
+JavaScript,Created at a company,Yes,Yes,https://en.wikipedia.org/wiki/JavaScript,,Secondary (Wikipedia),Verified,Matches the source.
+Ruby,Type checking,Dynamic,Dynamic,https://en.wikipedia.org/wiki/Ruby_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Ruby,How it usually runs,Interpreted or JIT,Interpreted or JIT,https://en.wikipedia.org/wiki/Ruby_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Ruby,Decade first released,1990,1990,https://en.wikipedia.org/wiki/Ruby_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Ruby,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/Ruby_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Ruby,Mainly functional,No,No,https://en.wikipedia.org/wiki/Ruby_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Ruby,Created at a company,No,No,https://en.wikipedia.org/wiki/Ruby_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+PHP,Type checking,Dynamic,Dynamic,https://en.wikipedia.org/wiki/PHP,,Secondary (Wikipedia),Verified,Matches the source.
+PHP,How it usually runs,Interpreted or JIT,Interpreted or JIT,https://en.wikipedia.org/wiki/PHP,,Secondary (Wikipedia),Verified,Matches the source.
+PHP,Decade first released,1990,1990,https://en.wikipedia.org/wiki/PHP,,Secondary (Wikipedia),Verified,Matches the source.
+PHP,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/PHP,,Secondary (Wikipedia),Verified,Matches the source.
+PHP,Mainly functional,No,No,https://en.wikipedia.org/wiki/PHP,,Secondary (Wikipedia),Verified,Matches the source.
+PHP,Created at a company,No,No,https://en.wikipedia.org/wiki/PHP,,Secondary (Wikipedia),Verified,Matches the source.
+C#,Type checking,Static,Static,https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+C#,How it usually runs,On a virtual machine,On a virtual machine,https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+C#,Decade first released,2000,2000,https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+C#,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+C#,Mainly functional,No,No,https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+C#,Created at a company,Yes,Yes,https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Scala,Type checking,Static,Static,https://en.wikipedia.org/wiki/Scala_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Scala,How it usually runs,On a virtual machine,On a virtual machine,https://en.wikipedia.org/wiki/Scala_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Scala,Decade first released,2000,2000,https://en.wikipedia.org/wiki/Scala_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Scala,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/Scala_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Scala,Mainly functional,No,No,https://en.wikipedia.org/wiki/Scala_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Scala,Created at a company,No,No,https://en.wikipedia.org/wiki/Scala_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Clojure,Type checking,Dynamic,Dynamic,https://en.wikipedia.org/wiki/Clojure,,Secondary (Wikipedia),Verified,Matches the source.
+Clojure,How it usually runs,On a virtual machine,On a virtual machine,https://en.wikipedia.org/wiki/Clojure,,Secondary (Wikipedia),Verified,Matches the source.
+Clojure,Decade first released,2000,2000,https://en.wikipedia.org/wiki/Clojure,,Secondary (Wikipedia),Verified,Matches the source.
+Clojure,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/Clojure,,Secondary (Wikipedia),Verified,Matches the source.
+Clojure,Mainly functional,Yes,Yes,https://en.wikipedia.org/wiki/Clojure,,Secondary (Wikipedia),Verified,Matches the source.
+Clojure,Created at a company,No,No,https://en.wikipedia.org/wiki/Clojure,,Secondary (Wikipedia),Verified,Matches the source.
+Go,Type checking,Static,Static,https://en.wikipedia.org/wiki/Go_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Go,How it usually runs,Compiled to machine code,Compiled to machine code,https://en.wikipedia.org/wiki/Go_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Go,Decade first released,2000,2000,https://en.wikipedia.org/wiki/Go_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Go,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/Go_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Go,Mainly functional,No,No,https://en.wikipedia.org/wiki/Go_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Go,Created at a company,Yes,Yes,https://en.wikipedia.org/wiki/Go_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Rust,Type checking,Static,Static,https://en.wikipedia.org/wiki/Rust_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Rust,How it usually runs,Compiled to machine code,Compiled to machine code,https://en.wikipedia.org/wiki/Rust_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Rust,Decade first released,2010,2010,https://en.wikipedia.org/wiki/Rust_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Rust,Garbage collected,No,No,https://en.wikipedia.org/wiki/Rust_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Rust,Mainly functional,No,No,https://en.wikipedia.org/wiki/Rust_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Rust,Created at a company,Yes,Yes,https://en.wikipedia.org/wiki/Rust_%28programming_language%29,,Secondary (Wikipedia),Verified,"'Graydon Hoare created Rust in 2006 while working at Mozilla, which officially sponsored the project in 2009.'"
+Kotlin,Type checking,Static,Static,https://en.wikipedia.org/wiki/Kotlin,,Secondary (Wikipedia),Verified,Matches the source.
+Kotlin,How it usually runs,On a virtual machine,On a virtual machine,https://en.wikipedia.org/wiki/Kotlin,,Secondary (Wikipedia),Verified,Matches the source.
+Kotlin,Decade first released,2010,2010,https://en.wikipedia.org/wiki/Kotlin,,Secondary (Wikipedia),Verified,Matches the source.
+Kotlin,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/Kotlin,,Secondary (Wikipedia),Verified,Matches the source.
+Kotlin,Mainly functional,No,No,https://en.wikipedia.org/wiki/Kotlin,,Secondary (Wikipedia),Verified,Matches the source.
+Kotlin,Created at a company,Yes,Yes,https://en.wikipedia.org/wiki/Kotlin,,Secondary (Wikipedia),Verified,Matches the source.
+TypeScript,Type checking,Static,Static,https://en.wikipedia.org/wiki/TypeScript,,Secondary (Wikipedia),Verified,Matches the source.
+TypeScript,How it usually runs,Unknown,Unknown,https://en.wikipedia.org/wiki/TypeScript,,Secondary (Wikipedia),Verified,Matches the source.
+TypeScript,Decade first released,2010,2010,https://en.wikipedia.org/wiki/TypeScript,,Secondary (Wikipedia),Verified,Matches the source.
+TypeScript,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/TypeScript,,Secondary (Wikipedia),Verified,Matches the source.
+TypeScript,Mainly functional,No,No,https://en.wikipedia.org/wiki/TypeScript,,Secondary (Wikipedia),Verified,Matches the source.
+TypeScript,Created at a company,Yes,Yes,https://en.wikipedia.org/wiki/TypeScript,,Secondary (Wikipedia),Verified,Matches the source.
+Elixir,Type checking,Dynamic,Dynamic,https://en.wikipedia.org/wiki/Elixir_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Elixir,How it usually runs,On a virtual machine,On a virtual machine,https://en.wikipedia.org/wiki/Elixir_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Elixir,Decade first released,2010,2010,https://en.wikipedia.org/wiki/Elixir_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Elixir,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/Elixir_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Elixir,Mainly functional,Yes,Yes,https://en.wikipedia.org/wiki/Elixir_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Elixir,Created at a company,Unknown,Yes,https://en.wikipedia.org/wiki/Elixir_%28programming_language%29,,Secondary (Wikipedia),Corrected,'José Valim created the Elixir programming language as a research and development project at Plataformatec' (a company).
+Julia,Type checking,Dynamic,Dynamic,https://en.wikipedia.org/wiki/Julia_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Julia,How it usually runs,Interpreted or JIT,Interpreted or JIT,https://en.wikipedia.org/wiki/Julia_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Julia,Decade first released,2010,2010,https://en.wikipedia.org/wiki/Julia_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Julia,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/Julia_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Julia,Mainly functional,No,No,https://en.wikipedia.org/wiki/Julia_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Julia,Created at a company,No,No,https://en.wikipedia.org/wiki/Julia_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Swift,Type checking,Static,Static,https://en.wikipedia.org/wiki/Swift_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Swift,How it usually runs,Compiled to machine code,Compiled to machine code,https://en.wikipedia.org/wiki/Swift_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Swift,Decade first released,2010,2010,https://en.wikipedia.org/wiki/Swift_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Swift,Garbage collected,Yes,Yes,https://en.wikipedia.org/wiki/Swift_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Swift,Mainly functional,No,No,https://en.wikipedia.org/wiki/Swift_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Swift,Created at a company,Yes,Yes,https://en.wikipedia.org/wiki/Swift_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Zig,Type checking,Static,Static,https://en.wikipedia.org/wiki/Zig_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Zig,How it usually runs,Compiled to machine code,Compiled to machine code,https://en.wikipedia.org/wiki/Zig_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Zig,Decade first released,2010,2010,https://en.wikipedia.org/wiki/Zig_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Zig,Garbage collected,No,No,https://en.wikipedia.org/wiki/Zig_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Zig,Mainly functional,No,No,https://en.wikipedia.org/wiki/Zig_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.
+Zig,Created at a company,No,No,https://en.wikipedia.org/wiki/Zig_%28programming_language%29,,Secondary (Wikipedia),Verified,Matches the source.

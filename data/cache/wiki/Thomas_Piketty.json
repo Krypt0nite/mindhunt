@@ -1,0 +1,29 @@
+{
+ "asked": "Thomas Piketty",
+ "title": "Thomas Piketty",
+ "missing": false,
+ "disambiguation": false,
+ "description": "French economist (born 1971)",
+ "extract": "Thomas Piketty (French: [tɔmɑ pikɛti]; born 7 May 1971) is a French economist who is a professor of economics at the School for Advanced Studies in the Social Sciences (EHESS), associate chair at the Paris School of Economics (PSE) and Centennial Professor of Economics in the International Inequalities Institute at the London School of Economics (LSE).\nPiketty's work focuses on public economics, in particular income and wealth inequality. He is the author of the best-selling book Capital in the Twenty-First Century (2013), which emphasises the themes of his work on wealth concentrations and distribution over the past 250 years. The book argues that the rate of capital return in developed countries is persistently greater than the rate of economic growth, and that this will cause wealth inequality to increase in the future. Piketty proposes improving the education systems and considers diffusion of knowledge, diffusion of skills, diffusion of idea of productivity as the main mechanism that will lead to lower inequality. In 2019, his book Capital and Ideology was published, which focuses on income inequality in various societies in history. His 2022 A Brief History of Equality is a much shorter book about wealth redistribution intended for a target audience of citizens instead of economists.",
+ "revid": 1374085338,
+ "infobox": {
+  "name": "Thomas Piketty",
+  "school_tradition": "",
+  "image": "Thomas Piketty, 2015 (cropped).jpg",
+  "caption": "Piketty in 2015",
+  "birth_date": "{{Birth date and age|1971|5|7|df=y}}",
+  "birth_place": "Clichy, France",
+  "death_date": "| death_place      =",
+  "institutions": "Paris School of Economics<br />School for Advanced Studies in the Social Sciences<br />London School of Economics<br />Massachusetts Institute of Technology",
+  "field": "Public economics, economic history",
+  "doctoral_advisor": "Roger Guesnerie",
+  "doctoral_students": "| influences       = Simon Kuznets, Adam Smith, John Maynard Keynes, Anthony Atkinson, Kenneth Pomeranz, Amartya Sen, Julia Cagé, Lucas Chancel, Camille Landais, Emmanuel Saez, John Rawls, Emile Durkheim, Leon Bourgeois",
+  "influenced": "| contributions    =",
+  "awards": "Honorary Doctorate, Clarivate Citation Laureates (2023)<br /> University of Johannesburg (2015)<br />Medalla Rectoral, Universidad de Chile (2015)<br />Yrjö Jahnsson Award (2013)<br />Prix du meilleur jeune économiste de France (2002)",
+  "spouse": "{{marriage|Julia Cagé|2014}}",
+  "signature": "| repec_prefix = e | repec_id = ppi17",
+  "education": "École Normale Supérieure (MSc)<br />London School of Economics<br />School for Advanced Studies in the Social Sciences (joint PhD)}}"
+ },
+ "url": "https://en.wikipedia.org/wiki/Thomas_Piketty",
+ "fetched": "2026-10-18"
+}

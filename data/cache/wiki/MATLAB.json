@@ -1,0 +1,29 @@
+{
+ "asked": "MATLAB",
+ "title": "MATLAB",
+ "missing": false,
+ "disambiguation": false,
+ "description": "Numerical computing environment and programming language",
+ "extract": "MATLAB (Matrix Laboratory) is a proprietary multi-paradigm programming language and numeric computing environment developed by MathWorks. MATLAB allows matrix manipulations, plotting of functions and data, implementation of algorithms, creation of user interfaces, and interfacing with programs written in other languages.\nAlthough MATLAB is intended primarily for numeric computing, an optional toolbox uses the MuPAD symbolic engine allowing access to symbolic computing abilities. An additional package, Simulink, adds graphical multi-domain simulation and model-based design for dynamic and embedded systems.\nAs of 2020, MATLAB has more than four million users worldwide. They come from various backgrounds of engineering, science, and economics. As of 2025, more than 6,500 global colleges and universities use MATLAB to support instruction and research.",
+ "revid": 1379230855,
+ "infobox": {
+  "name": "MATLAB (software)",
+  "logo": "Matlab Logo.png",
+  "logo size": "150px",
+  "logo caption": "L-shaped membrane logo",
+  "screenshot": "| caption = MATLAB R2015b running on Windows 10",
+  "developer": "MathWorks",
+  "released": "{{Start date and age|1984}}",
+  "latest release version": "{{wikidata|property|edit|reference|P548=Q2804309|P348}}",
+  "latest release date": "{{start date and age|{{wikidata|qualifier|mdy|single|P548=Q2804309|P348|P577}}}}",
+  "latest preview version": "{{wikidata|property|edit|reference|P548=Q2122918|P348}}",
+  "latest preview date": "| programming language = C/C++, MATLAB",
+  "operating system": "Windows, macOS, and Linux",
+  "platform": "IA-32, x86-64, ARM64",
+  "genre": "Numerical computing",
+  "license": "Proprietary commercial software",
+  "website": "{{URL|https://www.mathworks.com/products/matlab.html|mathworks.com}}"
+ },
+ "url": "https://en.wikipedia.org/wiki/MATLAB",
+ "fetched": "2026-10-18"
+}

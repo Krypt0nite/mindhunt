@@ -1,0 +1,2022 @@
+[
+  {
+    "id": "c_c5b024",
+    "name": "Sachin Tendulkar",
+    "wikipedia": "Sachin_Tendulkar",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:The_cricket_legend_Sachin_Tendulkar_at_the_Oval_Maidan_in_Mumbai_During_the_Duke_and_Duchess_of_Cambridge_Visit(26271019082).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/The_cricket_legend_Sachin_Tendulkar_at_the_Oval_Maidan_in_Mumbai_During_the_Duke_and_Duchess_of_Cambridge_Visit%2826271019082%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "45b346bcdec6a3aa4bdf391fd4c3ce8a0bf41457",
+    "credit": "British High Commission, New Delhi",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: British High Commission, New Delhi, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:The_cricket_legend_Sachin_Tendulkar_at_the_Oval_Maidan_in_Mumbai_During_the_Duke_and_Duchess_of_Cambridge_Visit(26271019082).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:The_cricket_legend_Sachin_Tendulkar_at_the_Oval_Maidan_in_Mumbai_During_the_Duke_and_Duchess_of_Cambridge_Visit(26271019082).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:The_cricket_legend_Sachin_Tendulkar_at_the_Oval_Maidan_in_Mumbai_During_the_Duke_and_Duchess_of_Cambridge_Visit(26271019082).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/The_cricket_legend_Sachin_Tendulkar_at_the_Oval_Maidan_in_Mumbai_During_the_Duke_and_Duchess_of_Cambridge_Visit%2826271019082%29.jpg/1280px-The_cricket_legend_Sachin_Tendulkar_at_the_Oval_Maidan_in_Mumbai_During_the_Duke_and_Duchess_of_Cambridge_Visit%2826271019082%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "c_88c098",
+    "name": "Virat Kohli",
+    "wikipedia": "Virat_Kohli",
+    "image_status": "Rejected",
+    "reason": "no usable candidate: File:Virat_Kohli_during_the_India_vs_Aus_4th_Test_match_at_Narendra_Modi_Stadium_on_09_March_2023.jpg: rejected: licence 'GODL-India' is not on the allow-list",
+    "file_page": "",
+    "file_url": "",
+    "asset": "",
+    "sha1": "",
+    "credit": "",
+    "license": "",
+    "license_url": "",
+    "attribution_required": null,
+    "attribution_line": "",
+    "source_url": "",
+    "licence_status": "Unverified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded",
+    "candidates_examined": [
+      {
+        "file": "File:Virat_Kohli_during_the_India_vs_Aus_4th_Test_match_at_Narendra_Modi_Stadium_on_09_March_2023.jpg",
+        "result": "rejected: licence 'GODL-India' is not on the allow-list"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": ""
+  },
+  {
+    "id": "c_5deaef",
+    "name": "Rohit Sharma",
+    "wikipedia": "Rohit_Sharma",
+    "image_status": "Rejected",
+    "reason": "no usable candidate: File:Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_(Cropped).jpg: rejected: licence 'GODL-India' is not on the allow-list",
+    "file_page": "",
+    "file_url": "",
+    "asset": "",
+    "sha1": "",
+    "credit": "",
+    "license": "",
+    "license_url": "",
+    "attribution_required": null,
+    "attribution_line": "",
+    "source_url": "",
+    "licence_status": "Unverified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded",
+    "candidates_examined": [
+      {
+        "file": "File:Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_(Cropped).jpg",
+        "result": "rejected: licence 'GODL-India' is not on the allow-list"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": ""
+  },
+  {
+    "id": "c_761fdf",
+    "name": "MS Dhoni",
+    "wikipedia": "MS_Dhoni",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:MS_Dhoni_(Prabhav_%2723_-_RiGI_2023).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/MS_Dhoni_%28Prabhav_%2723_-_RiGI_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "fcdbe90625502e6c8cdcfe028a172d79d33290c6",
+    "credit": "RIGI",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: RIGI, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:MS_Dhoni_(Prabhav_%2723_-_RiGI_2023).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:MS_Dhoni_(Prabhav_%2723_-_RiGI_2023).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:MS_Dhoni_(Prabhav_'23_-_RiGI_2023).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/MS_Dhoni_%28Prabhav_%2723_-_RiGI_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_ef0210",
+    "name": "Sourav Ganguly",
+    "wikipedia": "Sourav_Ganguly",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Sourav_Ganguly_(late_2010s).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Sourav_Ganguly_%28late_2010s%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "2f499c24c33495a56fd997f85622df36b9621e3e",
+    "credit": "Times Of India",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Times Of India, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sourav_Ganguly_(late_2010s).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sourav_Ganguly_(late_2010s).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Sourav_Ganguly_(late_2010s).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Sourav_Ganguly_%28late_2010s%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_69bcca",
+    "name": "Rahul Dravid",
+    "wikipedia": "Rahul_Dravid",
+    "image_status": "Rejected",
+    "reason": "no usable candidate: File:Rahul_Dravid_in_2024.jpg: rejected: licence 'GODL-India' is not on the allow-list",
+    "file_page": "",
+    "file_url": "",
+    "asset": "",
+    "sha1": "",
+    "credit": "",
+    "license": "",
+    "license_url": "",
+    "attribution_required": null,
+    "attribution_line": "",
+    "source_url": "",
+    "licence_status": "Unverified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded",
+    "candidates_examined": [
+      {
+        "file": "File:Rahul_Dravid_in_2024.jpg",
+        "result": "rejected: licence 'GODL-India' is not on the allow-list"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": ""
+  },
+  {
+    "id": "c_b17b3a",
+    "name": "Anil Kumble",
+    "wikipedia": "Anil_Kumble",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Anil_Kumble_(1).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Anil_Kumble_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "abe689bc243c978c7891b5483245c09830ce25f2",
+    "credit": "CRICKETNEXT",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: CRICKETNEXT, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Anil_Kumble_(1).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Anil_Kumble_(1).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Anil_Kumble_(1).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Anil_Kumble_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_1dec33",
+    "name": "Kapil Dev",
+    "wikipedia": "Kapil_Dev",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Kapil_Dev_at_Equation_sports_auction_(3x4_cropped).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Kapil_Dev_at_Equation_sports_auction_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "cf06170c7bf305ac102ed3209296ccbf324469f7",
+    "credit": "Bollywood Hungama",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Bollywood Hungama, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Kapil_Dev_at_Equation_sports_auction_(3x4_cropped).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kapil_Dev_at_Equation_sports_auction_(3x4_cropped).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Kapil_Dev_at_Equation_sports_auction_(3x4_cropped).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Kapil_Dev_at_Equation_sports_auction_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_b6142d",
+    "name": "Sunil Gavaskar",
+    "wikipedia": "Sunil_Gavaskar",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Anu_Ranjan,_Amruta_Fadnavis,_Sunil_Gavaskar,_Shashi_Ranjan_graces_the_Gr8_Beti_event_(02)_(cropped_-_Gavaskar).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Anu_Ranjan%2C_Amruta_Fadnavis%2C_Sunil_Gavaskar%2C_Shashi_Ranjan_graces_the_Gr8_Beti_event_%2802%29_%28cropped_-_Gavaskar%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "e75cb6cee0f39fda2e29b8628272547449d12170",
+    "credit": "Bollywood Hungama",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Bollywood Hungama, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Anu_Ranjan,_Amruta_Fadnavis,_Sunil_Gavaskar,_Shashi_Ranjan_graces_the_Gr8_Beti_event_(02)_(cropped_-_Gavaskar).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Anu_Ranjan,_Amruta_Fadnavis,_Sunil_Gavaskar,_Shashi_Ranjan_graces_the_Gr8_Beti_event_(02)_(cropped_-_Gavaskar).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Anu_Ranjan,_Amruta_Fadnavis,_Sunil_Gavaskar,_Shashi_Ranjan_graces_the_Gr8_Beti_event_(02)_(cropped_-_Gavaskar).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Anu_Ranjan%2C_Amruta_Fadnavis%2C_Sunil_Gavaskar%2C_Shashi_Ranjan_graces_the_Gr8_Beti_event_%2802%29_%28cropped_-_Gavaskar%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_8d1297",
+    "name": "Jasprit Bumrah",
+    "wikipedia": "Jasprit_Bumrah",
+    "image_status": "Rejected",
+    "reason": "no usable candidate: File:Jasprit_Bumrah_in_PMO_New_Delhi.jpg: rejected: licence 'GODL-India' is not on the allow-list",
+    "file_page": "",
+    "file_url": "",
+    "asset": "",
+    "sha1": "",
+    "credit": "",
+    "license": "",
+    "license_url": "",
+    "attribution_required": null,
+    "attribution_line": "",
+    "source_url": "",
+    "licence_status": "Unverified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded",
+    "candidates_examined": [
+      {
+        "file": "File:Jasprit_Bumrah_in_PMO_New_Delhi.jpg",
+        "result": "rejected: licence 'GODL-India' is not on the allow-list"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": ""
+  },
+  {
+    "id": "c_276ed0",
+    "name": "Ravindra Jadeja",
+    "wikipedia": "Ravindra_Jadeja",
+    "image_status": "Rejected",
+    "reason": "no usable candidate: File:PM_Shri_Narendra_Modi_with_Ravindra_Jadeja_(Cropped).jpg: rejected: licence 'GODL-India' is not on the allow-list",
+    "file_page": "",
+    "file_url": "",
+    "asset": "",
+    "sha1": "",
+    "credit": "",
+    "license": "",
+    "license_url": "",
+    "attribution_required": null,
+    "attribution_line": "",
+    "source_url": "",
+    "licence_status": "Unverified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded",
+    "candidates_examined": [
+      {
+        "file": "File:PM_Shri_Narendra_Modi_with_Ravindra_Jadeja_(Cropped).jpg",
+        "result": "rejected: licence 'GODL-India' is not on the allow-list"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": ""
+  },
+  {
+    "id": "c_055053",
+    "name": "Ravichandran Ashwin",
+    "wikipedia": "Ravichandran_Ashwin",
+    "image_status": "Rejected",
+    "reason": "no usable candidate: File:The_Minister_of_State_for_Youth_Affairs_and_Sports_(Independent_Charge),_Shri_Sarbananda_Sonowal_conferring_the_Arjuna_Award_on_cricketer_Ravichandran_Ashwin,_in_New_Delhi_on_July_31,_2015_cropped.jpg: rejected: licence 'GODL-India' is not on the allow-list",
+    "file_page": "",
+    "file_url": "",
+    "asset": "",
+    "sha1": "",
+    "credit": "",
+    "license": "",
+    "license_url": "",
+    "attribution_required": null,
+    "attribution_line": "",
+    "source_url": "",
+    "licence_status": "Unverified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded",
+    "candidates_examined": [
+      {
+        "file": "File:The_Minister_of_State_for_Youth_Affairs_and_Sports_(Independent_Charge),_Shri_Sarbananda_Sonowal_conferring_the_Arjuna_Award_on_cricketer_Ravichandran_Ashwin,_in_New_Delhi_on_July_31,_2015_cropped.jpg",
+        "result": "rejected: licence 'GODL-India' is not on the allow-list"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": ""
+  },
+  {
+    "id": "c_ac22b2",
+    "name": "Yuvraj Singh",
+    "wikipedia": "Yuvraj_Singh",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Yuvraj_Singh_appointed_as_Ulysse_Nardin_watch_brand_ambassador.jpeg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Yuvraj_Singh_appointed_as_Ulysse_Nardin_watch_brand_ambassador.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "a77b29b07578529e928e111d24fd7b81dc48f5cb",
+    "credit": "Bollywood Hungama",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Bollywood Hungama, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Yuvraj_Singh_appointed_as_Ulysse_Nardin_watch_brand_ambassador.jpeg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Yuvraj_Singh_appointed_as_Ulysse_Nardin_watch_brand_ambassador.jpeg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Yuvraj_Singh_appointed_as_Ulysse_Nardin_watch_brand_ambassador.jpeg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Yuvraj_Singh_appointed_as_Ulysse_Nardin_watch_brand_ambassador.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_888569",
+    "name": "Virender Sehwag",
+    "wikipedia": "Virender_Sehwag",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Virender_Sehwag_at_the_NDTV_Marks_for_Sports_event_13.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Virender_Sehwag_at_the_NDTV_Marks_for_Sports_event_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "2014e7d7b31f9133854e1f8ebdf9c24a6099c7ec",
+    "credit": "Bollywood Hungama",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Bollywood Hungama, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Virender_Sehwag_at_the_NDTV_Marks_for_Sports_event_13.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Virender_Sehwag_at_the_NDTV_Marks_for_Sports_event_13.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Virender_Sehwag_at_the_NDTV_Marks_for_Sports_event_13.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Virender_Sehwag_at_the_NDTV_Marks_for_Sports_event_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_b0b136",
+    "name": "Zaheer Khan",
+    "wikipedia": "Zaheer_Khan",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Zaheer_Khan_at_the_CPAA_show_2018_(cropped).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Zaheer_Khan_at_the_CPAA_show_2018_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "b7f11327c3df21d5d28303b8baa16005f3c8a2b2",
+    "credit": "Bollywood Hungama",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Bollywood Hungama, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Zaheer_Khan_at_the_CPAA_show_2018_(cropped).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Zaheer_Khan_at_the_CPAA_show_2018_(cropped).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Zaheer_Khan_at_the_CPAA_show_2018_(cropped).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Zaheer_Khan_at_the_CPAA_show_2018_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_80d63a",
+    "name": "Harbhajan Singh",
+    "wikipedia": "Harbhajan_Singh",
+    "image_status": "Rejected",
+    "reason": "no usable candidate: File:Shri_Harbhajan_Singh_2015.jpg: rejected: licence 'GODL-India' is not on the allow-list",
+    "file_page": "",
+    "file_url": "",
+    "asset": "",
+    "sha1": "",
+    "credit": "",
+    "license": "",
+    "license_url": "",
+    "attribution_required": null,
+    "attribution_line": "",
+    "source_url": "",
+    "licence_status": "Unverified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded",
+    "candidates_examined": [
+      {
+        "file": "File:Shri_Harbhajan_Singh_2015.jpg",
+        "result": "rejected: licence 'GODL-India' is not on the allow-list"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": ""
+  },
+  {
+    "id": "c_fbded7",
+    "name": "Shikhar Dhawan",
+    "wikipedia": "Shikhar_Dhawan",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:SHIKHAR_DHAWAN_(16005494418).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/SHIKHAR_DHAWAN_%2816005494418%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "f2058161279cca9297aa6c067fd726e04c830093",
+    "credit": "NAPARAZZI",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: NAPARAZZI, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:SHIKHAR_DHAWAN_(16005494418).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:SHIKHAR_DHAWAN_(16005494418).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:SHIKHAR_DHAWAN_(16005494418).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/SHIKHAR_DHAWAN_%2816005494418%29.jpg/1280px-SHIKHAR_DHAWAN_%2816005494418%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "c_d9fa31",
+    "name": "Shubman Gill",
+    "wikipedia": "Shubman_Gill",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Shubman_Gill_2023_(cropped).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Shubman_Gill_2023_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "3184e5ab3c524bef4015eead4ea3cb5c071f906f",
+    "credit": "Bollywood Hungama",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Bollywood Hungama, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Shubman_Gill_2023_(cropped).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shubman_Gill_2023_(cropped).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Shubman_Gill_2023_(cropped).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Shubman_Gill_2023_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_48f3ec",
+    "name": "Hardik Pandya",
+    "wikipedia": "Hardik_Pandya",
+    "image_status": "Rejected",
+    "reason": "no usable candidate: File:Hardik_Pandya_in_PMO_New_Delhi.jpg: rejected: licence 'GODL-India' is not on the allow-list",
+    "file_page": "",
+    "file_url": "",
+    "asset": "",
+    "sha1": "",
+    "credit": "",
+    "license": "",
+    "license_url": "",
+    "attribution_required": null,
+    "attribution_line": "",
+    "source_url": "",
+    "licence_status": "Unverified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded",
+    "candidates_examined": [
+      {
+        "file": "File:Hardik_Pandya_in_PMO_New_Delhi.jpg",
+        "result": "rejected: licence 'GODL-India' is not on the allow-list"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": ""
+  },
+  {
+    "id": "c_19e2a6",
+    "name": "VVS Laxman",
+    "wikipedia": "VVS_Laxman",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:VVS_Laxman99.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/VVS_Laxman99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "a243fdcd87ebd36682575c658fc6e2a7a1a17287",
+    "credit": "Kalyan Chakravarthy",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Kalyan Chakravarthy, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:VVS_Laxman99.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:VVS_Laxman99.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:VVS_Laxman99.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/VVS_Laxman99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_a0db8a",
+    "name": "Mohammed Shami",
+    "wikipedia": "Mohammed_Shami",
+    "image_status": "Rejected",
+    "reason": "no usable candidate: File:Mohammed_Shami_Arjuna_Award_(cropped).jpg: rejected: licence 'GODL-India' is not on the allow-list",
+    "file_page": "",
+    "file_url": "",
+    "asset": "",
+    "sha1": "",
+    "credit": "",
+    "license": "",
+    "license_url": "",
+    "attribution_required": null,
+    "attribution_line": "",
+    "source_url": "",
+    "licence_status": "Unverified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded",
+    "candidates_examined": [
+      {
+        "file": "File:Mohammed_Shami_Arjuna_Award_(cropped).jpg",
+        "result": "rejected: licence 'GODL-India' is not on the allow-list"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": ""
+  },
+  {
+    "id": "c_1b8b38",
+    "name": "Ricky Ponting",
+    "wikipedia": "Ricky_Ponting",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ricky_Ponting_2015.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Ricky_Ponting_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "ecb97f376c4280ecb2704dc387925100ec1e298d",
+    "credit": "Tourism Victoria",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Tourism Victoria, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ricky_Ponting_2015.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ricky_Ponting_2015.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Ricky_Ponting_2015.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Ricky_Ponting_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_5b9981",
+    "name": "Shane Warne",
+    "wikipedia": "Shane_Warne",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Shane_Warne_February_2015.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Shane_Warne_February_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "e221aff758099d57a21bf8d875c64dd59e96b90e",
+    "credit": "Tourism Victoria from Australia",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Tourism Victoria from Australia, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Shane_Warne_February_2015.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shane_Warne_February_2015.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Shane_Warne_February_2015.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Shane_Warne_February_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_758e44",
+    "name": "Glenn McGrath",
+    "wikipedia": "Glenn_McGrath",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Glenn_mcgrath_(6279982367).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Glenn_mcgrath_%286279982367%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "3686ffcc6a9f66ce0a41980514b5bd3559c8a5d1",
+    "credit": "Eva Rinaldi",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Eva Rinaldi, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Glenn_mcgrath_(6279982367).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Glenn_mcgrath_(6279982367).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Glenn_McGrath_in_final_test_series.jpg",
+        "result": "rejected: author missing"
+      },
+      {
+        "file": "File:Glenn_mcgrath_(6279982367).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Glenn_mcgrath_%286279982367%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_531269",
+    "name": "Adam Gilchrist",
+    "wikipedia": "Adam_Gilchrist",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Adam_Gilchrist_of_Australia_(cropped).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Adam_Gilchrist_of_Australia_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "57fb0118ed27641be1e98b0b4d5e0c03f6bb2a28",
+    "credit": "Luton Anderson",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Luton Anderson, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Adam_Gilchrist_of_Australia_(cropped).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Adam_Gilchrist_of_Australia_(cropped).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Adam_Gilchrist_of_Australia_(cropped).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Adam_Gilchrist_of_Australia_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_3ead7f",
+    "name": "Steve Waugh",
+    "wikipedia": "Steve_Waugh",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:STEVE_WAUGH_(6631163989).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/STEVE_WAUGH_%286631163989%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "f8df0bf8342b60a69f67dd3271c4455c4b1b2f1e",
+    "credit": "NAPARAZZI",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: NAPARAZZI, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:STEVE_WAUGH_(6631163989).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:STEVE_WAUGH_(6631163989).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:STEVE_WAUGH_(6631163989).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/STEVE_WAUGH_%286631163989%29.jpg/1280px-STEVE_WAUGH_%286631163989%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "c_12ae0c",
+    "name": "Don Bradman",
+    "wikipedia": "Donald_Bradman",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Don_Bradman_1930.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Don_Bradman_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "ea6e7765315786927c64f8aec5403587fdb166f6",
+    "credit": "State Library of South Australia from Australia",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: State Library of South Australia from Australia, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Don_Bradman_1930.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Don_Bradman_1930.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Don_Bradman_1930.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Don_Bradman_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_ad3a3b",
+    "name": "Steve Smith",
+    "wikipedia": "Steve_Smith_(cricketer)",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:STEVE_SMITH_(11705303043).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/STEVE_SMITH_%2811705303043%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "70de50e6182c6c63e872d20d1ebdd538ff8d411c",
+    "credit": "NAPARAZZI",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: NAPARAZZI, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:STEVE_SMITH_(11705303043).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:STEVE_SMITH_(11705303043).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:STEVE_SMITH_(11705303043).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/STEVE_SMITH_%2811705303043%29.jpg/1280px-STEVE_SMITH_%2811705303043%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "c_2d13ff",
+    "name": "Pat Cummins",
+    "wikipedia": "Pat_Cummins",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pat_Cummins_fielding_Ashes_2021_(cropped).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Pat_Cummins_fielding_Ashes_2021_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "65cf7a37a37c9dd80703f0328f92721d28e8da0b",
+    "credit": "SirWellsy99",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: SirWellsy99, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Pat_Cummins_fielding_Ashes_2021_(cropped).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Pat_Cummins_fielding_Ashes_2021_(cropped).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Pat_Cummins_fielding_Ashes_2021_(cropped).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Pat_Cummins_fielding_Ashes_2021_%28cropped%29.jpg/1280px-Pat_Cummins_fielding_Ashes_2021_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "c_bf44e1",
+    "name": "Mitchell Starc",
+    "wikipedia": "Mitchell_Starc",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mitchell_Starc_2023.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Mitchell_Starc_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "a33d0f127513aa4f89fddc152cd921bc9a37a48d",
+    "credit": "Prime Video AU & NZ",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Prime Video AU & NZ, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Mitchell_Starc_2023.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Mitchell_Starc_2023.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Mitchell_Starc_2023.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Mitchell_Starc_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_df81c7",
+    "name": "Matthew Hayden",
+    "wikipedia": "Matthew_Hayden",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Matthew_Hayden_Image.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Matthew_Hayden_Image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "c50b7ef3307ba0e4220bd0d4d3ebce59549ed922",
+    "credit": "Indian yogi and author Sadhguru, on Youtube",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Indian yogi and author Sadhguru, on Youtube, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Matthew_Hayden_Image.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Matthew_Hayden_Image.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Matthew_Hayden_Image.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Matthew_Hayden_Image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_9940ec",
+    "name": "Allan Border",
+    "wikipedia": "Allan_Border",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Allan_Border,_Ricky_Ponting_and_Steve_Waugh_October_2014_(Border_cropped).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Allan_Border%2C_Ricky_Ponting_and_Steve_Waugh_October_2014_%28Border_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "30fd7c0631bc635d107017a76a58d8304f8389dd",
+    "credit": "Australian Embassy in India",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Australian Embassy in India, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Allan_Border,_Ricky_Ponting_and_Steve_Waugh_October_2014_(Border_cropped).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Allan_Border,_Ricky_Ponting_and_Steve_Waugh_October_2014_(Border_cropped).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Allan_Border,_Ricky_Ponting_and_Steve_Waugh_October_2014_(Border_cropped).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Allan_Border%2C_Ricky_Ponting_and_Steve_Waugh_October_2014_%28Border_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_daca3b",
+    "name": "Dennis Lillee",
+    "wikipedia": "Dennis_Lillee",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Dennis_Keith_Lillee_(8121209028).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Dennis_Keith_Lillee_%288121209028%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "5da05f38a17e593a929070e056ec40f20bf8606f",
+    "credit": "Eva Rinaldi",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Eva Rinaldi, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Dennis_Keith_Lillee_(8121209028).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Dennis_Keith_Lillee_(8121209028).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Dennis_Keith_Lillee_(8121209028).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Dennis_Keith_Lillee_%288121209028%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_51aae2",
+    "name": "Joe Root",
+    "wikipedia": "Joe_Root",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:2_05_Root_hundred.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/2_05_Root_hundred.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "bf27b2074f746c294a532b1ca1f1e95220e3e15b",
+    "credit": "Dave Morton",
+    "license": "Public domain",
+    "license_url": "",
+    "attribution_required": false,
+    "attribution_line": "Photo: Dave Morton, Public domain, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:2_05_Root_hundred.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2_05_Root_hundred.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:2_05_Root_hundred.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/2_05_Root_hundred.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_7c12e5",
+    "name": "Ben Stokes",
+    "wikipedia": "Ben_Stokes",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:3_14_Captain_Ben_(cropped)_(cropped).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/3_14_Captain_Ben_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "1d7cf78b5b0f79b0905d00499fe9721361870d21",
+    "credit": "Dave Morton",
+    "license": "Public domain",
+    "license_url": "",
+    "attribution_required": false,
+    "attribution_line": "Photo: Dave Morton, Public domain, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:3_14_Captain_Ben_(cropped)_(cropped).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:3_14_Captain_Ben_(cropped)_(cropped).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:3_14_Captain_Ben_(cropped)_(cropped).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/3_14_Captain_Ben_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_d9679b",
+    "name": "James Anderson",
+    "wikipedia": "James_Anderson_(cricketer)",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:JIMMY_ANDERSON.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/JIMMY_ANDERSON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "c28e2cd97e88b03c98ab3b7132a03cd52ba1f9e2",
+    "credit": "NAPARAZZI",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: NAPARAZZI, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:JIMMY_ANDERSON.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:JIMMY_ANDERSON.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:JIMMY_ANDERSON.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/JIMMY_ANDERSON.jpg/1280px-JIMMY_ANDERSON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "c_4a3336",
+    "name": "Stuart Broad",
+    "wikipedia": "Stuart_Broad",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Stuart_broad.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Stuart_broad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "9a05def15449d745392868e8b2f0ab2d510ad369",
+    "credit": "Brian Minkoff-London Pixels",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Brian Minkoff-London Pixels, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Stuart_broad.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Stuart_broad.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Stuart_broad.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Stuart_broad.jpg/1280px-Stuart_broad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "c_4ed65e",
+    "name": "Alastair Cook",
+    "wikipedia": "Alastair_Cook",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:ALASTAIR_COOK_(2876041389).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/ALASTAIR_COOK_%282876041389%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "1a9c9527ccd9db402c6d793e392067c02216172c",
+    "credit": "NAPARAZZI",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: NAPARAZZI, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:ALASTAIR_COOK_(2876041389).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:ALASTAIR_COOK_(2876041389).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:ALASTAIR_COOK_(2876041389).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/ALASTAIR_COOK_%282876041389%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_428cf4",
+    "name": "Kevin Pietersen",
+    "wikipedia": "Kevin_Pietersen",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Kevin_Pietersen_2014.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Kevin_Pietersen_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "9d29d3c3206e4649be9505c30b70fd31a00a4355",
+    "credit": "NAPARAZZI",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: NAPARAZZI, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Kevin_Pietersen_2014.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kevin_Pietersen_2014.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Kevin_Pietersen_2014.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Kevin_Pietersen_2014.jpg/1280px-Kevin_Pietersen_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "c_da88e6",
+    "name": "Ian Botham",
+    "wikipedia": "Ian_Botham",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ian_Botham_headshot.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ian_Botham_headshot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "b9bf941682ba734641b9421bdca24ae193543ee2",
+    "credit": "Nic Redhead",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Nic Redhead, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ian_Botham_headshot.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ian_Botham_headshot.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Ian_Botham_headshot.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ian_Botham_headshot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_c71ed0",
+    "name": "Eoin Morgan",
+    "wikipedia": "Eoin_Morgan",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Eoin_Morgan_2.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Eoin_Morgan_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "fd26452909d6db72496cea79a69ebb3e6c81161f",
+    "credit": "CRICKETNEXT",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: CRICKETNEXT, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Eoin_Morgan_2.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eoin_Morgan_2.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Eoin_Morgan_2.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Eoin_Morgan_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_d3ecb4",
+    "name": "Jos Buttler",
+    "wikipedia": "Jos_Buttler",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Jos_Buttler_in_2023.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Jos_Buttler_in_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "5f41a8600d7497506ac87b3d2172af94597e3cdf",
+    "credit": "Number 10",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Number 10, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Jos_Buttler_in_2023.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Jos_Buttler_in_2023.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Jos_Buttler_in_2023.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Jos_Buttler_in_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_77b6e6",
+    "name": "Andrew Flintoff",
+    "wikipedia": "Andrew_Flintoff",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Andrew_Flintoff_(1).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Andrew_Flintoff_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "40e0a8d6e0abe62c8d5cff362aaef52551dd046d",
+    "credit": "Jim Dowling from Hong Kong",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Jim Dowling from Hong Kong, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Andrew_Flintoff_(1).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Andrew_Flintoff_(1).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Andrew_Flintoff_(1).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Andrew_Flintoff_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_314a50",
+    "name": "Imran Khan",
+    "wikipedia": "Imran_Khan",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "f8c752519ba1e3c13a30cec8bfb68aa9735598c6",
+    "credit": "Imran Khan",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Imran Khan, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_b5f95f",
+    "name": "Wasim Akram",
+    "wikipedia": "Wasim_Akram",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Wasim-akram-gesf-2018-7878.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Wasim-akram-gesf-2018-7878.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "3e08699da1c291452bf1896372ccf9c3ca8093a5",
+    "credit": "Fuzheado",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Fuzheado, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Wasim-akram-gesf-2018-7878.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wasim-akram-gesf-2018-7878.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Wasim-akram-gesf-2018-7878.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Wasim-akram-gesf-2018-7878.jpg/1280px-Wasim-akram-gesf-2018-7878.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "c_c2e4a2",
+    "name": "Waqar Younis",
+    "wikipedia": "Waqar_Younis",
+    "image_status": "Missing",
+    "reason": "no usable candidate: (Wikipedia lead image): article has no lead image",
+    "file_page": "",
+    "file_url": "",
+    "asset": "",
+    "sha1": "",
+    "credit": "",
+    "license": "",
+    "license_url": "",
+    "attribution_required": null,
+    "attribution_line": "",
+    "source_url": "",
+    "licence_status": "Unverified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded",
+    "candidates_examined": [
+      {
+        "file": "(Wikipedia lead image)",
+        "result": "article has no lead image"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": ""
+  },
+  {
+    "id": "c_82ff16",
+    "name": "Babar Azam",
+    "wikipedia": "Babar_Azam",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Babar_azam_2023.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Babar_azam_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "bd0f1cb0d039b44755339da1156999dd7554b910",
+    "credit": "ICNA",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: ICNA, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Babar_azam_2023.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Babar_azam_2023.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Babar_azam_2023.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Babar_azam_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_6d4926",
+    "name": "Shahid Afridi",
+    "wikipedia": "Shahid_Afridi",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Shahid_Afridi_in_2017_(3x4_cropped).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Shahid_Afridi_in_2017_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "fcd7b55004bfbb41d1265981a00d3808335048cd",
+    "credit": "Shehbaz Sharif",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Shehbaz Sharif, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Shahid_Afridi_in_2017_(3x4_cropped).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shahid_Afridi_in_2017_(3x4_cropped).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Shahid_Afridi_in_2017_(3x4_cropped).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Shahid_Afridi_in_2017_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_f14f66",
+    "name": "Inzamam-ul-Haq",
+    "wikipedia": "Inzamam-ul-Haq",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Inzamam-ul-Haq.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Inzamam-ul-Haq.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "4799bbedb995341e85ee3c257f25db609c98d114",
+    "credit": "paddynapper",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: paddynapper, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Inzamam-ul-Haq.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Inzamam-ul-Haq.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Inzamam-ul-Haq.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Inzamam-ul-Haq.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_e63474",
+    "name": "Shoaib Akhtar",
+    "wikipedia": "Shoaib_Akhtar",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Khizer_Ahmed_and_mentor_Shoaib_Akhtar_(cropped).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Khizer_Ahmed_and_mentor_Shoaib_Akhtar_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "f2b94b58ab97e84edcfa50c19f007db42934407a",
+    "credit": "Khizer22",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Khizer22, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Khizer_Ahmed_and_mentor_Shoaib_Akhtar_(cropped).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Khizer_Ahmed_and_mentor_Shoaib_Akhtar_(cropped).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Khizer_Ahmed_and_mentor_Shoaib_Akhtar_(cropped).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Khizer_Ahmed_and_mentor_Shoaib_Akhtar_%28cropped%29.jpg/1280px-Khizer_Ahmed_and_mentor_Shoaib_Akhtar_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "c_44c51f",
+    "name": "Muttiah Muralitharan",
+    "wikipedia": "Muttiah_Muralitharan",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Photograph_of_Muttiah_Muralitharan.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Photograph_of_Muttiah_Muralitharan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "775163d6cbde5dfd4856e48ed5d502cfd6640691",
+    "credit": "Bollywood Hungama",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Bollywood Hungama, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Photograph_of_Muttiah_Muralitharan.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Photograph_of_Muttiah_Muralitharan.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Photograph_of_Muttiah_Muralitharan.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Photograph_of_Muttiah_Muralitharan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_2da20e",
+    "name": "Kumar Sangakkara",
+    "wikipedia": "Kumar_Sangakkara",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Kumar_Sangakkara_bat_in_hand.JPG",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Kumar_Sangakkara_bat_in_hand.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "6815de2946d424864aa34c4256fb19f0ccfc32a6",
+    "credit": "Amal316",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Amal316, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Kumar_Sangakkara_bat_in_hand.JPG). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kumar_Sangakkara_bat_in_hand.JPG",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Kumar_Sangakkara_bat_in_hand.JPG",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Kumar_Sangakkara_bat_in_hand.JPG/1280px-Kumar_Sangakkara_bat_in_hand.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "c_4be4bf",
+    "name": "Mahela Jayawardene",
+    "wikipedia": "Mahela_Jayawardene",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mahela_Jayawardene_3.JPG",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Mahela_Jayawardene_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "14a9cdadcb71ccc90b395726af3213f99b04ca02",
+    "credit": "Amal316",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Amal316, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Mahela_Jayawardene_3.JPG). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Mahela_Jayawardene_3.JPG",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Mahela_Jayawardene_3.JPG",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Mahela_Jayawardene_3.JPG/1280px-Mahela_Jayawardene_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "c_2ecf6c",
+    "name": "Sanath Jayasuriya",
+    "wikipedia": "Sanath_Jayasuriya",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Sanath_jayasuriya_portrait.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sanath_jayasuriya_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "db618424efcbb9431f19eb23bac9b51349e161b2",
+    "credit": "User:Chamal_N",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: User:Chamal_N, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sanath_jayasuriya_portrait.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sanath_jayasuriya_portrait.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Sanath_jayasuriya_portrait.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sanath_jayasuriya_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_1db375",
+    "name": "Lasith Malinga",
+    "wikipedia": "Lasith_Malinga",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "bf72711d5d2eae6b3d16a6e4b2deb2f3aadd8e9c",
+    "credit": "paddynapper",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: paddynapper, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg/1280px-Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "c_f8d89d",
+    "name": "AB de Villiers",
+    "wikipedia": "AB_de_Villiers",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:AB_de_Villiers_2.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/AB_de_Villiers_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "1bf139ba7abba3004ad09686057e3e3fc6d2bf93",
+    "credit": "paddynapper",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: paddynapper, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:AB_de_Villiers_2.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:AB_de_Villiers_2.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:AB_de_Villiers_2.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/AB_de_Villiers_2.jpg/1280px-AB_de_Villiers_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "c_5187e0",
+    "name": "Dale Steyn",
+    "wikipedia": "Dale_Steyn",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Dale_Steyn_YM.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Dale_Steyn_YM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "e38dcc64da4b9d27875f49146ac7a0cfa9b7514f",
+    "credit": "YellowMonkey/Blnguyen",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: YellowMonkey/Blnguyen, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Dale_Steyn_YM.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Dale_Steyn_YM.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Dale_Steyn_YM.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Dale_Steyn_YM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_ff809f",
+    "name": "Graeme Smith",
+    "wikipedia": "Graeme_Smith",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Graeme_Smith_on_Record_SA20_Auction,_Young_Talent_Investment_%26_Women%E2%80%99s_Cricket_Plans,_2025_(cropped).png",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Graeme_Smith_on_Record_SA20_Auction%2C_Young_Talent_Investment_%26_Women%E2%80%99s_Cricket_Plans%2C_2025_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "c8a054809570c894a0268eb7687db039522a4357",
+    "credit": "Michael Sherman",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Michael Sherman, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Graeme_Smith_on_Record_SA20_Auction,_Young_Talent_Investment_%26_Women%E2%80%99s_Cricket_Plans,_2025_(cropped).png). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Graeme_Smith_on_Record_SA20_Auction,_Young_Talent_Investment_%26_Women%E2%80%99s_Cricket_Plans,_2025_(cropped).png",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Graeme_Smith_on_Record_SA20_Auction,_Young_Talent_Investment_&_Women’s_Cricket_Plans,_2025_(cropped).png",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Graeme_Smith_on_Record_SA20_Auction%2C_Young_Talent_Investment_%26_Women%E2%80%99s_Cricket_Plans%2C_2025_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_2639fe",
+    "name": "Hashim Amla",
+    "wikipedia": "Hashim_Amla",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Hashim_Amla.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Hashim_Amla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "74baf02c9140ceec7cffe8ce01374d23983b4573",
+    "credit": "YellowMonkey/Blnguyen",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: YellowMonkey/Blnguyen, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Hashim_Amla.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hashim_Amla.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Hashim_Amla.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Hashim_Amla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_9f5f82",
+    "name": "Kagiso Rabada",
+    "wikipedia": "Kagiso_Rabada",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Kingdom_Kome_co-founders_Kagiso_Rabada_and_Cameron_Scott_at_the_first_private_screening_of_The_Ring_of_Beasts_(cropped).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Kingdom_Kome_co-founders_Kagiso_Rabada_and_Cameron_Scott_at_the_first_private_screening_of_The_Ring_of_Beasts_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "db2d2c40f31216cdc68fb4c983dda0fc3f57aeed",
+    "credit": "KingdomKome",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: KingdomKome, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Kingdom_Kome_co-founders_Kagiso_Rabada_and_Cameron_Scott_at_the_first_private_screening_of_The_Ring_of_Beasts_(cropped).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kingdom_Kome_co-founders_Kagiso_Rabada_and_Cameron_Scott_at_the_first_private_screening_of_The_Ring_of_Beasts_(cropped).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Kingdom_Kome_co-founders_Kagiso_Rabada_and_Cameron_Scott_at_the_first_private_screening_of_The_Ring_of_Beasts_(cropped).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Kingdom_Kome_co-founders_Kagiso_Rabada_and_Cameron_Scott_at_the_first_private_screening_of_The_Ring_of_Beasts_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_4ead48",
+    "name": "Brian Lara",
+    "wikipedia": "Brian_Lara",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Brian_Lara_at_2012_Mumbai_Marathon_pre_bash.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Brian_Lara_at_2012_Mumbai_Marathon_pre_bash.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "266a3af473bcfb52e9f54a21f39aff1ac50493fa",
+    "credit": "Bollywood Hungama",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Bollywood Hungama, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Brian_Lara_at_2012_Mumbai_Marathon_pre_bash.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Brian_Lara_at_2012_Mumbai_Marathon_pre_bash.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Brian_Lara_at_2012_Mumbai_Marathon_pre_bash.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Brian_Lara_at_2012_Mumbai_Marathon_pre_bash.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_341e05",
+    "name": "Viv Richards",
+    "wikipedia": "Viv_Richards",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Vivian_richards_crop.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Vivian_richards_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "f61a726064ddfe1cdbade67cbb4be23e95a5ccce",
+    "credit": "Original image by Pamri",
+    "license": "Public domain",
+    "license_url": "",
+    "attribution_required": false,
+    "attribution_line": "Photo: Original image by Pamri, Public domain, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Vivian_richards_crop.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Vivian_richards_crop.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Vivian_richards_crop.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Vivian_richards_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_231838",
+    "name": "Chris Gayle",
+    "wikipedia": "Chris_Gayle",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Two_views_of_Chris_Gayle_(48020785077).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Two_views_of_Chris_Gayle_%2848020785077%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "a2a91b521125a3deb6e462a5a92ed84cb9baac7b",
+    "credit": "Dun.can from Leicestershire, UK",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Dun.can from Leicestershire, UK, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Two_views_of_Chris_Gayle_(48020785077).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Two_views_of_Chris_Gayle_(48020785077).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Two_views_of_Chris_Gayle_(48020785077).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Two_views_of_Chris_Gayle_%2848020785077%29.jpg/1280px-Two_views_of_Chris_Gayle_%2848020785077%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "c_dbbd1b",
+    "name": "Clive Lloyd",
+    "wikipedia": "Clive_Lloyd",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Clive_Lloyd_at_%27Idea_Champions_Of_The_World%27_press_meet.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Clive_Lloyd_at_%27Idea_Champions_Of_The_World%27_press_meet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "e140f74a294af04dfe4c9f54140ba9a0a101cfc0",
+    "credit": "Bollywood Hungama",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Bollywood Hungama, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Clive_Lloyd_at_%27Idea_Champions_Of_The_World%27_press_meet.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Clive_Lloyd_at_%27Idea_Champions_Of_The_World%27_press_meet.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Clive_Lloyd_at_'Idea_Champions_Of_The_World'_press_meet.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Clive_Lloyd_at_%27Idea_Champions_Of_The_World%27_press_meet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_e70434",
+    "name": "Curtly Ambrose",
+    "wikipedia": "Curtly_Ambrose",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Curtly_ambrose2_crop.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Curtly_ambrose2_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "71cb71ef2b5ae6e1d63e9009c743adaf0af05691",
+    "credit": "No machine-readable author provided. Stephen Turner assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": "",
+    "attribution_required": false,
+    "attribution_line": "Photo: No machine-readable author provided. Stephen Turner assumed (based on copyright claims)., Public domain, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Curtly_ambrose2_crop.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Curtly_ambrose2_crop.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Curtly_ambrose2_crop.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Curtly_ambrose2_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_61c84f",
+    "name": "Courtney Walsh",
+    "wikipedia": "Courtney_Walsh",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Courtney_Walsh.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Courtney_Walsh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "7934676ddbf8b7150fa4faf4bfeea20eb0a11e9a",
+    "credit": "Nurunnaby Chowdhury (Hasive)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Nurunnaby Chowdhury (Hasive), CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Courtney_Walsh.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Courtney_Walsh.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Courtney_Walsh.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Courtney_Walsh.jpg/1280px-Courtney_Walsh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "c_81900e",
+    "name": "Kane Williamson",
+    "wikipedia": "Kane_Williamson",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Kane_Williamson_in_2019.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Kane_Williamson_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "f3e9be8017b4bb701f7609b379e71a910f97f215",
+    "credit": "Mark Lockett",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Mark Lockett, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Kane_Williamson_in_2019.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kane_Williamson_in_2019.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Kane_Williamson_in_2019.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Kane_Williamson_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_75ca70",
+    "name": "Trent Boult",
+    "wikipedia": "Trent_Boult",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings,_SCG_(39533156665).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings%2C_SCG_%2839533156665%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "9a5b6a2907a97eefb6d61ce20d29c1f9504d9dc5",
+    "credit": "www.davidmolloyphotography.com from Sydney, Australia",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: www.davidmolloyphotography.com from Sydney, Australia, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings,_SCG_(39533156665).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings,_SCG_(39533156665).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings,_SCG_(39533156665).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings%2C_SCG_%2839533156665%29.jpg/1280px-2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings%2C_SCG_%2839533156665%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "c_055ef0",
+    "name": "Ross Taylor",
+    "wikipedia": "Ross_Taylor",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ross_Taylor_CNZM_(cropped).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ross_Taylor_CNZM_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "3a582144c6c6e5fcb32cee612b1e5c5cc85b5b10",
+    "credit": "New Zealand Government, Office of the Governor-General",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: New Zealand Government, Office of the Governor-General, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ross_Taylor_CNZM_(cropped).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ross_Taylor_CNZM_(cropped).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Ross_Taylor_CNZM_(cropped).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ross_Taylor_CNZM_%28cropped%29.jpg/1280px-Ross_Taylor_CNZM_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "c_23d9a9",
+    "name": "Daniel Vettori",
+    "wikipedia": "Daniel_Vettori",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Daniel_Vettori_ONZM_(cropped).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Daniel_Vettori_ONZM_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "40846f1c4dd433271b6c2f5b2f0238b95b6e8dee",
+    "credit": "New Zealand Government, Office of the Governor-General",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: New Zealand Government, Office of the Governor-General, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Daniel_Vettori_ONZM_(cropped).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Daniel_Vettori_ONZM_(cropped).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Daniel_Vettori_ONZM_(cropped).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Daniel_Vettori_ONZM_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "c_797253",
+    "name": "Shakib Al Hasan",
+    "wikipedia": "Shakib_Al_Hasan",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Shakib_Al_Hasan_(4)_(cropped).jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Shakib_Al_Hasan_%284%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "6d86048b99bc42e8bdecbdb0933226f3885a85e6",
+    "credit": "Nurunnaby Chowdhury (Hasive)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Nurunnaby Chowdhury (Hasive), CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Shakib_Al_Hasan_(4)_(cropped).jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shakib_Al_Hasan_(4)_(cropped).jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Shakib_Al_Hasan_(4)_(cropped).jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Shakib_Al_Hasan_%284%29_%28cropped%29.jpg/1280px-Shakib_Al_Hasan_%284%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "c_eb1836",
+    "name": "Rashid Khan",
+    "wikipedia": "Rashid_Khan",
+    "image_status": "Needs review",
+    "reason": "licence verified on Commons; identity needs a human check",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Rashid_Khan.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Rashid_Khan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "asset": "",
+    "sha1": "424bac3483d6ae9804ad0ca6008035f92e555486",
+    "credit": "Afghanistan Cricket Board",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution_required": true,
+    "attribution_line": "Photo: Afghanistan Cricket Board, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Rashid_Khan.jpg). Resized.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Rashid_Khan.jpg",
+    "licence_status": "Verified",
+    "identity_confirmed": false,
+    "download_status": "Not downloaded yet (run: download)",
+    "candidates_examined": [
+      {
+        "file": "File:Rashid_Khan.jpg",
+        "result": "selected"
+      }
+    ],
+    "checked": "2026-10-18",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Rashid_Khan.jpg/1280px-Rashid_Khan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  }
+]

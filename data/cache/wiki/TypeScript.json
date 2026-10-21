@@ -1,0 +1,33 @@
+{
+ "asked": "TypeScript",
+ "title": "TypeScript",
+ "missing": false,
+ "disambiguation": false,
+ "description": "Programming language and superset of JavaScript",
+ "extract": "TypeScript (TS) is a high-level programming language that adds static typing with optional type annotations to JavaScript. It is designed for developing large applications. It transpiles to JavaScript. It is developed by Microsoft as free and open-source software released under the Apache License 2.0.\nTypeScript may be used to develop JavaScript applications for both client-side and server-side execution (as with React.js, Node.js, Deno or Bun). Multiple options are available for transpiling. The default TypeScript Compiler can be used, or the Babel compiler can be invoked to convert TypeScript to JavaScript.\nTypeScript supports definition files that can contain type information of existing JavaScript libraries, much like C++ header files can describe the structure of existing object files. This enables other programs to use the values defined in the files as if they were statically typed TypeScript entities. There are third-party header files for popular libraries such as jQuery, MongoDB, and D3.js. TypeScript headers for the Node.js library modules are also available, allowing development of Node.js programs within TypeScript.\nBefore TypeScript 7.0, the TypeScript compiler was written in TypeScript and compiled to JavaScript. In TypeScript 7.0, it was rewritten in Go. It is licensed under the Apache License 2.0. Anders Hejlsberg, lead architect of C# and creator of Delphi and Turbo Pascal, has worked on developing TypeScript.\n\n",
+ "revid": 1377918995,
+ "infobox": {
+  "name": "TypeScript",
+  "logo": "Typescript.svg",
+  "logo caption": "| screenshot =",
+  "screenshot caption": "| paradigm = Multi-paradigm: functional, generic, imperative, object-oriented",
+  "family": "ECMAScript",
+  "designer": "Microsoft,<br />Anders Hejlsberg,<br />Luke Hoban",
+  "developer": "Microsoft",
+  "released": "{{Start date and age|2012|10|01|df=yes}}",
+  "latest release version": "{{wikidata|property|edit|reference|P548=Q2804309|P348}}",
+  "latest release date": "{{start date and age|{{wikidata|qualifier|single|P548=Q2804309|P348|P577}}}}",
+  "latest preview version": "{{wikidata|property|edit|reference|P548=Q51930650|P348}}",
+  "latest preview date": "| typing = Duck, gradual, strong, structural",
+  "scope": "Lexical",
+  "programming language": "| platform =",
+  "operating system": "| license = Apache 2.0",
+  "file ext": ".ts, .tsx, .mts, .cts",
+  "website": "{{URL|https://www.typescriptlang.org/}}",
+  "wikibooks": "| implementations =",
+  "dialects": "| influenced by = C#, F#, Java, JavaScript",
+  "influenced": "AtScript, AssemblyScript, ArkTS"
+ },
+ "url": "https://en.wikipedia.org/wiki/TypeScript",
+ "fetched": "2026-10-18"
+}

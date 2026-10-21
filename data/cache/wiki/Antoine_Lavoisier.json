@@ -1,0 +1,29 @@
+{
+ "asked": "Antoine Lavoisier",
+ "title": "Antoine Lavoisier",
+ "missing": false,
+ "disambiguation": false,
+ "description": "French nobleman and chemist (1743–1794)",
+ "extract": "Antoine-Laurent de Lavoisier ( lə-VWAH-zee-ay; French: [ɑ̃twan lɔʁɑ̃ də lavwazje]; 26 August 1743 – 8 May 1794), also Antoine Lavoisier after the French Revolution, was a French nobleman and chemist who was central to the 18th-century chemical revolution and who had a large influence on both the history of chemistry and the history of biology.\nIt is generally accepted that Lavoisier's great accomplishments in chemistry stem largely from his changing the science from a qualitative to a quantitative one.\nLavoisier is noted for his discovery of the role oxygen plays in combustion, opposing the prior phlogiston theory of combustion.  He named oxygen (1778), recognizing it as an element, and also recognized hydrogen as an element (1783).  By using more precise measurements than previous experimenters, he confirmed the  developing theory that, although matter in a closed system may change its form or shape, its mass always remains the same (now known as the law of conservation of mass), which led to the development of the balanced physical and chemical reaction equations that we still use today.\nLavoisier helped construct the metric system, wrote the first extensive list of elements, in which he predicted the existence of silicon, and helped to reform chemical nomenclature. (1787)\nHis wife and laboratory assistant, Marie-Anne Paulze Lavoisier, became a renowned chemist in her own right, and worked with him to develop the metric system of measurements.\nLavoisier was a powerful member of a number of aristocratic councils, and an administrator of the Ferme générale. The Ferme générale was one of the most hated components of the Ancien Régime because of the profits it took at the expense of the state, the secrecy of the terms of its contracts, and the violence of its armed agents. All of these political and economic activities enabled him to fund his scientific research. At the height of the French Revolution, he was charged with tax fraud and selling adulterated tobacco and was guillotined despite appeals to spare his life in recognition of his contributions to science.  A year and a half later, he was exonerated by the French government.",
+ "revid": 1380652415,
+ "infobox": {
+  "name": "Antoine Lavoisier",
+  "image": "David - Portrait of Monsieur Lavoisier (cropped)2.jpg",
+  "caption": "Detail from ''Portrait of Antoine-Laurent Lavoisier and his Wife'' by Jacques-Louis David",
+  "birth_name": "Antoine-Laurent de Lavoisier",
+  "birth_date": "{{birth date|df=yes|1743|8|26}}",
+  "birth_place": "Paris, France",
+  "death_date": "{{death date and age|df=yes|1794|5|8|1743|8|26}}",
+  "death_place": "Paris, France",
+  "death_cause": "Execution by guillotine",
+  "resting_place": "Catacombs of Paris",
+  "education": "University of Paris",
+  "notable_students": "Éleuthère Irénée du Pont",
+  "known_for": "{{unbulleted list",
+  "fields": "Biologist, chemist",
+  "signature": "Antoine Lavoisier Signature.svg",
+  "spouse": "{{marriage|Marie-Anne Paulze Lavoisier|1771}}"
+ },
+ "url": "https://en.wikipedia.org/wiki/Antoine_Lavoisier",
+ "fetched": "2026-10-18"
+}

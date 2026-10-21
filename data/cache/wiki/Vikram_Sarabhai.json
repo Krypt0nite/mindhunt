@@ -1,0 +1,32 @@
+{
+ "asked": "Vikram Sarabhai",
+ "title": "Vikram Sarabhai",
+ "missing": false,
+ "disambiguation": false,
+ "description": "Indian physicist and astronomer",
+ "extract": "Vikram Ambalal Sarabhai (12 August 1919 – 30 December 1971) was an Indian physicist and astronomer who initiated space research and helped to develop nuclear power in India. Often regarded as the \"Father of Indian space program\", Sarabhai was honored with Padma Bhushan in 1966 and the Padma Vibhushan (posthumously) in 1972.",
+ "revid": 1377180044,
+ "infobox": {
+  "name": "Dr Vikram Sarabhai",
+  "birth_name": "Vikram Ambalal Sarabhai",
+  "image": "Dr Vikram Sarabhai ISRO.webp",
+  "caption": "Official portrait of Dr Vikram Sarabhai",
+  "birth_date": "{{birth date|1919|8|12|df=y}}",
+  "birth_place": "Ahmedabad,<br/>Bombay Presidency,<br/>British India<br/>(now in Gujarat, India)",
+  "death_date": "{{death date and age|1971|12|30|1919|8|12|df=y}}",
+  "death_place": "Halcyon Castle, Trivandrum (now Thiruvananthapuram), Kerala, India",
+  "spouse": "Mrinalini Sarabhai (m.1942)",
+  "children": "Mallika Sarabhai (daughter)",
+  "parents": "Ambalal Sarabhai (father)",
+  "embed": "yes",
+  "field": "Physics",
+  "workplaces": "{{ubl",
+  "residence": "| education         = University of Cambridge (BA, PhD)",
+  "doctoral_advisor": "C. V. Raman",
+  "doctoral_students": "Udupi Ramachandra Rao",
+  "known_for": "Indian space program <br /> Indian Institute of Management Ahmedabad",
+  "awards": "Padma Bhushan (1966)<br />Padma Vibhushan (posthumously) (1972)"
+ },
+ "url": "https://en.wikipedia.org/wiki/Vikram_Sarabhai",
+ "fetched": "2026-10-18"
+}

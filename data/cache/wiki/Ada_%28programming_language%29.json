@@ -1,0 +1,33 @@
+{
+ "asked": "Ada (programming language)",
+ "title": "Ada (programming language)",
+ "missing": false,
+ "disambiguation": false,
+ "description": "High-level programming language first released in 1980",
+ "extract": "Ada is a structured, statically typed, imperative, and object-oriented high-level programming language, inspired by Pascal and other languages. It has built-in language support for design by contract (DbC), extremely strong typing, explicit concurrency, tasks, synchronous message passing, protected objects, and non-determinism. Ada improves code safety and maintainability by using the compiler to find errors in favor of runtime errors. Ada is an international technical standard, jointly defined by the International Organization for Standardization (ISO), and the International Electrotechnical Commission (IEC). As of May 2023, the standard, ISO/IEC 8652:2023, is called Ada 2022 informally.\nAda was originally designed by a team led by French computer scientist Jean Ichbiah of Honeywell under contract to the United States Department of Defense (DoD) from 1977 to 1983 to supersede over 450 programming languages then used by the DoD. Ada was named after Ada Lovelace (1815–1852), who has been credited as the first computer programmer.",
+ "revid": 1365106242,
+ "infobox": {
+  "name": "Ada",
+  "logo": "Ada horizon green logo with slogan.svg",
+  "logo_size": "200px",
+  "logo alt": "Green logo on horizon with Ada letters and slogan",
+  "paradigm": "Multi-paradigm: structured, imperative, object-oriented, aspect-oriented, concurrent, array, distributed, generic, procedural, meta",
+  "family": "Pascal",
+  "designers": "* MIL-STD-1815, Ada 83: Jean Ichbiah",
+  "developer": "| typing = Static, strong, safe, nominal",
+  "implementations": "AdaCore GNAT,<br/>Green Hills Software Optimising Ada 95 compiler,<br/>PTC ApexAda and ObjectAda,<br/>MapuSoft Ada-C/C++ changer, formerly known as \"AdaMagic with C Intermediate\",<br/>DDC-I Score",
+  "dialects": "SPARK, Ravenscar profile",
+  "influenced": "C++, Chapel, Drago, D, Eiffel, Griffin, Java, Nim, ParaSail, PL/SQL, PL/pgSQL, Python, Ruby, SPARforte, Sparkel, SQL/PSM, VHDL",
+  "license": "| released = {{Start date and age|1980|02}}",
+  "latest release version": "Ada 2022",
+  "latest release date": "May 2023",
+  "latest preview version": "| latest preview date =",
+  "influenced by": "ALGOL 68, Pascal, Simula 67, C++ (Ada 95), Smalltalk (Ada 95), Modula-2 (Ada 95) Java (Ada 2005), Eiffel (Ada 2012)",
+  "operating system": "Multi- or cross-platform",
+  "file ext": ".adb, .ads",
+  "website": "{{URL|https://www.adaic.org/|adaic.org}}",
+  "wikibooks": "Ada Programming"
+ },
+ "url": "https://en.wikipedia.org/wiki/Ada_%28programming_language%29",
+ "fetched": "2026-10-18"
+}

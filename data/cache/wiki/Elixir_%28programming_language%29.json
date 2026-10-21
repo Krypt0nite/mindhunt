@@ -1,0 +1,28 @@
+{
+ "asked": "Elixir (programming language)",
+ "title": "Elixir (programming language)",
+ "missing": false,
+ "disambiguation": false,
+ "description": "Programming language running on the Erlang virtual machine",
+ "extract": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language. Elixir builds on top of Erlang and shares the same abstractions for building distributed, fault-tolerant applications. Elixir also provides tooling and an extensible design. The latter is supported by compile-time metaprogramming with macros and polymorphism via protocols.\nThe community organizes yearly events in the United States, Europe, and Japan, as well as minor local events and conferences.",
+ "revid": 1376695138,
+ "infobox": {
+  "name": "Elixir",
+  "title": "| logo = {{If dark|frameless|170px|alt=Elixir logo|frameless|170px|alt=Elixir logo}}",
+  "paradigms": "multi-paradigm: functional,  concurrent, distributed, process-oriented",
+  "typing": "dynamic, strong, gradual since version 1.20",
+  "influenced": "Gleam, LFE",
+  "platform": "Erlang",
+  "license": "Apache License 2.0",
+  "website": "{{URL|https://elixir-lang.org}}",
+  "released": "{{start date and age|2012|05|25|df=yes}}",
+  "influenced_by": "Clojure, Erlang, Ruby",
+  "designer": "José Valim",
+  "latest release version": "{{wikidata|property|references|preferred|edit|Q5362035|P348|P548=Q2804309}}",
+  "latest release date": "{{start date and age|{{wikidata|qualifier|preferred|single|Q5362035|P348|P548=Q2804309|P577}}}}",
+  "latest preview version": "| latest preview date =",
+  "file_ext": ".ex, .exs"
+ },
+ "url": "https://en.wikipedia.org/wiki/Elixir_%28programming_language%29",
+ "fetched": "2026-10-18"
+}

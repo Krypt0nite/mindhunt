@@ -1,0 +1,29 @@
+{
+ "asked": "Thomas Malthus",
+ "title": "Thomas Robert Malthus",
+ "missing": false,
+ "disambiguation": false,
+ "description": "English Christian priest and political economist (1766–1834)",
+ "extract": "Thomas Robert Malthus (; 13/14 February 1766 – 29 December 1834) was an English economist, Christian priest, and scholar influential in the fields of political economy and demography.\nIn his 1798 book An Essay on the Principle of Population, Malthus observed that an increase in a nation's food production improved the well-being of the population, but the improvement was temporary because it led to population growth, which in turn restored the original per capita production level. In other words, humans had a propensity to use abundance for population growth rather than for maintaining a high standard of living, a view and stance that has become known as the \"Malthusian trap\" or the \"Malthusian spectre\".  Populations had a tendency to grow until the lower class suffered hardship, want, and greater susceptibility to war, famine, and disease, a pessimistic view that is sometimes referred to as a Malthusian catastrophe. Malthus wrote in opposition to the popular view in 18th-century Europe that saw society as improving and in principle as perfectible.\nMalthus considered population growth as inevitable whenever conditions improved, thereby precluding real progress towards a utopian society: \"The power of population is indefinitely greater than the power in the earth to produce subsistence for man.\" As an Anglican cleric, he saw this situation as divinely imposed to teach virtuous behavior. Malthus wrote that \"the increase of population is necessarily limited by subsistence\", \"population does invariably increase when the means of subsistence increase\", and \"the superior power of population repress by moral restraint, vice, and misery.\"\nMalthus criticised the Poor Laws for leading to inflation rather than improving the well-being of the poor. He supported taxes on grain imports (the Corn Laws). His views became influential and controversial across economic, political, social and scientific thought. Pioneers of evolutionary biology read him, notably Charles Darwin and Alfred Russel Wallace. Presidents Thomas Jefferson and James Madison read Malthus. Malthus's failure to predict the Industrial Revolution was a frequent criticism of his theories. Malthus laid the \"theoretical foundation of the conventional wisdom that has dominated the debate, both scientifically and ideologically, on global hunger and famines for almost two centuries.\"",
+ "revid": 1380463483,
+ "infobox": {
+  "honorific_prefix": "The Reverend",
+  "name": "Thomas Robert Malthus",
+  "honorific_suffix": "{{postnominals|country=GBR|size=100%|FRS}}",
+  "image": "Thomas Robert Malthus Wellcome L0069037 -crop.jpg",
+  "caption": "Malthus in 1834",
+  "birth_date": "13/14 February 1766",
+  "birth_place": "Westcott, Surrey, England",
+  "death_date": "{{death date and age|1834|12|29|1766|2|13|df=y}}",
+  "death_place": "Bath, Somerset, England",
+  "school_tradition": "Classical economics",
+  "field": "{{hlist | Demography | macroeconomics}}",
+  "influences": "{{hlist | David Ricardo | William Godwin | Adam Smith | David Hume | Edward Gibbon | Voltaire | Jean-Jaques Rousseau | Jean Charles Léonard de Sismondi}}",
+  "contributions": "Malthusian growth model",
+  "spouse": "{{Marriage|Harriet Eckersall|1804}}",
+  "children": "3",
+  "education": "{{nowrap|Jesus College, Cambridge (MA)}}|notable_works=''An Essay on the Principle of Population''}}"
+ },
+ "url": "https://en.wikipedia.org/wiki/Thomas_Robert_Malthus",
+ "fetched": "2026-10-18"
+}

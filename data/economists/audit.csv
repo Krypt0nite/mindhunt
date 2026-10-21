@@ -1,0 +1,101 @@
+Item,Field,Original value,Final value,Source URL,Secondary source URL,Source tier,Status,Explanation
+Adam Smith,Country of birth,United Kingdom,United Kingdom,https://en.wikipedia.org/wiki/Adam_Smith,,Secondary (Wikipedia),Verified,Matches the source.
+Adam Smith,Born in the,1700,1700,https://en.wikipedia.org/wiki/Adam_Smith,,Secondary (Wikipedia),Verified,Matches the source.
+Adam Smith,School of thought,Classical,Classical,https://en.wikipedia.org/wiki/Adam_Smith,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Verified,"The Classical economics article names Smith, Malthus, Ricardo and Mill among its main thinkers."
+Adam Smith,Nobel Prize in Economics,No,No,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+Adam Smith,Woman,No,No,https://en.wikipedia.org/wiki/Adam_Smith,,Secondary (Wikipedia),Verified,Matches the source.
+Thomas Malthus,Country of birth,United Kingdom,United Kingdom,https://en.wikipedia.org/wiki/Thomas_Robert_Malthus,,Secondary (Wikipedia),Verified,Matches the source.
+Thomas Malthus,Born in the,1700,1700,https://en.wikipedia.org/wiki/Thomas_Robert_Malthus,,Secondary (Wikipedia),Verified,Matches the source.
+Thomas Malthus,School of thought,Classical,Classical,https://en.wikipedia.org/wiki/Thomas_Robert_Malthus,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Verified,"The Classical economics article names Smith, Malthus, Ricardo and Mill among its main thinkers."
+Thomas Malthus,Nobel Prize in Economics,No,No,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+Thomas Malthus,Woman,No,No,https://en.wikipedia.org/wiki/Thomas_Robert_Malthus,,Secondary (Wikipedia),Verified,Matches the source.
+David Ricardo,Country of birth,United Kingdom,United Kingdom,https://en.wikipedia.org/wiki/David_Ricardo,,Secondary (Wikipedia),Verified,Matches the source.
+David Ricardo,Born in the,1700,1700,https://en.wikipedia.org/wiki/David_Ricardo,,Secondary (Wikipedia),Verified,Matches the source.
+David Ricardo,School of thought,Classical,Classical,https://en.wikipedia.org/wiki/David_Ricardo,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Verified,"The Classical economics article names Smith, Malthus, Ricardo and Mill among its main thinkers."
+David Ricardo,Nobel Prize in Economics,No,No,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+David Ricardo,Woman,No,No,https://en.wikipedia.org/wiki/David_Ricardo,,Secondary (Wikipedia),Verified,Matches the source.
+John Stuart Mill,Country of birth,United Kingdom,United Kingdom,https://en.wikipedia.org/wiki/John_Stuart_Mill,,Secondary (Wikipedia),Verified,Matches the source.
+John Stuart Mill,Born in the,1800,1800,https://en.wikipedia.org/wiki/John_Stuart_Mill,,Secondary (Wikipedia),Verified,Matches the source.
+John Stuart Mill,School of thought,Classical,Classical,https://en.wikipedia.org/wiki/John_Stuart_Mill,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Verified,"The Classical economics article names Smith, Malthus, Ricardo and Mill among its main thinkers."
+John Stuart Mill,Nobel Prize in Economics,No,No,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+John Stuart Mill,Woman,No,No,https://en.wikipedia.org/wiki/John_Stuart_Mill,,Secondary (Wikipedia),Verified,Matches the source.
+Karl Marx,Country of birth,Germany,Germany,https://en.wikipedia.org/wiki/Karl_Marx,,Secondary (Wikipedia),Verified,Matches the source.
+Karl Marx,Born in the,1800,1800,https://en.wikipedia.org/wiki/Karl_Marx,,Secondary (Wikipedia),Verified,Matches the source.
+Karl Marx,School of thought,Marxian,Marxian,https://en.wikipedia.org/wiki/Karl_Marx,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Verified,Matches the source.
+Karl Marx,Nobel Prize in Economics,No,No,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+Karl Marx,Woman,No,No,https://en.wikipedia.org/wiki/Karl_Marx,,Secondary (Wikipedia),Verified,Matches the source.
+Alfred Marshall,Country of birth,United Kingdom,United Kingdom,https://en.wikipedia.org/wiki/Alfred_Marshall,,Secondary (Wikipedia),Verified,Matches the source.
+Alfred Marshall,Born in the,1800,1800,https://en.wikipedia.org/wiki/Alfred_Marshall,,Secondary (Wikipedia),Verified,Matches the source.
+Alfred Marshall,School of thought,Neoclassical,Neoclassical,https://en.wikipedia.org/wiki/Alfred_Marshall,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Verified,Matches the source.
+Alfred Marshall,Nobel Prize in Economics,No,No,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+Alfred Marshall,Woman,No,No,https://en.wikipedia.org/wiki/Alfred_Marshall,,Secondary (Wikipedia),Verified,Matches the source.
+John Maynard Keynes,Country of birth,United Kingdom,United Kingdom,https://en.wikipedia.org/wiki/John_Maynard_Keynes,,Secondary (Wikipedia),Verified,Matches the source.
+John Maynard Keynes,Born in the,1800,1800,https://en.wikipedia.org/wiki/John_Maynard_Keynes,,Secondary (Wikipedia),Verified,Matches the source.
+John Maynard Keynes,School of thought,Keynesian,Keynesian,https://en.wikipedia.org/wiki/John_Maynard_Keynes,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Verified,Matches the source.
+John Maynard Keynes,Nobel Prize in Economics,No,No,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+John Maynard Keynes,Woman,No,No,https://en.wikipedia.org/wiki/John_Maynard_Keynes,,Secondary (Wikipedia),Verified,Matches the source.
+Friedrich Hayek,Country of birth,Austria,Austria,https://en.wikipedia.org/wiki/Friedrich_Hayek,,Secondary (Wikipedia),Verified,Matches the source.
+Friedrich Hayek,Born in the,1800,1800,https://en.wikipedia.org/wiki/Friedrich_Hayek,,Secondary (Wikipedia),Verified,Born 8 May 1899: the 1800s.
+Friedrich Hayek,School of thought,Austrian,Austrian,https://en.wikipedia.org/wiki/Friedrich_Hayek,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Verified,Matches the source.
+Friedrich Hayek,Nobel Prize in Economics,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+Friedrich Hayek,Woman,No,No,https://en.wikipedia.org/wiki/Friedrich_Hayek,,Secondary (Wikipedia),Verified,Matches the source.
+John Kenneth Galbraith,Country of birth,Canada,Canada,https://en.wikipedia.org/wiki/John_Kenneth_Galbraith,,Secondary (Wikipedia),Verified,Matches the source.
+John Kenneth Galbraith,Born in the,1900,1900,https://en.wikipedia.org/wiki/John_Kenneth_Galbraith,,Secondary (Wikipedia),Verified,Matches the source.
+John Kenneth Galbraith,School of thought,Keynesian,Unknown,https://en.wikipedia.org/wiki/John_Kenneth_Galbraith,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Corrected,"Was Keynesian; the infobox says Institutional and the lead says 'post-Keynesian from an institutionalist perspective', so neither single school fits: Unknown."
+John Kenneth Galbraith,Nobel Prize in Economics,No,No,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+John Kenneth Galbraith,Woman,No,No,https://en.wikipedia.org/wiki/John_Kenneth_Galbraith,,Secondary (Wikipedia),Verified,Matches the source.
+Milton Friedman,Country of birth,United States,United States,https://en.wikipedia.org/wiki/Milton_Friedman,,Secondary (Wikipedia),Verified,Matches the source.
+Milton Friedman,Born in the,1900,1900,https://en.wikipedia.org/wiki/Milton_Friedman,,Secondary (Wikipedia),Verified,Matches the source.
+Milton Friedman,School of thought,Monetarist,Monetarist,https://en.wikipedia.org/wiki/Milton_Friedman,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Verified,The Monetarism article: 'mainly associated with the work of Milton Friedman'. (His infobox also lists the Chicago school.)
+Milton Friedman,Nobel Prize in Economics,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+Milton Friedman,Woman,No,No,https://en.wikipedia.org/wiki/Milton_Friedman,,Secondary (Wikipedia),Verified,Matches the source.
+Paul Samuelson,Country of birth,United States,United States,https://en.wikipedia.org/wiki/Paul_Samuelson,,Secondary (Wikipedia),Verified,Matches the source.
+Paul Samuelson,Born in the,1900,1900,https://en.wikipedia.org/wiki/Paul_Samuelson,,Secondary (Wikipedia),Verified,Matches the source.
+Paul Samuelson,School of thought,Keynesian,Keynesian,https://en.wikipedia.org/wiki/Paul_Samuelson,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Verified,Infobox: Neo-Keynesian economics.
+Paul Samuelson,Nobel Prize in Economics,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+Paul Samuelson,Woman,No,No,https://en.wikipedia.org/wiki/Paul_Samuelson,,Secondary (Wikipedia),Verified,Matches the source.
+Amartya Sen,Country of birth,India,India,https://en.wikipedia.org/wiki/Amartya_Sen,,Secondary (Wikipedia),Verified,Matches the source.
+Amartya Sen,Born in the,1900,1900,https://en.wikipedia.org/wiki/Amartya_Sen,,Secondary (Wikipedia),Verified,Matches the source.
+Amartya Sen,School of thought,Development,Development,https://en.wikipedia.org/wiki/Amartya_Sen,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Verified,Known for welfare and development economics (capability approach).
+Amartya Sen,Nobel Prize in Economics,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+Amartya Sen,Woman,No,No,https://en.wikipedia.org/wiki/Amartya_Sen,,Secondary (Wikipedia),Verified,Matches the source.
+Elinor Ostrom,Country of birth,United States,United States,https://en.wikipedia.org/wiki/Elinor_Ostrom,,Secondary (Wikipedia),Verified,Matches the source.
+Elinor Ostrom,Born in the,1900,1900,https://en.wikipedia.org/wiki/Elinor_Ostrom,,Secondary (Wikipedia),Verified,Matches the source.
+Elinor Ostrom,School of thought,Institutional,Institutional,https://en.wikipedia.org/wiki/Elinor_Ostrom,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Verified,Infobox: New institutional economics.
+Elinor Ostrom,Nobel Prize in Economics,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+Elinor Ostrom,Woman,Yes,Yes,https://en.wikipedia.org/wiki/Elinor_Ostrom,,Secondary (Wikipedia),Verified,Matches the source.
+Joseph Stiglitz,Country of birth,United States,United States,https://en.wikipedia.org/wiki/Joseph_Stiglitz,,Secondary (Wikipedia),Verified,Matches the source.
+Joseph Stiglitz,Born in the,1900,1900,https://en.wikipedia.org/wiki/Joseph_Stiglitz,,Secondary (Wikipedia),Verified,Matches the source.
+Joseph Stiglitz,School of thought,Keynesian,Keynesian,https://en.wikipedia.org/wiki/Joseph_Stiglitz,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Verified,Infobox: Neo-Keynesian economics.
+Joseph Stiglitz,Nobel Prize in Economics,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+Joseph Stiglitz,Woman,No,No,https://en.wikipedia.org/wiki/Joseph_Stiglitz,,Secondary (Wikipedia),Verified,Matches the source.
+Richard Thaler,Country of birth,United States,United States,https://en.wikipedia.org/wiki/Richard_Thaler,,Secondary (Wikipedia),Verified,Matches the source.
+Richard Thaler,Born in the,1900,1900,https://en.wikipedia.org/wiki/Richard_Thaler,,Secondary (Wikipedia),Verified,Matches the source.
+Richard Thaler,School of thought,Behavioural,Behavioural,https://en.wikipedia.org/wiki/Richard_Thaler,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Verified,Matches the source.
+Richard Thaler,Nobel Prize in Economics,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+Richard Thaler,Woman,No,No,https://en.wikipedia.org/wiki/Richard_Thaler,,Secondary (Wikipedia),Verified,Matches the source.
+Paul Krugman,Country of birth,United States,United States,https://en.wikipedia.org/wiki/Paul_Krugman,,Secondary (Wikipedia),Verified,Matches the source.
+Paul Krugman,Born in the,1900,1900,https://en.wikipedia.org/wiki/Paul_Krugman,,Secondary (Wikipedia),Verified,Matches the source.
+Paul Krugman,School of thought,Keynesian,Keynesian,https://en.wikipedia.org/wiki/Paul_Krugman,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Verified,Article: 'Krugman identifies as a Keynesian and a saltwater economist'.
+Paul Krugman,Nobel Prize in Economics,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+Paul Krugman,Woman,No,No,https://en.wikipedia.org/wiki/Paul_Krugman,,Secondary (Wikipedia),Verified,Matches the source.
+Abhijit Banerjee,Country of birth,India,India,https://en.wikipedia.org/wiki/Abhijit_Banerjee,,Secondary (Wikipedia),Verified,Matches the source.
+Abhijit Banerjee,Born in the,1900,1900,https://en.wikipedia.org/wiki/Abhijit_Banerjee,,Secondary (Wikipedia),Verified,Matches the source.
+Abhijit Banerjee,School of thought,Development,Development,https://en.wikipedia.org/wiki/Abhijit_Banerjee,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Verified,Matches the source.
+Abhijit Banerjee,Nobel Prize in Economics,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+Abhijit Banerjee,Woman,No,No,https://en.wikipedia.org/wiki/Abhijit_Banerjee,,Secondary (Wikipedia),Verified,Matches the source.
+Thomas Piketty,Country of birth,France,France,https://en.wikipedia.org/wiki/Thomas_Piketty,,Secondary (Wikipedia),Verified,Matches the source.
+Thomas Piketty,Born in the,1900,1900,https://en.wikipedia.org/wiki/Thomas_Piketty,,Secondary (Wikipedia),Verified,Matches the source.
+Thomas Piketty,School of thought,Unknown,Unknown,https://en.wikipedia.org/wiki/Thomas_Piketty,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Verified,Matches the source.
+Thomas Piketty,Nobel Prize in Economics,No,No,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+Thomas Piketty,Woman,No,No,https://en.wikipedia.org/wiki/Thomas_Piketty,,Secondary (Wikipedia),Verified,Matches the source.
+Esther Duflo,Country of birth,France,France,https://en.wikipedia.org/wiki/Esther_Duflo,,Secondary (Wikipedia),Verified,Matches the source.
+Esther Duflo,Born in the,1900,1900,https://en.wikipedia.org/wiki/Esther_Duflo,,Secondary (Wikipedia),Verified,Matches the source.
+Esther Duflo,School of thought,Development,Development,https://en.wikipedia.org/wiki/Esther_Duflo,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Verified,Matches the source.
+Esther Duflo,Nobel Prize in Economics,Yes,Yes,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+Esther Duflo,Woman,Yes,Yes,https://en.wikipedia.org/wiki/Esther_Duflo,,Secondary (Wikipedia),Verified,Matches the source.
+Raghuram Rajan,Country of birth,India,India,https://en.wikipedia.org/wiki/Raghuram_Rajan,,Secondary (Wikipedia),Verified,Matches the source.
+Raghuram Rajan,Born in the,1900,1900,https://en.wikipedia.org/wiki/Raghuram_Rajan,,Secondary (Wikipedia),Verified,Matches the source.
+Raghuram Rajan,School of thought,Unknown,Unknown,https://en.wikipedia.org/wiki/Raghuram_Rajan,https://en.wikipedia.org/wiki/Classical_economics,Secondary (Wikipedia),Verified,Matches the source.
+Raghuram Rajan,Nobel Prize in Economics,No,No,https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences,,Secondary (Wikipedia),Verified,Matches the source.
+Raghuram Rajan,Woman,No,No,https://en.wikipedia.org/wiki/Raghuram_Rajan,,Secondary (Wikipedia),Verified,Matches the source.

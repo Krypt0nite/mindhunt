@@ -1,0 +1,33 @@
+{
+ "asked": "Go (programming language)",
+ "title": "Go (programming language)",
+ "missing": false,
+ "disambiguation": false,
+ "description": "Programming language",
+ "extract": "Go (often referred to as Golang) is a high-level, general-purpose programming language that is statically typed and compiled. Originally designed in 2007 by Robert Griesemer, Rob Pike, and Ken Thompson, Go was publicly announced in November 2009, and is developed by Google and community contributors. Go has a simple syntax similar to C++, as well as garbage collection, structural typing, CSP-style concurrency, and a broad standard library.\nThere are two major implementations:\n\nThe original, self-hosting compiler toolchain, initially developed inside Google;\nA frontend written in C++, called gofrontend, originally a GCC frontend, providing gccgo, a GCC-based Go compiler; later extended to also support LLVM, providing an LLVM-based Go compiler called gollvm.",
+ "revid": 1375187723,
+ "infobox": {
+  "name": "Go",
+  "logo": "Go Logo Blue.svg",
+  "logo size": "230px",
+  "paradigm": "Multi-paradigm: concurrent, imperative, functional, object-oriented",
+  "year": "{{start date and age|2009|11|10}}",
+  "designer": "Robert Griesemer<br />Rob Pike<br />Ken Thompson",
+  "developer": "Google and contributors",
+  "latest release version": "{{wikidata|property|edit|reference|P548=Q2804309|P348}}",
+  "latest release date": "{{start date and age|{{wikidata|qualifier|single|P548=Q2804309|P348|P577}}}}",
+  "latest_test_version": "| latest_test_date =",
+  "typing": "Inferred, static, strong, structural, nominal",
+  "memory management": "Garbage collection",
+  "implementations": "gc, gofrontend, gold",
+  "programming language": "Go, Assembly language (gc); C++ (gofrontend)",
+  "website": "{{official url}}",
+  "influenced_by": "{{#statements:influenced by}}",
+  "influenced": "Crystal, V",
+  "operating_system": "DragonFly BSD, FreeBSD, Linux, macOS, NetBSD, OpenBSD, Plan 9, Solaris, Windows",
+  "license": "3-clause BSD + patent grant",
+  "file_ext": ".go"
+ },
+ "url": "https://en.wikipedia.org/wiki/Go_%28programming_language%29",
+ "fetched": "2026-10-18"
+}

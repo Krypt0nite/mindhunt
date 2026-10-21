@@ -1,0 +1,32 @@
+{
+ "asked": "Zig (programming language)",
+ "title": "Zig (programming language)",
+ "missing": false,
+ "disambiguation": false,
+ "description": "General-purpose programming language",
+ "extract": "Zig is a general-purpose system programming language that emphasizes performance, simplicity and metaprogramming. The compiler is free and open-source software, released under an MIT License on Codeberg.\nZig was designed to replace the C programming language while maintaining C ABI compatibility. Unlike C it uses compile time code execution for metaprogramming instead of a preprocessor. At compile time types are first class and can be passed to functions, this system is used for generics. A core goal of the language is to have no hidden memory allocations or control flow.  Low-level programming features include packed structs, arbitrary-width integers and multiple pointer types.\nZig was designed by Andrew Kelley and first announced in 2016. Development is funded by the Zig Software Foundation (ZSF) which receives corporate sponsorships as well as private donations.",
+ "revid": 1379224663,
+ "infobox": {
+  "name": "Zig",
+  "logo": "Zig logo 2020.svg",
+  "logo_size": "200px",
+  "paradigms": "Multi-paradigm: imperative, concurrent, procedural, functional",
+  "designer": "Andrew Kelley",
+  "developer": "Zig Software Foundation",
+  "released": "{{Start date and age|2016|02|08|df=yes}}",
+  "latest release version": "{{wikidata|property|reference|edit|Q51885456|P348}} (Beta)",
+  "latest release date": "{{Start date and age|{{wikidata|qualifier|preferred|single|Q51885456|P348|P577}}}}",
+  "latest preview version": "| latest preview date =",
+  "typing": "Static, strong, inferred, nominal, generic",
+  "memory management": "Manual",
+  "programming language": "Zig",
+  "platform": "x86-64, ARM64, WebAssembly<br/>Tier 2: ARM, IA-32, RISC-V, MIPS64, POWERPC64, SPARC64, some tier-2 platforms have tier-1 support for ''standalone programs''",
+  "operating system": "Cross-platform: Linux, macOS, FreeBSD, Windows",
+  "license": "MIT",
+  "file ext": ".zig, .zir, .zigr, .zon",
+  "website": "{{URL|https://ziglang.org/}}",
+  "influenced by": "C, C++, LLVM IR, Go, Rust<br />"
+ },
+ "url": "https://en.wikipedia.org/wiki/Zig_%28programming_language%29",
+ "fetched": "2026-10-18"
+}

@@ -1,0 +1,376 @@
+{
+  "id": "economists",
+  "version": 2,
+  "as_of": "2026-10-18",
+  "category": "Economics",
+  "title": "Economists",
+  "noun": "economist",
+  "description": "From Adam Smith to Amartya Sen: the thinkers behind how we understand markets.",
+  "draft": false,
+  "notes": "Hand-entered; verify every row before a public release.",
+  "attributes": [
+    {
+      "key": "born_in",
+      "label": "Country of birth",
+      "type": "enum",
+      "values": [
+        "United Kingdom",
+        "Germany",
+        "Austria",
+        "France",
+        "United States",
+        "Canada",
+        "India"
+      ],
+      "help": "Using today's borders.",
+      "templates": {
+        "eq": "Were they born in what is now {value}?"
+      },
+      "aliases": {
+        "United Kingdom": [
+          "british",
+          "english",
+          "scottish",
+          "uk",
+          "britain"
+        ],
+        "Germany": [
+          "german"
+        ],
+        "Austria": [
+          "austrian"
+        ],
+        "France": [
+          "french"
+        ],
+        "United States": [
+          "american",
+          "usa",
+          "us"
+        ],
+        "Canada": [
+          "canadian"
+        ],
+        "India": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "key": "century",
+      "label": "Born in the",
+      "type": "int",
+      "min": 1700,
+      "max": 1900,
+      "step": 100,
+      "templates": {
+        "eq": "Were they born in the {value}s?",
+        "gt": "Were they born after the {value}s?",
+        "lt": "Were they born before the {value}s?"
+      }
+    },
+    {
+      "key": "school",
+      "label": "School of thought",
+      "type": "enum",
+      "values": [
+        "Classical",
+        "Marxian",
+        "Neoclassical",
+        "Keynesian",
+        "Austrian",
+        "Monetarist",
+        "Development",
+        "Behavioural",
+        "Institutional"
+      ],
+      "help": "The school they are usually grouped with. Where sources disagree (Galbraith) or none fits (Piketty, Rajan), the answer is Unknown.",
+      "templates": {
+        "eq": "Are they usually grouped with the {value} school?"
+      },
+      "aliases": {
+        "Keynesian": [
+          "keynes"
+        ],
+        "Marxian": [
+          "marxist",
+          "communist"
+        ],
+        "Behavioural": [
+          "behavioral"
+        ],
+        "Development": [
+          "development economics",
+          "poverty"
+        ]
+      }
+    },
+    {
+      "key": "nobel",
+      "label": "Nobel Prize in Economics",
+      "type": "bool",
+      "help": "Awarded since 1969.",
+      "templates": {
+        "is": "Did they win the Nobel Prize in Economics?",
+        "is_false": "Did they never win the Nobel Prize in Economics?"
+      }
+    },
+    {
+      "key": "woman",
+      "label": "Woman",
+      "type": "bool",
+      "templates": {
+        "is": "Is this economist a woman?",
+        "is_false": "Is this economist a man?"
+      }
+    },
+    {
+      "key": "letters",
+      "label": "Name",
+      "type": "string",
+      "help": "Ask about the first 1 to 3 letters (spaces and hyphens ignored).",
+      "templates": {
+        "starts_with": "Does their name start with “{value}”?"
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c_cafafd",
+      "name": "Adam Smith",
+      "attrs": {
+        "born_in": "United Kingdom",
+        "century": 1700,
+        "school": "Classical",
+        "nobel": false,
+        "woman": false,
+        "letters": "Adam Smith"
+      }
+    },
+    {
+      "id": "c_5697da",
+      "name": "Thomas Malthus",
+      "attrs": {
+        "born_in": "United Kingdom",
+        "century": 1700,
+        "school": "Classical",
+        "nobel": false,
+        "woman": false,
+        "letters": "Thomas Malthus"
+      }
+    },
+    {
+      "id": "c_0cb7ae",
+      "name": "David Ricardo",
+      "attrs": {
+        "born_in": "United Kingdom",
+        "century": 1700,
+        "school": "Classical",
+        "nobel": false,
+        "woman": false,
+        "letters": "David Ricardo"
+      }
+    },
+    {
+      "id": "c_476143",
+      "name": "John Stuart Mill",
+      "attrs": {
+        "born_in": "United Kingdom",
+        "century": 1800,
+        "school": "Classical",
+        "nobel": false,
+        "woman": false,
+        "letters": "John Stuart Mill"
+      }
+    },
+    {
+      "id": "c_ab1a70",
+      "name": "Karl Marx",
+      "attrs": {
+        "born_in": "Germany",
+        "century": 1800,
+        "school": "Marxian",
+        "nobel": false,
+        "woman": false,
+        "letters": "Karl Marx"
+      }
+    },
+    {
+      "id": "c_fd5811",
+      "name": "Alfred Marshall",
+      "attrs": {
+        "born_in": "United Kingdom",
+        "century": 1800,
+        "school": "Neoclassical",
+        "nobel": false,
+        "woman": false,
+        "letters": "Alfred Marshall"
+      }
+    },
+    {
+      "id": "c_118a4d",
+      "name": "John Maynard Keynes",
+      "attrs": {
+        "born_in": "United Kingdom",
+        "century": 1800,
+        "school": "Keynesian",
+        "nobel": false,
+        "woman": false,
+        "letters": "John Maynard Keynes"
+      }
+    },
+    {
+      "id": "c_de2ce3",
+      "name": "Friedrich Hayek",
+      "attrs": {
+        "born_in": "Austria",
+        "century": 1800,
+        "school": "Austrian",
+        "nobel": true,
+        "woman": false,
+        "letters": "Friedrich Hayek"
+      }
+    },
+    {
+      "id": "c_292fed",
+      "name": "John Kenneth Galbraith",
+      "attrs": {
+        "born_in": "Canada",
+        "century": 1900,
+        "nobel": false,
+        "woman": false,
+        "letters": "John Kenneth Galbraith"
+      }
+    },
+    {
+      "id": "c_991d1f",
+      "name": "Milton Friedman",
+      "attrs": {
+        "born_in": "United States",
+        "century": 1900,
+        "school": "Monetarist",
+        "nobel": true,
+        "woman": false,
+        "letters": "Milton Friedman"
+      }
+    },
+    {
+      "id": "c_93a60f",
+      "name": "Paul Samuelson",
+      "attrs": {
+        "born_in": "United States",
+        "century": 1900,
+        "school": "Keynesian",
+        "nobel": true,
+        "woman": false,
+        "letters": "Paul Samuelson"
+      }
+    },
+    {
+      "id": "c_500013",
+      "name": "Amartya Sen",
+      "attrs": {
+        "born_in": "India",
+        "century": 1900,
+        "school": "Development",
+        "nobel": true,
+        "woman": false,
+        "letters": "Amartya Sen"
+      }
+    },
+    {
+      "id": "c_f4c5fd",
+      "name": "Elinor Ostrom",
+      "attrs": {
+        "born_in": "United States",
+        "century": 1900,
+        "school": "Institutional",
+        "nobel": true,
+        "woman": true,
+        "letters": "Elinor Ostrom"
+      }
+    },
+    {
+      "id": "c_4ac1b2",
+      "name": "Joseph Stiglitz",
+      "attrs": {
+        "born_in": "United States",
+        "century": 1900,
+        "school": "Keynesian",
+        "nobel": true,
+        "woman": false,
+        "letters": "Joseph Stiglitz"
+      }
+    },
+    {
+      "id": "c_cbba18",
+      "name": "Richard Thaler",
+      "attrs": {
+        "born_in": "United States",
+        "century": 1900,
+        "school": "Behavioural",
+        "nobel": true,
+        "woman": false,
+        "letters": "Richard Thaler"
+      }
+    },
+    {
+      "id": "c_6450e3",
+      "name": "Paul Krugman",
+      "attrs": {
+        "born_in": "United States",
+        "century": 1900,
+        "school": "Keynesian",
+        "nobel": true,
+        "woman": false,
+        "letters": "Paul Krugman"
+      }
+    },
+    {
+      "id": "c_a7dd53",
+      "name": "Abhijit Banerjee",
+      "attrs": {
+        "born_in": "India",
+        "century": 1900,
+        "school": "Development",
+        "nobel": true,
+        "woman": false,
+        "letters": "Abhijit Banerjee"
+      }
+    },
+    {
+      "id": "c_136354",
+      "name": "Thomas Piketty",
+      "attrs": {
+        "born_in": "France",
+        "century": 1900,
+        "nobel": false,
+        "woman": false,
+        "letters": "Thomas Piketty"
+      }
+    },
+    {
+      "id": "c_067b8c",
+      "name": "Esther Duflo",
+      "attrs": {
+        "born_in": "France",
+        "century": 1900,
+        "school": "Development",
+        "nobel": true,
+        "woman": true,
+        "letters": "Esther Duflo"
+      }
+    },
+    {
+      "id": "c_5ce3e8",
+      "name": "Raghuram Rajan",
+      "attrs": {
+        "born_in": "India",
+        "century": 1900,
+        "nobel": false,
+        "woman": false,
+        "letters": "Raghuram Rajan"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+ "asked": "Michel Platini",
+ "title": "Michel Platini",
+ "missing": false,
+ "disambiguation": false,
+ "description": "French football player administrator and player (born 1955)",
+ "extract": "Michel François Platini (French: [miʃɛl fʁɑ̃swa platini]; born 21 June 1955) is a French football administrator and former player and manager. Regarded as one of the greatest footballers of all time, Platini won the Ballon d'Or three times in a row, in 1983, 1984 and 1985, and came seventh in the FIFA Player of the Century vote. In recognition of his achievements, he was named a Knight of the Legion of Honour in 1985 and became an Officer in 1998. As the president of UEFA in 2015 he was banned from involvement in football under FIFA's organisation, over ethics violations. The ban lasted until 2023.\nDuring his career, Platini played for the clubs Nancy, Saint-Étienne, and Juventus. Nicknamed Le Roi (\"The King\") for his ability and leadership, he was a prolific goalscorer; he won the Serie A capocannoniere award three consecutive times between 1983 and 1985, and was the top scorer of Juventus's victorious 1984–85 European Cup campaign. Platini was a key player of the France national team that won the 1984 European Championship, a tournament in which he was the top scorer and best player, and reached the semi-finals of the 1982 and 1986 World Cups. Together with midfielders Alain Giresse, Luis Fernández and Jean Tigana, he formed the carré magique (magic square) of the French team in the 1980s. Platini was his country's record goalscorer until 2007, and held the record for most goals scored (9) in the European Championship until being surpassed by Cristiano Ronaldo in 2021, despite only appearing in the 1984 tournament.\nFollowing his retirement as a player, Platini was the France national team coach from 1988 to 1992, and was the co-organizer of the 1998 World Cup in France. In 2007, he became the first former player to be elected as the president of the Union of European Football Associations (UEFA). He also held the positions of chairman of FIFA's Technical and Development Committee and vice-president of the French Football Federation.",
+ "revid": 1378295664,
+ "infobox": {
+  "name": "Michel Platini",
+  "image": "Michel Platini 2010 (cropped).jpg",
+  "caption": "Platini in 2010",
+  "order": "6th",
+  "office": "President of UEFA",
+  "term_start": "26 January 2007",
+  "term_end": "21 December 2015",
+  "predecessor": "Lennart Johansson",
+  "successor": "Ángel María Villar (acting)<br />Aleksander Čeferin",
+  "birth_name": "Michel François Platini",
+  "birth_date": "{{birth date and age|1955|6|21|df=y}}",
+  "birth_place": "Jœuf, Meurthe-et-Moselle, France",
+  "height": "1.79 m",
+  "occupation": "Footballer<br />Manager<br />Football administrator",
+  "signature": "| signature_alt =",
+  "module": "{{Infobox football biography | embed = yes | header-color = lavender",
+  "position": "Attacking midfielder",
+  "totalcaps": "432",
+  "totalgoals": "224",
+  "medaltemplates": "{{MedalSport|Men's football}}"
+ },
+ "url": "https://en.wikipedia.org/wiki/Michel_Platini",
+ "fetched": "2026-10-18"
+}

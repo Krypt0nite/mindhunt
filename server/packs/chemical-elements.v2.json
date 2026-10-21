@@ -1,0 +1,932 @@
+{
+  "id": "chemical-elements",
+  "version": 2,
+  "as_of": "2026-10-18",
+  "category": "Science",
+  "title": "Chemical Elements",
+  "noun": "element",
+  "description": "Fifty-two elements from hydrogen to plutonium.",
+  "draft": false,
+  "notes": "Hand-entered; verify every row before a public release.",
+  "attributes": [
+    {
+      "key": "atomic_number",
+      "label": "Atomic number",
+      "type": "int",
+      "min": 1,
+      "max": 118,
+      "step": 1,
+      "templates": {
+        "eq": "Is its atomic number {value}?",
+        "gt": "Is its atomic number more than {value}?",
+        "lt": "Is its atomic number less than {value}?",
+        "between": "Is its atomic number between {value} and {value2}?"
+      }
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "int",
+      "min": 1,
+      "max": 7,
+      "step": 1,
+      "help": "The row of the periodic table.",
+      "templates": {
+        "eq": "Is it in period {value}?",
+        "gt": "Is it below period {value}?",
+        "lt": "Is it above period {value}?",
+        "between": "Is it in periods {value} to {value2}?"
+      }
+    },
+    {
+      "key": "block",
+      "label": "Block",
+      "type": "enum",
+      "values": [
+        "s",
+        "p",
+        "d",
+        "f"
+      ],
+      "templates": {
+        "eq": "Is it in the {value}-block?"
+      }
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "enum",
+      "values": [
+        "Alkali metal",
+        "Alkaline earth metal",
+        "Transition metal",
+        "Post-transition metal",
+        "Metalloid",
+        "Other nonmetal",
+        "Halogen",
+        "Noble gas",
+        "Lanthanide",
+        "Actinide"
+      ],
+      "help": "Common textbook grouping. Zinc and mercury count as transition metals (IUPAC 2011). 'Other nonmetal' means hydrogen, carbon, nitrogen, oxygen, phosphorus and sulfur. Polonium is Unknown because sources disagree.",
+      "templates": {
+        "eq": "Is it a {value_lc}?",
+        "eq:Other nonmetal": "Is it a nonmetal that isn't a halogen or noble gas?"
+      },
+      "aliases": {
+        "Noble gas": [
+          "inert gas"
+        ],
+        "Transition metal": [
+          "transition element"
+        ],
+        "Other nonmetal": [
+          "nonmetal",
+          "non metal",
+          "reactive nonmetal"
+        ],
+        "Alkali metal": [
+          "alkali"
+        ],
+        "Alkaline earth metal": [
+          "alkaline earth"
+        ]
+      }
+    },
+    {
+      "key": "state",
+      "label": "State at room temperature",
+      "type": "enum",
+      "values": [
+        "Solid",
+        "Liquid",
+        "Gas"
+      ],
+      "help": "At 25 °C and normal pressure.",
+      "templates": {
+        "eq": "Is it a {value_lc} at room temperature?"
+      },
+      "aliases": {
+        "Gas": [
+          "gaseous"
+        ]
+      }
+    },
+    {
+      "key": "radioactive",
+      "label": "Radioactive",
+      "type": "bool",
+      "help": "Has no stable isotopes.",
+      "templates": {
+        "is": "Is it radioactive?",
+        "is_false": "Does it have a stable isotope?"
+      }
+    },
+    {
+      "key": "ancient",
+      "label": "Known since ancient times",
+      "type": "bool",
+      "help": "The nine classical elements: carbon, sulfur, iron, copper, silver, tin, gold, mercury, lead. Antimony, zinc, arsenic and platinum were used in antiquity but recognised as elements later, so they answer Unknown.",
+      "templates": {
+        "is": "Was it known in ancient times?",
+        "is_false": "Was it discovered in modern times?"
+      }
+    },
+    {
+      "key": "odd_symbol",
+      "label": "Symbol not from its English name",
+      "type": "bool",
+      "help": "Symbols from Latin or German names, like Fe for iron or W for tungsten.",
+      "templates": {
+        "is": "Does its symbol come from a non-English name?",
+        "is_false": "Does its symbol come from its English name?"
+      }
+    },
+    {
+      "key": "letters",
+      "label": "Name",
+      "type": "string",
+      "help": "Ask about the first 1 to 3 letters (spaces and hyphens ignored).",
+      "templates": {
+        "starts_with": "Does the element's name start with “{value}”?"
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c_8a07fd",
+      "name": "Hydrogen",
+      "attrs": {
+        "atomic_number": 1,
+        "period": 1,
+        "block": "s",
+        "category": "Other nonmetal",
+        "state": "Gas",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Hydrogen"
+      }
+    },
+    {
+      "id": "c_2b2564",
+      "name": "Helium",
+      "attrs": {
+        "atomic_number": 2,
+        "period": 1,
+        "block": "s",
+        "category": "Noble gas",
+        "state": "Gas",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Helium"
+      }
+    },
+    {
+      "id": "c_02270d",
+      "name": "Lithium",
+      "attrs": {
+        "atomic_number": 3,
+        "period": 2,
+        "block": "s",
+        "category": "Alkali metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Lithium"
+      }
+    },
+    {
+      "id": "c_236f6f",
+      "name": "Beryllium",
+      "attrs": {
+        "atomic_number": 4,
+        "period": 2,
+        "block": "s",
+        "category": "Alkaline earth metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Beryllium"
+      }
+    },
+    {
+      "id": "c_279a6c",
+      "name": "Boron",
+      "attrs": {
+        "atomic_number": 5,
+        "period": 2,
+        "block": "p",
+        "category": "Metalloid",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Boron"
+      }
+    },
+    {
+      "id": "c_38da69",
+      "name": "Carbon",
+      "attrs": {
+        "atomic_number": 6,
+        "period": 2,
+        "block": "p",
+        "category": "Other nonmetal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": true,
+        "odd_symbol": false,
+        "letters": "Carbon"
+      }
+    },
+    {
+      "id": "c_4a6c80",
+      "name": "Nitrogen",
+      "attrs": {
+        "atomic_number": 7,
+        "period": 2,
+        "block": "p",
+        "category": "Other nonmetal",
+        "state": "Gas",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Nitrogen"
+      }
+    },
+    {
+      "id": "c_d60b72",
+      "name": "Oxygen",
+      "attrs": {
+        "atomic_number": 8,
+        "period": 2,
+        "block": "p",
+        "category": "Other nonmetal",
+        "state": "Gas",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Oxygen"
+      }
+    },
+    {
+      "id": "c_8310e7",
+      "name": "Fluorine",
+      "attrs": {
+        "atomic_number": 9,
+        "period": 2,
+        "block": "p",
+        "category": "Halogen",
+        "state": "Gas",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Fluorine"
+      }
+    },
+    {
+      "id": "c_8b336b",
+      "name": "Neon",
+      "attrs": {
+        "atomic_number": 10,
+        "period": 2,
+        "block": "p",
+        "category": "Noble gas",
+        "state": "Gas",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Neon"
+      }
+    },
+    {
+      "id": "c_d960fa",
+      "name": "Sodium",
+      "attrs": {
+        "atomic_number": 11,
+        "period": 3,
+        "block": "s",
+        "category": "Alkali metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": true,
+        "letters": "Sodium"
+      }
+    },
+    {
+      "id": "c_80ff4b",
+      "name": "Magnesium",
+      "attrs": {
+        "atomic_number": 12,
+        "period": 3,
+        "block": "s",
+        "category": "Alkaline earth metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Magnesium"
+      }
+    },
+    {
+      "id": "c_e60822",
+      "name": "Aluminium",
+      "attrs": {
+        "atomic_number": 13,
+        "period": 3,
+        "block": "p",
+        "category": "Post-transition metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Aluminium"
+      }
+    },
+    {
+      "id": "c_44870f",
+      "name": "Silicon",
+      "attrs": {
+        "atomic_number": 14,
+        "period": 3,
+        "block": "p",
+        "category": "Metalloid",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Silicon"
+      }
+    },
+    {
+      "id": "c_828770",
+      "name": "Phosphorus",
+      "attrs": {
+        "atomic_number": 15,
+        "period": 3,
+        "block": "p",
+        "category": "Other nonmetal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Phosphorus"
+      }
+    },
+    {
+      "id": "c_b23b2a",
+      "name": "Sulfur",
+      "attrs": {
+        "atomic_number": 16,
+        "period": 3,
+        "block": "p",
+        "category": "Other nonmetal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": true,
+        "odd_symbol": false,
+        "letters": "Sulfur"
+      }
+    },
+    {
+      "id": "c_32a3f5",
+      "name": "Chlorine",
+      "attrs": {
+        "atomic_number": 17,
+        "period": 3,
+        "block": "p",
+        "category": "Halogen",
+        "state": "Gas",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Chlorine"
+      }
+    },
+    {
+      "id": "c_9d801f",
+      "name": "Argon",
+      "attrs": {
+        "atomic_number": 18,
+        "period": 3,
+        "block": "p",
+        "category": "Noble gas",
+        "state": "Gas",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Argon"
+      }
+    },
+    {
+      "id": "c_3967f3",
+      "name": "Potassium",
+      "attrs": {
+        "atomic_number": 19,
+        "period": 4,
+        "block": "s",
+        "category": "Alkali metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": true,
+        "letters": "Potassium"
+      }
+    },
+    {
+      "id": "c_ff5981",
+      "name": "Calcium",
+      "attrs": {
+        "atomic_number": 20,
+        "period": 4,
+        "block": "s",
+        "category": "Alkaline earth metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Calcium"
+      }
+    },
+    {
+      "id": "c_efdd92",
+      "name": "Titanium",
+      "attrs": {
+        "atomic_number": 22,
+        "period": 4,
+        "block": "d",
+        "category": "Transition metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Titanium"
+      }
+    },
+    {
+      "id": "c_acc39c",
+      "name": "Chromium",
+      "attrs": {
+        "atomic_number": 24,
+        "period": 4,
+        "block": "d",
+        "category": "Transition metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Chromium"
+      }
+    },
+    {
+      "id": "c_66b7a4",
+      "name": "Manganese",
+      "attrs": {
+        "atomic_number": 25,
+        "period": 4,
+        "block": "d",
+        "category": "Transition metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Manganese"
+      }
+    },
+    {
+      "id": "c_f6c3c0",
+      "name": "Iron",
+      "attrs": {
+        "atomic_number": 26,
+        "period": 4,
+        "block": "d",
+        "category": "Transition metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": true,
+        "odd_symbol": true,
+        "letters": "Iron"
+      }
+    },
+    {
+      "id": "c_20538e",
+      "name": "Cobalt",
+      "attrs": {
+        "atomic_number": 27,
+        "period": 4,
+        "block": "d",
+        "category": "Transition metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Cobalt"
+      }
+    },
+    {
+      "id": "c_c67f3f",
+      "name": "Nickel",
+      "attrs": {
+        "atomic_number": 28,
+        "period": 4,
+        "block": "d",
+        "category": "Transition metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Nickel"
+      }
+    },
+    {
+      "id": "c_706bce",
+      "name": "Copper",
+      "attrs": {
+        "atomic_number": 29,
+        "period": 4,
+        "block": "d",
+        "category": "Transition metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": true,
+        "odd_symbol": true,
+        "letters": "Copper"
+      }
+    },
+    {
+      "id": "c_15288f",
+      "name": "Zinc",
+      "attrs": {
+        "atomic_number": 30,
+        "period": 4,
+        "block": "d",
+        "category": "Transition metal",
+        "state": "Solid",
+        "radioactive": false,
+        "odd_symbol": false,
+        "letters": "Zinc"
+      }
+    },
+    {
+      "id": "c_b03636",
+      "name": "Gallium",
+      "attrs": {
+        "atomic_number": 31,
+        "period": 4,
+        "block": "p",
+        "category": "Post-transition metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Gallium"
+      }
+    },
+    {
+      "id": "c_2bed56",
+      "name": "Arsenic",
+      "attrs": {
+        "atomic_number": 33,
+        "period": 4,
+        "block": "p",
+        "category": "Metalloid",
+        "state": "Solid",
+        "radioactive": false,
+        "odd_symbol": false,
+        "letters": "Arsenic"
+      }
+    },
+    {
+      "id": "c_cdf8d9",
+      "name": "Bromine",
+      "attrs": {
+        "atomic_number": 35,
+        "period": 4,
+        "block": "p",
+        "category": "Halogen",
+        "state": "Liquid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Bromine"
+      }
+    },
+    {
+      "id": "c_9c7adf",
+      "name": "Krypton",
+      "attrs": {
+        "atomic_number": 36,
+        "period": 4,
+        "block": "p",
+        "category": "Noble gas",
+        "state": "Gas",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Krypton"
+      }
+    },
+    {
+      "id": "c_0d2484",
+      "name": "Rubidium",
+      "attrs": {
+        "atomic_number": 37,
+        "period": 5,
+        "block": "s",
+        "category": "Alkali metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Rubidium"
+      }
+    },
+    {
+      "id": "c_f5b06b",
+      "name": "Strontium",
+      "attrs": {
+        "atomic_number": 38,
+        "period": 5,
+        "block": "s",
+        "category": "Alkaline earth metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Strontium"
+      }
+    },
+    {
+      "id": "c_469a25",
+      "name": "Silver",
+      "attrs": {
+        "atomic_number": 47,
+        "period": 5,
+        "block": "d",
+        "category": "Transition metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": true,
+        "odd_symbol": true,
+        "letters": "Silver"
+      }
+    },
+    {
+      "id": "c_884b80",
+      "name": "Tin",
+      "attrs": {
+        "atomic_number": 50,
+        "period": 5,
+        "block": "p",
+        "category": "Post-transition metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": true,
+        "odd_symbol": true,
+        "letters": "Tin"
+      }
+    },
+    {
+      "id": "c_65c141",
+      "name": "Antimony",
+      "attrs": {
+        "atomic_number": 51,
+        "period": 5,
+        "block": "p",
+        "category": "Metalloid",
+        "state": "Solid",
+        "radioactive": false,
+        "odd_symbol": true,
+        "letters": "Antimony"
+      }
+    },
+    {
+      "id": "c_508b33",
+      "name": "Iodine",
+      "attrs": {
+        "atomic_number": 53,
+        "period": 5,
+        "block": "p",
+        "category": "Halogen",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Iodine"
+      }
+    },
+    {
+      "id": "c_e4e95d",
+      "name": "Xenon",
+      "attrs": {
+        "atomic_number": 54,
+        "period": 5,
+        "block": "p",
+        "category": "Noble gas",
+        "state": "Gas",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Xenon"
+      }
+    },
+    {
+      "id": "c_25b181",
+      "name": "Caesium",
+      "attrs": {
+        "atomic_number": 55,
+        "period": 6,
+        "block": "s",
+        "category": "Alkali metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Caesium"
+      }
+    },
+    {
+      "id": "c_a8c1e4",
+      "name": "Barium",
+      "attrs": {
+        "atomic_number": 56,
+        "period": 6,
+        "block": "s",
+        "category": "Alkaline earth metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Barium"
+      }
+    },
+    {
+      "id": "c_810729",
+      "name": "Neodymium",
+      "attrs": {
+        "atomic_number": 60,
+        "period": 6,
+        "block": "f",
+        "category": "Lanthanide",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Neodymium"
+      }
+    },
+    {
+      "id": "c_42d16a",
+      "name": "Tungsten",
+      "attrs": {
+        "atomic_number": 74,
+        "period": 6,
+        "block": "d",
+        "category": "Transition metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": false,
+        "odd_symbol": true,
+        "letters": "Tungsten"
+      }
+    },
+    {
+      "id": "c_e7389b",
+      "name": "Platinum",
+      "attrs": {
+        "atomic_number": 78,
+        "period": 6,
+        "block": "d",
+        "category": "Transition metal",
+        "state": "Solid",
+        "radioactive": false,
+        "odd_symbol": false,
+        "letters": "Platinum"
+      }
+    },
+    {
+      "id": "c_71a7b7",
+      "name": "Gold",
+      "attrs": {
+        "atomic_number": 79,
+        "period": 6,
+        "block": "d",
+        "category": "Transition metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": true,
+        "odd_symbol": true,
+        "letters": "Gold"
+      }
+    },
+    {
+      "id": "c_8de985",
+      "name": "Mercury",
+      "attrs": {
+        "atomic_number": 80,
+        "period": 6,
+        "block": "d",
+        "category": "Transition metal",
+        "state": "Liquid",
+        "radioactive": false,
+        "ancient": true,
+        "odd_symbol": true,
+        "letters": "Mercury"
+      }
+    },
+    {
+      "id": "c_5d4083",
+      "name": "Lead",
+      "attrs": {
+        "atomic_number": 82,
+        "period": 6,
+        "block": "p",
+        "category": "Post-transition metal",
+        "state": "Solid",
+        "radioactive": false,
+        "ancient": true,
+        "odd_symbol": true,
+        "letters": "Lead"
+      }
+    },
+    {
+      "id": "c_12535a",
+      "name": "Polonium",
+      "attrs": {
+        "atomic_number": 84,
+        "period": 6,
+        "block": "p",
+        "state": "Solid",
+        "radioactive": true,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Polonium"
+      }
+    },
+    {
+      "id": "c_e9e21b",
+      "name": "Radon",
+      "attrs": {
+        "atomic_number": 86,
+        "period": 6,
+        "block": "p",
+        "category": "Noble gas",
+        "state": "Gas",
+        "radioactive": true,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Radon"
+      }
+    },
+    {
+      "id": "c_09a38a",
+      "name": "Radium",
+      "attrs": {
+        "atomic_number": 88,
+        "period": 7,
+        "block": "s",
+        "category": "Alkaline earth metal",
+        "state": "Solid",
+        "radioactive": true,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Radium"
+      }
+    },
+    {
+      "id": "c_494102",
+      "name": "Uranium",
+      "attrs": {
+        "atomic_number": 92,
+        "period": 7,
+        "block": "f",
+        "category": "Actinide",
+        "state": "Solid",
+        "radioactive": true,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Uranium"
+      }
+    },
+    {
+      "id": "c_d6e095",
+      "name": "Plutonium",
+      "attrs": {
+        "atomic_number": 94,
+        "period": 7,
+        "block": "f",
+        "category": "Actinide",
+        "state": "Solid",
+        "radioactive": true,
+        "ancient": false,
+        "odd_symbol": false,
+        "letters": "Plutonium"
+      }
+    }
+  ]
+}

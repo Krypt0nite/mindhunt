@@ -1,0 +1,33 @@
+{
+ "asked": "Edwin Hubble",
+ "title": "Edwin Hubble",
+ "missing": false,
+ "disambiguation": false,
+ "description": "American astronomer (1889–1953)",
+ "extract": "Edwin Powell Hubble (November 20, 1889 – September 28, 1953) was an American astronomer. He played a crucial role in establishing the fields of extragalactic astronomy and observational cosmology. Hubble proved that many objects previously thought to be clouds of dust and gas and classified as \"nebulae\" were actually galaxies beyond the Milky Way. He used the strong direct relationship between a classical Cepheid variable's luminosity and pulsation period (discovered in 1908 by Henrietta Swan Leavitt) for scaling galactic and extragalactic distances.\nHubble confirmed in 1929 that the recessional velocity of a galaxy increases with its distance from Earth, a behavior that became known as Hubble's law, although it had been proposed two years earlier by Georges Lemaître. The Hubble law implies that the universe is expanding. A decade before, American astronomer Vesto Slipher had provided the first evidence that the light from many of these nebulae was strongly red-shifted, indicative of high recession velocities.\nHubble's name is most widely recognized for the Hubble Space Telescope, which was named in his honor, with a model prominently displayed in his hometown of Marshfield, Missouri.\n\n",
+ "revid": 1379806020,
+ "infobox": {
+  "image": "Studio portrait photograph of Edwin Powell Hubble (cropped).JPG",
+  "birth_date": "{{birth date|1889|11|20|mf=y}}",
+  "birth_place": "Marshfield, Missouri, U.S.",
+  "death_date": "{{death date and age|1953|09|28|1889|11|20|mf=y}}",
+  "death_place": "San Marino, California, U.S.",
+  "spouse": "{{marriage|Grace Burke|February 26, 1924}}",
+  "field": "Astronomy",
+  "workplaces": "{{Unbulleted list|University of Chicago|Mount Wilson Observatory|Carnegie Institution for Science|University of Cambridge}}",
+  "education": "{{Unbulleted list|{{nowrap|University of Chicago (BS, PhD)}}|University of Oxford (MA)}}",
+  "known_for": "{{Unbulleted list|Hubble sequence|Hubble's law|Hubble luminosity law|Hubble–Reynolds law}}",
+  "awards": "{{collapsible list|title={{nobold|''See list''}}|Newcomb Cleveland Prize (1924)|Barnard Medal for Meritorious Service to Science (1935)|Bruce Medal (1938)|Franklin Medal (1939)|Gold Medal of the Royal Astronomical Society (1940)|Legion of Merit (1946)}}",
+  "signature": "Edwin Hubble signature.svg",
+  "footnotes": "| module      = {{Infobox military person",
+  "embed": "yes",
+  "allegiance": "",
+  "branch": "United States Army",
+  "service_years": "1918",
+  "rank": "Major",
+  "units": "86th Division, 2nd Battalion, 343rd Infantry Regiment",
+  "commands": "| battles       = World War I"
+ },
+ "url": "https://en.wikipedia.org/wiki/Edwin_Hubble",
+ "fetched": "2026-10-18"
+}

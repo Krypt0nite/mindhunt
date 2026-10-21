@@ -1,0 +1,278 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>Portrait review</title>
+<style>
+:root{--bg:#eef1f4;--card:#f8fafb;--ink:#1b2a4a;--soft:#4a5873;--rule:#b9c4d3;--yes:#1f7a4d}
+@media (prefers-color-scheme:dark){:root{--bg:#11161f;--card:#1a2130;--ink:#e8edf5;--soft:#9aa6ba;--rule:#334055;--yes:#4fbf86}}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,sans-serif;padding:16px}
+h1{margin:.2em 0} p{color:var(--soft);max-width:70ch}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:12px;margin:16px 0 96px}
+.card{background:var(--card);border:2px solid var(--rule);border-radius:12px;padding:8px;display:flex;flex-direction:column;gap:4px;cursor:pointer}
+.card:has(input:checked){border-color:var(--yes)}
+.card img{width:100%;aspect-ratio:3/4;object-fit:cover;object-position:top;border-radius:8px;background:var(--rule)}
+.name{font-weight:700} .meta{font-size:12px;color:var(--soft)} .card a{font-size:12px;color:var(--soft)}
+.bar{position:fixed;left:0;right:0;bottom:0;background:var(--card);border-top:1px solid var(--rule);padding:12px 16px;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+button{font:inherit;font-weight:600;padding:10px 18px;border-radius:999px;border:0;background:var(--ink);color:var(--bg);cursor:pointer}
+code{word-break:break-all;font-size:12px;color:var(--soft)}
+</style></head><body>
+<h1>Does each photo show the named player?</h1>
+<p>Tick the photos that clearly show the right person on their own (not with someone else, not the wrong player).
+Leave the rest unticked; those players keep their initials. Licences were already checked. Then copy the command at the bottom.</p>
+<div class="grid"><label class="card"><input type="checkbox" value="c_c5b024" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/The_cricket_legend_Sachin_Tendulkar_at_the_Oval_Maidan_in_Mumbai_During_the_Duke_and_Duchess_of_Cambridge_Visit%2826271019082%29.jpg/1280px-The_cricket_legend_Sachin_Tendulkar_at_the_Oval_Maidan_in_Mumbai_During_the_Duke_and_Duchess_of_Cambridge_Visit%2826271019082%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for Sachin Tendulkar" loading="lazy">
+<span class="name">Sachin Tendulkar</span>
+<span class="meta">CC BY-SA 2.0 · British High Commission, New Delhi</span>
+<a href="https://commons.wikimedia.org/wiki/File:The_cricket_legend_Sachin_Tendulkar_at_the_Oval_Maidan_in_Mumbai_During_the_Duke_and_Duchess_of_Cambridge_Visit(26271019082).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_761fdf" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/MS_Dhoni_%28Prabhav_%2723_-_RiGI_2023%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for MS Dhoni" loading="lazy">
+<span class="name">MS Dhoni</span>
+<span class="meta">CC BY 3.0 · RIGI</span>
+<a href="https://commons.wikimedia.org/wiki/File:MS_Dhoni_(Prabhav_%2723_-_RiGI_2023).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_ef0210" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Sourav_Ganguly_%28late_2010s%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Sourav Ganguly" loading="lazy">
+<span class="name">Sourav Ganguly</span>
+<span class="meta">CC BY 3.0 · Times Of India</span>
+<a href="https://commons.wikimedia.org/wiki/File:Sourav_Ganguly_(late_2010s).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_b17b3a" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Anil_Kumble_%281%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Anil Kumble" loading="lazy">
+<span class="name">Anil Kumble</span>
+<span class="meta">CC BY 3.0 · CRICKETNEXT</span>
+<a href="https://commons.wikimedia.org/wiki/File:Anil_Kumble_(1).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_1dec33" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Kapil_Dev_at_Equation_sports_auction_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Kapil Dev" loading="lazy">
+<span class="name">Kapil Dev</span>
+<span class="meta">CC BY 3.0 · Bollywood Hungama</span>
+<a href="https://commons.wikimedia.org/wiki/File:Kapil_Dev_at_Equation_sports_auction_(3x4_cropped).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_b6142d" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Anu_Ranjan%2C_Amruta_Fadnavis%2C_Sunil_Gavaskar%2C_Shashi_Ranjan_graces_the_Gr8_Beti_event_%2802%29_%28cropped_-_Gavaskar%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Sunil Gavaskar" loading="lazy">
+<span class="name">Sunil Gavaskar</span>
+<span class="meta">CC BY 3.0 · Bollywood Hungama</span>
+<a href="https://commons.wikimedia.org/wiki/File:Anu_Ranjan,_Amruta_Fadnavis,_Sunil_Gavaskar,_Shashi_Ranjan_graces_the_Gr8_Beti_event_(02)_(cropped_-_Gavaskar).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_ac22b2" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Yuvraj_Singh_appointed_as_Ulysse_Nardin_watch_brand_ambassador.jpeg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Yuvraj Singh" loading="lazy">
+<span class="name">Yuvraj Singh</span>
+<span class="meta">CC BY 3.0 · Bollywood Hungama</span>
+<a href="https://commons.wikimedia.org/wiki/File:Yuvraj_Singh_appointed_as_Ulysse_Nardin_watch_brand_ambassador.jpeg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_888569" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Virender_Sehwag_at_the_NDTV_Marks_for_Sports_event_13.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Virender Sehwag" loading="lazy">
+<span class="name">Virender Sehwag</span>
+<span class="meta">CC BY 3.0 · Bollywood Hungama</span>
+<a href="https://commons.wikimedia.org/wiki/File:Virender_Sehwag_at_the_NDTV_Marks_for_Sports_event_13.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_b0b136" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Zaheer_Khan_at_the_CPAA_show_2018_%28cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Zaheer Khan" loading="lazy">
+<span class="name">Zaheer Khan</span>
+<span class="meta">CC BY 3.0 · Bollywood Hungama</span>
+<a href="https://commons.wikimedia.org/wiki/File:Zaheer_Khan_at_the_CPAA_show_2018_(cropped).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_fbded7" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/SHIKHAR_DHAWAN_%2816005494418%29.jpg/1280px-SHIKHAR_DHAWAN_%2816005494418%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for Shikhar Dhawan" loading="lazy">
+<span class="name">Shikhar Dhawan</span>
+<span class="meta">CC BY-SA 2.0 · NAPARAZZI</span>
+<a href="https://commons.wikimedia.org/wiki/File:SHIKHAR_DHAWAN_(16005494418).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_d9fa31" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Shubman_Gill_2023_%28cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Shubman Gill" loading="lazy">
+<span class="name">Shubman Gill</span>
+<span class="meta">CC BY 3.0 · Bollywood Hungama</span>
+<a href="https://commons.wikimedia.org/wiki/File:Shubman_Gill_2023_(cropped).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_19e2a6" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/VVS_Laxman99.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for VVS Laxman" loading="lazy">
+<span class="name">VVS Laxman</span>
+<span class="meta">CC BY 2.0 · Kalyan Chakravarthy</span>
+<a href="https://commons.wikimedia.org/wiki/File:VVS_Laxman99.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_1b8b38" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Ricky_Ponting_2015.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Ricky Ponting" loading="lazy">
+<span class="name">Ricky Ponting</span>
+<span class="meta">CC BY 2.0 · Tourism Victoria</span>
+<a href="https://commons.wikimedia.org/wiki/File:Ricky_Ponting_2015.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_5b9981" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Shane_Warne_February_2015.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Shane Warne" loading="lazy">
+<span class="name">Shane Warne</span>
+<span class="meta">CC BY 2.0 · Tourism Victoria from Australia</span>
+<a href="https://commons.wikimedia.org/wiki/File:Shane_Warne_February_2015.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_758e44" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Glenn_mcgrath_%286279982367%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Glenn McGrath" loading="lazy">
+<span class="name">Glenn McGrath</span>
+<span class="meta">CC BY-SA 2.0 · Eva Rinaldi</span>
+<a href="https://commons.wikimedia.org/wiki/File:Glenn_mcgrath_(6279982367).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_531269" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Adam_Gilchrist_of_Australia_%28cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Adam Gilchrist" loading="lazy">
+<span class="name">Adam Gilchrist</span>
+<span class="meta">CC BY-SA 2.0 · Luton Anderson</span>
+<a href="https://commons.wikimedia.org/wiki/File:Adam_Gilchrist_of_Australia_(cropped).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_3ead7f" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/STEVE_WAUGH_%286631163989%29.jpg/1280px-STEVE_WAUGH_%286631163989%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for Steve Waugh" loading="lazy">
+<span class="name">Steve Waugh</span>
+<span class="meta">CC BY-SA 2.0 · NAPARAZZI</span>
+<a href="https://commons.wikimedia.org/wiki/File:STEVE_WAUGH_(6631163989).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_12ae0c" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Don_Bradman_1930.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Don Bradman" loading="lazy">
+<span class="name">Don Bradman</span>
+<span class="meta">CC BY 2.0 · State Library of South Australia from Australia</span>
+<a href="https://commons.wikimedia.org/wiki/File:Don_Bradman_1930.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_ad3a3b" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/STEVE_SMITH_%2811705303043%29.jpg/1280px-STEVE_SMITH_%2811705303043%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for Steve Smith" loading="lazy">
+<span class="name">Steve Smith</span>
+<span class="meta">CC BY-SA 2.0 · NAPARAZZI</span>
+<a href="https://commons.wikimedia.org/wiki/File:STEVE_SMITH_(11705303043).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_2d13ff" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Pat_Cummins_fielding_Ashes_2021_%28cropped%29.jpg/1280px-Pat_Cummins_fielding_Ashes_2021_%28cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for Pat Cummins" loading="lazy">
+<span class="name">Pat Cummins</span>
+<span class="meta">CC BY-SA 4.0 · SirWellsy99</span>
+<a href="https://commons.wikimedia.org/wiki/File:Pat_Cummins_fielding_Ashes_2021_(cropped).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_bf44e1" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Mitchell_Starc_2023.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Mitchell Starc" loading="lazy">
+<span class="name">Mitchell Starc</span>
+<span class="meta">CC BY 3.0 · Prime Video AU &amp; NZ</span>
+<a href="https://commons.wikimedia.org/wiki/File:Mitchell_Starc_2023.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_df81c7" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Matthew_Hayden_Image.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Matthew Hayden" loading="lazy">
+<span class="name">Matthew Hayden</span>
+<span class="meta">CC BY 3.0 · Indian yogi and author Sadhguru, on Youtube</span>
+<a href="https://commons.wikimedia.org/wiki/File:Matthew_Hayden_Image.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_9940ec" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Allan_Border%2C_Ricky_Ponting_and_Steve_Waugh_October_2014_%28Border_cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Allan Border" loading="lazy">
+<span class="name">Allan Border</span>
+<span class="meta">CC BY 4.0 · Australian Embassy in India</span>
+<a href="https://commons.wikimedia.org/wiki/File:Allan_Border,_Ricky_Ponting_and_Steve_Waugh_October_2014_(Border_cropped).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_daca3b" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Dennis_Keith_Lillee_%288121209028%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Dennis Lillee" loading="lazy">
+<span class="name">Dennis Lillee</span>
+<span class="meta">CC BY-SA 2.0 · Eva Rinaldi</span>
+<a href="https://commons.wikimedia.org/wiki/File:Dennis_Keith_Lillee_(8121209028).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_51aae2" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/2_05_Root_hundred.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Joe Root" loading="lazy">
+<span class="name">Joe Root</span>
+<span class="meta">Public domain · Dave Morton</span>
+<a href="https://commons.wikimedia.org/wiki/File:2_05_Root_hundred.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_7c12e5" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/3_14_Captain_Ben_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Ben Stokes" loading="lazy">
+<span class="name">Ben Stokes</span>
+<span class="meta">Public domain · Dave Morton</span>
+<a href="https://commons.wikimedia.org/wiki/File:3_14_Captain_Ben_(cropped)_(cropped).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_d9679b" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/JIMMY_ANDERSON.jpg/1280px-JIMMY_ANDERSON.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for James Anderson" loading="lazy">
+<span class="name">James Anderson</span>
+<span class="meta">CC BY-SA 2.0 · NAPARAZZI</span>
+<a href="https://commons.wikimedia.org/wiki/File:JIMMY_ANDERSON.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_4a3336" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Stuart_broad.jpg/1280px-Stuart_broad.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for Stuart Broad" loading="lazy">
+<span class="name">Stuart Broad</span>
+<span class="meta">CC BY-SA 3.0 · Brian Minkoff-London Pixels</span>
+<a href="https://commons.wikimedia.org/wiki/File:Stuart_broad.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_4ed65e" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/ALASTAIR_COOK_%282876041389%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Alastair Cook" loading="lazy">
+<span class="name">Alastair Cook</span>
+<span class="meta">CC BY-SA 2.0 · NAPARAZZI</span>
+<a href="https://commons.wikimedia.org/wiki/File:ALASTAIR_COOK_(2876041389).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_428cf4" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Kevin_Pietersen_2014.jpg/1280px-Kevin_Pietersen_2014.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for Kevin Pietersen" loading="lazy">
+<span class="name">Kevin Pietersen</span>
+<span class="meta">CC BY-SA 2.0 · NAPARAZZI</span>
+<a href="https://commons.wikimedia.org/wiki/File:Kevin_Pietersen_2014.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_da88e6" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Ian_Botham_headshot.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Ian Botham" loading="lazy">
+<span class="name">Ian Botham</span>
+<span class="meta">CC BY-SA 2.0 · Nic Redhead</span>
+<a href="https://commons.wikimedia.org/wiki/File:Ian_Botham_headshot.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_c71ed0" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Eoin_Morgan_2.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Eoin Morgan" loading="lazy">
+<span class="name">Eoin Morgan</span>
+<span class="meta">CC BY 3.0 · CRICKETNEXT</span>
+<a href="https://commons.wikimedia.org/wiki/File:Eoin_Morgan_2.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_d3ecb4" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Jos_Buttler_in_2023.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Jos Buttler" loading="lazy">
+<span class="name">Jos Buttler</span>
+<span class="meta">CC BY 2.0 · Number 10</span>
+<a href="https://commons.wikimedia.org/wiki/File:Jos_Buttler_in_2023.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_77b6e6" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Andrew_Flintoff_%281%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Andrew Flintoff" loading="lazy">
+<span class="name">Andrew Flintoff</span>
+<span class="meta">CC BY 2.0 · Jim Dowling from Hong Kong</span>
+<a href="https://commons.wikimedia.org/wiki/File:Andrew_Flintoff_(1).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_314a50" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Imran Khan" loading="lazy">
+<span class="name">Imran Khan</span>
+<span class="meta">CC BY 3.0 · Imran Khan</span>
+<a href="https://commons.wikimedia.org/wiki/File:Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_b5f95f" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Wasim-akram-gesf-2018-7878.jpg/1280px-Wasim-akram-gesf-2018-7878.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for Wasim Akram" loading="lazy">
+<span class="name">Wasim Akram</span>
+<span class="meta">CC BY-SA 4.0 · Fuzheado</span>
+<a href="https://commons.wikimedia.org/wiki/File:Wasim-akram-gesf-2018-7878.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_82ff16" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Babar_azam_2023.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Babar Azam" loading="lazy">
+<span class="name">Babar Azam</span>
+<span class="meta">CC BY 3.0 · ICNA</span>
+<a href="https://commons.wikimedia.org/wiki/File:Babar_azam_2023.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_6d4926" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Shahid_Afridi_in_2017_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Shahid Afridi" loading="lazy">
+<span class="name">Shahid Afridi</span>
+<span class="meta">CC BY 2.0 · Shehbaz Sharif</span>
+<a href="https://commons.wikimedia.org/wiki/File:Shahid_Afridi_in_2017_(3x4_cropped).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_f14f66" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Inzamam-ul-Haq.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Inzamam-ul-Haq" loading="lazy">
+<span class="name">Inzamam-ul-Haq</span>
+<span class="meta">CC BY-SA 2.0 · paddynapper</span>
+<a href="https://commons.wikimedia.org/wiki/File:Inzamam-ul-Haq.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_e63474" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Khizer_Ahmed_and_mentor_Shoaib_Akhtar_%28cropped%29.jpg/1280px-Khizer_Ahmed_and_mentor_Shoaib_Akhtar_%28cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for Shoaib Akhtar" loading="lazy">
+<span class="name">Shoaib Akhtar</span>
+<span class="meta">CC BY-SA 4.0 · Khizer22</span>
+<a href="https://commons.wikimedia.org/wiki/File:Khizer_Ahmed_and_mentor_Shoaib_Akhtar_(cropped).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_44c51f" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Photograph_of_Muttiah_Muralitharan.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Muttiah Muralitharan" loading="lazy">
+<span class="name">Muttiah Muralitharan</span>
+<span class="meta">CC BY 3.0 · Bollywood Hungama</span>
+<a href="https://commons.wikimedia.org/wiki/File:Photograph_of_Muttiah_Muralitharan.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_2da20e" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Kumar_Sangakkara_bat_in_hand.JPG/1280px-Kumar_Sangakkara_bat_in_hand.JPG?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for Kumar Sangakkara" loading="lazy">
+<span class="name">Kumar Sangakkara</span>
+<span class="meta">CC BY-SA 4.0 · Amal316</span>
+<a href="https://commons.wikimedia.org/wiki/File:Kumar_Sangakkara_bat_in_hand.JPG" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_4be4bf" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Mahela_Jayawardene_3.JPG/1280px-Mahela_Jayawardene_3.JPG?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for Mahela Jayawardene" loading="lazy">
+<span class="name">Mahela Jayawardene</span>
+<span class="meta">CC BY-SA 4.0 · Amal316</span>
+<a href="https://commons.wikimedia.org/wiki/File:Mahela_Jayawardene_3.JPG" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_2ecf6c" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Sanath_jayasuriya_portrait.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Sanath Jayasuriya" loading="lazy">
+<span class="name">Sanath Jayasuriya</span>
+<span class="meta">CC BY 2.0 · User:Chamal_N</span>
+<a href="https://commons.wikimedia.org/wiki/File:Sanath_jayasuriya_portrait.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_1db375" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg/1280px-Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for Lasith Malinga" loading="lazy">
+<span class="name">Lasith Malinga</span>
+<span class="meta">CC BY-SA 2.0 · paddynapper</span>
+<a href="https://commons.wikimedia.org/wiki/File:Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_f8d89d" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/AB_de_Villiers_2.jpg/1280px-AB_de_Villiers_2.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for AB de Villiers" loading="lazy">
+<span class="name">AB de Villiers</span>
+<span class="meta">CC BY-SA 2.0 · paddynapper</span>
+<a href="https://commons.wikimedia.org/wiki/File:AB_de_Villiers_2.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_5187e0" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Dale_Steyn_YM.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Dale Steyn" loading="lazy">
+<span class="name">Dale Steyn</span>
+<span class="meta">CC BY-SA 4.0 · YellowMonkey/Blnguyen</span>
+<a href="https://commons.wikimedia.org/wiki/File:Dale_Steyn_YM.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_ff809f" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Graeme_Smith_on_Record_SA20_Auction%2C_Young_Talent_Investment_%26_Women%E2%80%99s_Cricket_Plans%2C_2025_%28cropped%29.png?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Graeme Smith" loading="lazy">
+<span class="name">Graeme Smith</span>
+<span class="meta">CC BY 4.0 · Michael Sherman</span>
+<a href="https://commons.wikimedia.org/wiki/File:Graeme_Smith_on_Record_SA20_Auction,_Young_Talent_Investment_%26_Women%E2%80%99s_Cricket_Plans,_2025_(cropped).png" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_2639fe" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Hashim_Amla.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Hashim Amla" loading="lazy">
+<span class="name">Hashim Amla</span>
+<span class="meta">CC BY-SA 4.0 · YellowMonkey/Blnguyen</span>
+<a href="https://commons.wikimedia.org/wiki/File:Hashim_Amla.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_9f5f82" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Kingdom_Kome_co-founders_Kagiso_Rabada_and_Cameron_Scott_at_the_first_private_screening_of_The_Ring_of_Beasts_%28cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Kagiso Rabada" loading="lazy">
+<span class="name">Kagiso Rabada</span>
+<span class="meta">CC BY-SA 4.0 · KingdomKome</span>
+<a href="https://commons.wikimedia.org/wiki/File:Kingdom_Kome_co-founders_Kagiso_Rabada_and_Cameron_Scott_at_the_first_private_screening_of_The_Ring_of_Beasts_(cropped).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_4ead48" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Brian_Lara_at_2012_Mumbai_Marathon_pre_bash.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Brian Lara" loading="lazy">
+<span class="name">Brian Lara</span>
+<span class="meta">CC BY 3.0 · Bollywood Hungama</span>
+<a href="https://commons.wikimedia.org/wiki/File:Brian_Lara_at_2012_Mumbai_Marathon_pre_bash.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_341e05" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Vivian_richards_crop.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Viv Richards" loading="lazy">
+<span class="name">Viv Richards</span>
+<span class="meta">Public domain · Original image by Pamri</span>
+<a href="https://commons.wikimedia.org/wiki/File:Vivian_richards_crop.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_231838" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Two_views_of_Chris_Gayle_%2848020785077%29.jpg/1280px-Two_views_of_Chris_Gayle_%2848020785077%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for Chris Gayle" loading="lazy">
+<span class="name">Chris Gayle</span>
+<span class="meta">CC BY 2.0 · Dun.can from Leicestershire, UK</span>
+<a href="https://commons.wikimedia.org/wiki/File:Two_views_of_Chris_Gayle_(48020785077).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_dbbd1b" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Clive_Lloyd_at_%27Idea_Champions_Of_The_World%27_press_meet.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Clive Lloyd" loading="lazy">
+<span class="name">Clive Lloyd</span>
+<span class="meta">CC BY 3.0 · Bollywood Hungama</span>
+<a href="https://commons.wikimedia.org/wiki/File:Clive_Lloyd_at_%27Idea_Champions_Of_The_World%27_press_meet.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_e70434" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Curtly_ambrose2_crop.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Curtly Ambrose" loading="lazy">
+<span class="name">Curtly Ambrose</span>
+<span class="meta">Public domain · No machine-readable author provided. Stephen Turner assumed </span>
+<a href="https://commons.wikimedia.org/wiki/File:Curtly_ambrose2_crop.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_61c84f" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Courtney_Walsh.jpg/1280px-Courtney_Walsh.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for Courtney Walsh" loading="lazy">
+<span class="name">Courtney Walsh</span>
+<span class="meta">CC BY-SA 4.0 · Nurunnaby Chowdhury (Hasive)</span>
+<a href="https://commons.wikimedia.org/wiki/File:Courtney_Walsh.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_81900e" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Kane_Williamson_in_2019.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Kane Williamson" loading="lazy">
+<span class="name">Kane Williamson</span>
+<span class="meta">CC BY-SA 2.0 · Mark Lockett</span>
+<a href="https://commons.wikimedia.org/wiki/File:Kane_Williamson_in_2019.jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_75ca70" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings%2C_SCG_%2839533156665%29.jpg/1280px-2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings%2C_SCG_%2839533156665%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for Trent Boult" loading="lazy">
+<span class="name">Trent Boult</span>
+<span class="meta">CC BY 2.0 · www.davidmolloyphotography.com from Sydney, Australia</span>
+<a href="https://commons.wikimedia.org/wiki/File:2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings,_SCG_(39533156665).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_055ef0" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ross_Taylor_CNZM_%28cropped%29.jpg/1280px-Ross_Taylor_CNZM_%28cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for Ross Taylor" loading="lazy">
+<span class="name">Ross Taylor</span>
+<span class="meta">CC BY 4.0 · New Zealand Government, Office of the Governor-General</span>
+<a href="https://commons.wikimedia.org/wiki/File:Ross_Taylor_CNZM_(cropped).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_23d9a9" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Daniel_Vettori_ONZM_%28cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Candidate photo for Daniel Vettori" loading="lazy">
+<span class="name">Daniel Vettori</span>
+<span class="meta">CC BY 4.0 · New Zealand Government, Office of the Governor-General</span>
+<a href="https://commons.wikimedia.org/wiki/File:Daniel_Vettori_ONZM_(cropped).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_797253" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Shakib_Al_Hasan_%284%29_%28cropped%29.jpg/1280px-Shakib_Al_Hasan_%284%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for Shakib Al Hasan" loading="lazy">
+<span class="name">Shakib Al Hasan</span>
+<span class="meta">CC BY-SA 4.0 · Nurunnaby Chowdhury (Hasive)</span>
+<a href="https://commons.wikimedia.org/wiki/File:Shakib_Al_Hasan_(4)_(cropped).jpg" target="_blank" rel="noreferrer">File page</a></label><label class="card"><input type="checkbox" value="c_eb1836" >
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Rashid_Khan.jpg/1280px-Rashid_Khan.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Candidate photo for Rashid Khan" loading="lazy">
+<span class="name">Rashid Khan</span>
+<span class="meta">CC BY 3.0 · Afghanistan Cricket Board</span>
+<a href="https://commons.wikimedia.org/wiki/File:Rashid_Khan.jpg" target="_blank" rel="noreferrer">File page</a></label></div>
+<div class="bar"><button id="copy">Copy confirm command</button><span id="n"></span><code id="cmd"></code></div>
+<script>
+const boxes=[...document.querySelectorAll('input[type=checkbox]')];
+function cmd(){const ids=boxes.filter(b=>b.checked).map(b=>b.value);
+document.getElementById('n').textContent=ids.length+' of '+boxes.length+' ticked';
+return 'python3 tools/fetch_portraits.py confirm '+ids.join(' ');}
+boxes.forEach(b=>b.addEventListener('change',()=>document.getElementById('cmd').textContent=cmd()));
+document.getElementById('cmd').textContent=cmd();
+document.getElementById('copy').onclick=async()=>{const c=cmd();try{await navigator.clipboard.writeText(c)}catch(e){prompt('Copy this',c)}};
+</script></body></html>

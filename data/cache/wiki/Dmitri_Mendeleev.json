@@ -1,0 +1,31 @@
+{
+ "asked": "Dmitri Mendeleev",
+ "title": "Dmitri Mendeleev",
+ "missing": false,
+ "disambiguation": false,
+ "description": "Russian chemist (1834–1907)",
+ "extract": "Dmitri Ivanovich Mendeleev ( MEN-dəl-AY-əf; 8 February [O.S. 27 January] 1834 – 2 February [O.S. 20 January] 1907) was a Russian chemist known for formulating the periodic law and creating a version of the periodic table of elements. He used the periodic law not only to correct the then-accepted properties of some known elements, such as the valence and atomic weight of uranium, but also to predict the properties of three elements that were yet to be discovered (germanium, gallium, and scandium). The synthetic element mendelevium is named in his honor. He was one of the founders of the Russian Chemical Society in 1868, and worked on the theory and practice of protectionist trade and on agriculture.",
+ "revid": 1380553108,
+ "infobox": {
+  "native_name": "{{nobold|Дмитрий Менделеев}}",
+  "native_name_lang": "ru",
+  "image": "Dmitri Mendeleev.jpg",
+  "birth_date": "{{birth date|df=y|1834|2|8}}",
+  "birth_place": "Verkhnie Aremzyani, Russia",
+  "death_date": "{{death date and age|df=y|1907|2|2|1834|2|8}}",
+  "death_place": "Saint Petersburg, Russia",
+  "education": "Saint Petersburg Imperial University",
+  "known_for": "{{ubl|Predicting gallium, germanium and scandium|Periodic table|Periodic trends}}",
+  "spouses": "{{ubl|{{Marriage|Feozva Nikitichna Leshcheva|1862|1882|end=div}}|{{Marriage|Anna Ivanovna Popova|1882}}}}",
+  "children": "6, including Lyubov",
+  "awards": "{{ubl|Davy Medal (1882)|Faraday Lectureship Prize (1889)|ForMemRS (1892)|Copley Medal (1905)}}",
+  "fields": "Chemistry",
+  "workplaces": "{{ubl|Saint Petersburg State Institute of Technology|Saint Petersburg Imperial University}}",
+  "thesis_title": "A Discourse on the Compounds of Alcohol and Water",
+  "thesis_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/%D0%9C%D0%B5%D0%BD%D0%B4%D0%B5%D0%BB%D0%B5%D0%B5%D0%B2_%D0%94.%D0%98._%D0%A0%D0%B0%D1%81%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE_%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%80%D1%82%D0%B0_%D1%81",
+  "thesis_year": "1865",
+  "signature": "Mendelejew signature.png"
+ },
+ "url": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+ "fetched": "2026-10-18"
+}

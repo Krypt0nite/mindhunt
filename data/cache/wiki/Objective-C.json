@@ -1,0 +1,29 @@
+{
+ "asked": "Objective-C",
+ "title": "Objective-C",
+ "missing": false,
+ "disambiguation": false,
+ "description": "General-purpose, object-oriented programming language",
+ "extract": "Objective-C is a high-level general-purpose, object-oriented programming language that adds Smalltalk-style message passing (messaging) to the C programming language. Originally developed by Brad Cox and Tom Love in the early 1980s, it was selected by NeXT for its NeXTSTEP operating system. Due to Apple macOS’s direct lineage from NeXTSTEP, Objective-C was the standard language used, supported, and promoted by Apple for developing macOS and iOS applications (via their respective application programming interfaces (APIs), Cocoa and Cocoa Touch) from 1997, when Apple purchased NeXT, until the introduction of the Swift language in 2014.\nObjective-C programs developed for non-Apple operating systems or that are not dependent on Apple's APIs may also be compiled for any platform supported by GNU, GNU Compiler Collection (GCC) or LLVM/Clang.\nObjective-C source code \"messaging/implementation\" program files usually have .m filename extensions, while Objective-C \"header/interface\" files have .h extensions, the same as C header files. Objective-C++ files are denoted with a .mm filename extension.",
+ "revid": 1378644973,
+ "infobox": {
+  "name": "Objective-C",
+  "file ext": ".h, .m, .mm, .M",
+  "paradigms": "Reflective, class-based object-oriented",
+  "family": "C",
+  "scope": "| released = {{Start date and age|1984}}",
+  "designer": "Brad Cox, Tom Love",
+  "latest release version": "2.0",
+  "latest preview version": "| latest preview date =",
+  "typing": "Static, dynamic, weak",
+  "implementations": "Clang, GCC",
+  "dialects": "| influenced by = C, Smalltalk, Common Lisp",
+  "influenced": "Groovy, Java, Nu, Objective-J, TOM, Swift",
+  "programming language": "| platform =",
+  "operating system": "Cross-platform",
+  "license": "| website = [https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html developer.apple.com]",
+  "wikibooks": "Objective-C Programming"
+ },
+ "url": "https://en.wikipedia.org/wiki/Objective-C",
+ "fetched": "2026-10-18"
+}
