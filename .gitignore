@@ -12,3 +12,6 @@ worker/public/
 worker/build/
 worker/.wrangler/
 worker/.dev.vars
+
+.vercel
+.env*

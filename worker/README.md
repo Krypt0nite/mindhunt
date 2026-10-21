@@ -1,8 +1,11 @@
 # MindHunt on Cloudflare (free plan)
 
-Live: https://mindhunt.combio-worker.workers.dev
+Live: https://mindhunt-seven.vercel.app (web client on Vercel) and
+https://mindhunt.combio-worker.workers.dev (the same game served entirely by Cloudflare).
 
-Everything runs on one Cloudflare Worker, with no credit card and no server to keep running:
+Everything runs on one Cloudflare Worker, with no credit card and no server to keep running.
+The Vercel site is the same web client built with `NEXT_PUBLIC_API_BASE` pointing at the Worker
+(see [Vercel](#vercel-web-client) below):
 
 ```
 browser ──► Worker "mindhunt"
@@ -59,6 +62,20 @@ two secrets (Settings → Secrets and variables → Actions):
 - `CLOUDFLARE_ACCOUNT_ID`: shown by `npx wrangler whoami`.
 
 Without them the workflow only runs the tests.
+
+## Vercel (web client)
+
+`vercel.json` and `.vercelignore` at the repository root build only `web/` and proxy `/assets/`
+images to the Worker. The Vercel project `mindhunt` has `NEXT_PUBLIC_API_BASE=https://mindhunt.combio-worker.workers.dev`
+(Production and Preview), and the Worker allows the site in `ALLOWED_ORIGINS`, with `PUBLIC_URL`
+for invite links (`wrangler.jsonc`).
+
+- Manual deploy: `npx vercel deploy --prod` from the repository root.
+- Auto-deploy on push: vercel.com → project mindhunt → Settings → Git → Connect
+  `Krypt0nite/mindhunt` (install the Vercel GitHub app for that account when asked).
+- A new Vercel domain (e.g. a custom alias) must be added to `ALLOWED_ORIGINS` and the Worker
+  redeployed, or the browser can't reach the API from it.
+- Check: `node smoke.mjs https://mindhunt.combio-worker.workers.dev --origin https://mindhunt-seven.vercel.app`
 
 ## Things to know
 

@@ -4,7 +4,7 @@ A two-player deduction game. Each player secretly picks a candidate from a topic
 
 The working title comes from `APP_NAME`; change it there.
 
-**Play:** https://mindhunt.combio-worker.workers.dev. It runs free on Cloudflare: one Worker serves the web client, and a Durable Object runs this Go server compiled to WebAssembly. See [worker/README.md](worker/README.md) to deploy it.
+**Play:** https://mindhunt-seven.vercel.app (also https://mindhunt.combio-worker.workers.dev). It runs free: Vercel hosts the web client, and a Cloudflare Durable Object runs this Go server compiled to WebAssembly. See [worker/README.md](worker/README.md) to deploy it.
 
 ## Run it
 

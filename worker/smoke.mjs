@@ -3,8 +3,12 @@
 // round over WebSockets, close codes, a practice round against the bot, and
 // the daily challenge.
 //
-// Usage: node smoke.mjs [base URL]   (default http://127.0.0.1:8787)
-const base = (process.argv[2] || "http://127.0.0.1:8787").replace(/\/$/, "");
+// Usage: node smoke.mjs [base URL] [--origin https://site]   (default http://127.0.0.1:8787)
+// --origin sends that Origin, like a browser on a client hosted elsewhere (Vercel).
+const args = process.argv.slice(2);
+const oi = args.indexOf("--origin");
+const origin = oi >= 0 ? args.splice(oi, 2)[1] : "";
+const base = (args[0] || "http://127.0.0.1:8787").replace(/\/$/, "");
 
 function check(ok, what) {
   if (!ok) throw new Error("FAILED: " + what);
@@ -15,6 +19,7 @@ async function api(method, path, token, body) {
   const headers = {};
   if (body !== undefined) headers["Content-Type"] = "application/json";
   if (token) headers.Authorization = "Bearer " + token;
+  if (origin) headers.Origin = origin;
   const res = await fetch(base + path, { method, headers, body: body === undefined ? undefined : JSON.stringify(body) });
   const data = await res.json().catch(() => ({}));
   return { status: res.status, data };
@@ -22,7 +27,7 @@ async function api(method, path, token, body) {
 
 function dial(code, token) {
   const url = base.replace(/^http/, "ws") + "/ws?" + new URLSearchParams({ room: code, token });
-  const ws = new WebSocket(url);
+  const ws = new WebSocket(url, origin ? { headers: { Origin: origin } } : undefined);
   const c = { ws, cseq: 0, queue: [], waiters: [], closeCode: null, closed: null };
   c.closed = new Promise((resolve) => ws.addEventListener("close", (e) => resolve((c.closeCode = e.code))));
   ws.addEventListener("message", (e) => {

@@ -21,6 +21,9 @@
   // Same variables as the Go server (README "Configuration"). Secrets such as
   // DAILY_KEY and ADMIN_TOKEN are set with `npx wrangler secret put NAME`.
   "vars": {
-    "APP_NAME": "MindHunt"
+    "APP_NAME": "MindHunt",
+    // The web client is also on Vercel; it calls this Worker cross-origin.
+    "ALLOWED_ORIGINS": "mindhunt-seven.vercel.app",
+    "PUBLIC_URL": "https://mindhunt-seven.vercel.app"
   }
 }

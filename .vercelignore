@@ -1,0 +1,9 @@
+# Vercel only builds web/; the game server runs on Cloudflare (worker/).
+data/
+tools/
+server/
+worker/
+assets/
+web/node_modules/
+web/out/
+web/.next/

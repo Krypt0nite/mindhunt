@@ -17,12 +17,45 @@ import shippedAssets from "../build/assets.json";
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
-    if (url.pathname.startsWith("/api/") || url.pathname === "/ws") {
-      return env.HUB.get(env.HUB.idFromName("hub")).fetch(request);
+    if (url.pathname === "/ws") return env.HUB.get(env.HUB.idFromName("hub")).fetch(request);
+    if (!url.pathname.startsWith("/api/")) return env.ASSETS.fetch(request);
+
+    // The client may also be hosted elsewhere (Vercel); ALLOWED_ORIGINS lists
+    // those hosts, which may call the API cross-origin.
+    const origin = request.headers.get("Origin");
+    const cors = origin && originAllowed(origin, url, env);
+    if (request.method === "OPTIONS") {
+      if (!cors) return new Response(null, { status: 403 });
+      return new Response(null, { status: 204, headers: corsHeaders(origin, true) });
     }
-    return env.ASSETS.fetch(request);
+    const res = await env.HUB.get(env.HUB.idFromName("hub")).fetch(request);
+    if (!cors) return res;
+    const out = new Response(res.body, res);
+    for (const [k, v] of Object.entries(corsHeaders(origin, false))) out.headers.set(k, v);
+    return out;
   },
 };
+
+function originAllowed(origin, url, env) {
+  let host;
+  try {
+    host = new URL(origin).host;
+  } catch {
+    return false;
+  }
+  if (host === url.host) return true;
+  return (env.ALLOWED_ORIGINS || "").split(",").map((s) => s.trim()).filter(Boolean).includes(host);
+}
+
+function corsHeaders(origin, preflight) {
+  const h = { "Access-Control-Allow-Origin": origin, Vary: "Origin" };
+  if (preflight) {
+    h["Access-Control-Allow-Methods"] = "GET, POST, PUT, PATCH, DELETE, OPTIONS";
+    h["Access-Control-Allow-Headers"] = "Authorization, Content-Type, X-Admin-Token";
+    h["Access-Control-Max-Age"] = "86400";
+  }
+  return h;
+}
 
 const PING = JSON.stringify({ type: "ping", seq: 0 }); // seq 0: the client ignores it
 const NULL_BODY = new Set([101, 204, 205, 304]);
@@ -103,24 +136,12 @@ export class Hub extends DurableObject {
     return new Response(NULL_BODY.has(res.status) ? null : res.body, { status: res.status, headers: out });
   }
 
-  originAllowed(origin, url) {
-    let host;
-    try {
-      host = new URL(origin).host;
-    } catch {
-      return false;
-    }
-    if (host === url.host) return true;
-    const extra = (this.env.ALLOWED_ORIGINS || "").split(",").map((s) => s.trim()).filter(Boolean);
-    return extra.includes(host);
-  }
-
   socket(request, url, api) {
     if (request.headers.get("Upgrade")?.toLowerCase() !== "websocket") {
       return jsonError(426, "upgrade_required", "expected a WebSocket");
     }
     const origin = request.headers.get("Origin");
-    if (origin && !this.originAllowed(origin, url)) return jsonError(403, "forbidden", "origin not allowed");
+    if (origin && !originAllowed(origin, url, this.env)) return jsonError(403, "forbidden", "origin not allowed");
 
     const [client, server] = Object.values(new WebSocketPair());
     server.accept();
